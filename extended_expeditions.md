@@ -7,19 +7,27 @@
 
 <details>
   <summary>Uncommon/Common</summary>
-- Test1
+
+* Test1
+
 </details>
 <details>
   <summary>Rare</summary>
-- Test1
+
+* Test1
+
 </details>
 <details>
   <summary>Epic</summary>
-- Test1
+
+* Test1
+
 </details>
 <details>
     <summary>Legandary</summary>
-- Test1
+
+* Test1
+
 </details>
 
 </details>
