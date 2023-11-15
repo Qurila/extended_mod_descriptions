@@ -3,23 +3,23 @@
 ## Archeological Items
 
 <details>
-      <summary>Old World Items</summary>
+  <summary>Old World Items</summary>
 
 </details>
 <details>
-      <summary>New World Items</summary>
+  <summary>New World Items</summary>
 
 </details>
 <details>
-      <summary>Enbesa Items</summary>
+  <summary>Enbesa Items</summary>
 
 </details>
 <details>
-      <summary>Arctic Items</summary>
+    <summary>Arctic Items</summary>
 
 </details>
 <details>
-      <summary>Asia Items</summary>
+    <summary>Asia Items</summary>
 
 </details>
 
