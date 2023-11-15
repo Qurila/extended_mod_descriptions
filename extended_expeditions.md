@@ -5,11 +5,11 @@
 
 - Test1
 
-  <details>
-      <summary>Old World Items</summary>
+<details>
+  <summary>Old World Items</summary>
 
-  - Test1
+- Test1
 
-  </details>
+</details>
 
 </details>
