@@ -1,13 +1,13 @@
 # extended_expeditions
 
 <details>
-    <summary>Archeological Items</summary>
+  <summary>Archeological Items</summary>
 
-  <details>
+    <details>
       <summary>Old World Items</summary>
 
 - Test1
 
-  </details>
+    </details>
 
 </details>
