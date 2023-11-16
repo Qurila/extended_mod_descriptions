@@ -5,7 +5,7 @@
 <details>
   <summary>Enbesa</summary>
 
-- Common/Uncommon
+- <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Archeological Research Report from Enbesa: Uncommon Artefacts"
 
   - <img src="./doc/archeological/icon_ring.png" width="20" /> Bovine Ivory Ring
   - <img src="./doc/archeological/icon_necklace.png" width="20" /> Arabesque Trinkets
@@ -13,7 +13,7 @@
   - <img src="./doc/archeological/icon_figure.png" width="20" /> Animal Figure
   - <img src="./doc/archeological/icon_book.png" width="20" /> Glory of Kings
 
-- Rare
+- <img src="./doc/archeological/icon_mercier_manifesto_archeological.png" width="20" /> "Archeological Research Report from Enbesa: Rare Artefacts"
 
   - <img src="./doc/archeological/icon_lion.png" width="20" /> Lion of Selamawi
   - <img src="./doc/archeological/icon_phemba.png" width="20" /> Mother and Child Figure
@@ -27,7 +27,7 @@
 <details>
     <summary>Arctic</summary>
 
-- Rare
+- <img src="./doc/archeological/icon_mercier_manifesto_archeological.png" width="20" /> "Archeological Research Report of the Arctic: Rare Artefacts"
 
   - <img src="./doc/archeological/icon_security.png" width="20" /> Collection Of Lost Expedition Relics
   - <img src="./doc/archeological/icon_scroll.png" width="20" /> Heimskringla
@@ -42,14 +42,14 @@
 <details>
   <summary>Enbesa (Only with the mod "Fams Enbesan Flora")</summary>
 
-- Common/Uncommon
+- <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report from Enbesa: Uncommon Plants"
 
   - <img src="./doc/botanical/icon_wanzaberries.png" width="20" /> Old Wanza Tree
   - <img src="./doc/botanical/icon_frankincense.png" width="20" /> Frankincense
   - <img src="./doc/botanical/icon_gazania.png" width="20" /> Gazania
   - <img src="./doc/botanical/icon_periwinkle.png" width="20" /> Cape Periwinkle
 
-- Rare
+- <img src="./doc/botanical/icon_mercier_manifesto_botanical.png" width="20" /> "Botanical Research Report from Enbesa: Rare Plants"
 
   - <img src="./doc/botanical/icon_lionsear.png" width="20" /> Lion's Ear
   - <img src="./doc/botanical/icon_aloe.png" width="20" /> Aloe
@@ -63,7 +63,7 @@
 <details>
   <summary>New World</summary>
 
-- Common/Uncommon
+- <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report of the New World: Uncommon Plants"
 
   - <img src="./doc/botanical/icon_coco_tree.png" width="20" /> Coconut Palm
   - <img src="./doc/botanical/icon_hevea.png" width="20" /> Hevea Tree
@@ -72,7 +72,7 @@
   - <img src="./doc/botanical/item_pillar_coral.png" width="20" /> Pillar Coral
   - <img src="./doc/botanical/icon_staghorn_coral.png" width="20" /> Staghorn Coral
 
-- Rare
+- <img src="./doc/botanical/icon_mercier_manifesto_botanical.png" width="20" /> "Botanical Research Report of the New World: Rare Plants"
 
   - <img src="./doc/botanical/icon_great_star_coral.png" width="20" /> Great Star Coral
   - <img src="./doc/botanical/icon_star_bright_lotus.png" width="20" /> Yellow Lotus
@@ -89,7 +89,7 @@
 <details>
   <summary>Old World</summary>
 
-- Common/Uncommon
+- <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report of the Old World: Uncommon Plants"
 
   - <img src="./doc/botanical/icon_reeds.png" width="20" /> Common Reed
   - <img src="./doc/botanical/icon_rocky_mountain_fir.png" width="20" /> Subalpine Fir
@@ -107,7 +107,7 @@
 <details>
   <summary>Asia</summary>
 
-- Common/Uncommon
+- <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report from Asia: Uncommon Plants"
 
   - <img src="./doc/botanical/icon_vines.png" width="20" /> Morning Glory
   - <img src="./doc/botanical/icon_cherry_blossom.png" width="20" /> Oriental Cherry
@@ -125,7 +125,7 @@
 <details>
   <summary>Enbesa</summary>
 
-- Common/Uncommon
+- <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Trip to Enbesa: Uncommon Animals"
 
   - <img src="./doc/zoological/icon_dromedary.png" width="20" /> Dromedary
   - <img src="./doc/zoological/icon_enbesan_wolf.png" width="20" /> Enbesan Wolf
@@ -136,7 +136,7 @@
   - <img src="./doc/zoological/icon_ostrich.png" width="20" /> Ostrich
   - <img src="./doc/zoological/icon_flamingo.png" width="20" /> Flamingo
 
-- Rare
+- <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report from Enbesa: Rare Animals"
 
   - <img src="./doc/zoological/icon_grey_crowned_crane.png" width="20" /> Grey Crowned Crane
   - <img src="./doc/zoological/icon_mountain_nyala.png" width="20" /> Mountain Nyala
@@ -155,7 +155,7 @@
 <details>
   <summary>New World</summary>
 
-- Common/Uncommon
+- <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report of the New World: Uncommon Animals"
 
   - <img src="./doc/zoological/icon_mantaray.png" width="20" /> Manta Ray
   - <img src="./doc/zoological/icon_lionfish.png" width="20" /> Lionfish
@@ -164,7 +164,7 @@
   - <img src="./doc/zoological/icon_alpacca.png" width="20" /> Alpaca
   - <img src="./doc/zoological/icon_vulture_ver2.png" width="20" /> Condor
 
-- Rare
+- <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report of the New World: Rare Animals"
 
   - <img src="./doc/zoological/icon_dolphin.png" width="20" /> Bottlenose Dolphin
   - <img src="./doc/zoological/icon_balloonfish.png" width="20" /> Balloon Fish
@@ -179,7 +179,7 @@
 <details>
   <summary>Old World</summary>
 
-- Common/Uncommon
+- <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report of the Old World: Uncommon Animals"
 
   - <img src="./doc/zoological/icon_pigs.png" width="20" /> Domestic Pig
   - <img src="./doc/zoological/icon_chicken.png" width="20" /> Chicken
@@ -190,7 +190,7 @@
   - <img src="./doc/zoological/icon_brown_bear.png" width="20" /> Brown Bear
   - <img src="./doc/zoological/icon_black_bear.png" width="20" /> Black Bear
 
-- Rare
+- <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report of the Old World: Rare Animals"
 
   - <img src="./doc/zoological/icon_blob_fish.png" width="20" /> Blobfish
   - <img src="./doc/zoological/icon_helmet_jellyfish.png" width="20" /> Helmet Jellyfish
@@ -203,7 +203,7 @@
 <details>
     <summary>Arctic</summary>
 
-- Rare
+- <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report of the Arctic: Rare Animals"
 
   - <img src="./doc/zoological/icon_arctic_wolf.png" width="20" /> Arctic Wolf
   - <img src="./doc/zoological/icon_musk_oxen.png" width="20" /> Musk Ox
@@ -214,14 +214,14 @@
 <details>
   <summary>Asia</summary>
 
-- Common/Uncommon
+- <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report from Asia: Uncommon Animals"
 
   - <img src="./doc/zoological/icon_chital.png" width="20" /> Chital
   - <img src="./doc/zoological/icon_crocodile.png" width="20" /> Crocodile
   - <img src="./doc/zoological/icon_peacock.png" width="20" /> Peacock
   - <img src="./doc/zoological/icon_waterbuffalo.png" width="20" /> Eastern Water Buffalo
 
-- Rare
+- <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report from Asia: Rare Animals"
 
   - <img src="./doc/zoological/icon_tiger.png" width="20" /> Tiger
   - <img src="./doc/zoological/icon_glowfish_01.png" width="20" /> Deep-Sea Dragonfish
