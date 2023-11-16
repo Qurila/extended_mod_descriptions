@@ -6,9 +6,9 @@
   <summary><img src="./doc/expeditions/icon_session_moderate.png" width="20" /><img src="./doc/expeditions/icon_session_sunken_treasure.png" width="20" /> Trade Union</summary>
 
 - <details>
-  <summary><img src="./doc/expeditions/icon_session_moderate.png" width="20" /><img src="./doc/expeditions/icon_session_sunken_treasure.png" width="20" /> Forestry</summary>
+  <summary> Forestry</summary>
 
-- <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Forestry"
+  - <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Forestry"
 
   - <img src="./doc/archeological/icon_ring.png" width="20" /> Bovine Ivory Ring
   - <img src="./doc/archeological/icon_necklace.png" width="20" /> Arabesque Trinkets
