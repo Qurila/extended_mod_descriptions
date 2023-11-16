@@ -19,17 +19,16 @@
     - <img src="./doc/job_adertisements/forestry/icon_worker_413.png" width="20" /> Joiner
     - <img src="./doc/job_adertisements/forestry/icon_worker_404.png" width="20" /> Kilnkeeper
     - <img src="./doc/job_adertisements/forestry/icon_worker_208.png" width="20" /> Iron Founder
-     __________
-
+     _
     - <img src="./doc/job_adertisements/forestry/icon_explorer_716.png" width="20" /> Park Ranger
     - <img src="./doc/job_adertisements/forestry/icon_hunter_native.png" width="20" /> Expert Hunter
-     __________
+     _
 
   - <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Epic/Legendary"
 
     - <img src="./doc/job_adertisements/forestry/icon_forester_401.png" width="20" /> Miss Rodriguez
     - <img src="./doc/job_adertisements/forestry/icon_hunter_common.png" width="20" /> Wild Frontiersman Steen
-     __________
+     _
     - <img src="./doc/job_adertisements/forestry/icon_hunter_300.png" width="20" /> Ursula Green
 
 </details>
