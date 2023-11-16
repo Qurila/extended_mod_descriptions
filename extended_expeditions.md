@@ -37,7 +37,7 @@
 
 </details>
 
-## <img src="./doc/botanical/icon_botanic_garden.png" width="20" /> Botanical Item Pools
+## <img src="./doc/botanical/icon_botanic_garden.png" width="30" /> Botanical Item Pools
 
 <details>
   <summary>Enbesa (Only with the mod "Fams Enbesan Flora")</summary>
