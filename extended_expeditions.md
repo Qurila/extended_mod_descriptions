@@ -7,8 +7,8 @@
 
 - Uncommon/Common
 
-  - <img src="./doc/archeological/icon_ring.png" width="20" /> Bovine Ivory Ring
-  - <img src="./doc/archeological/icon_necklace.png" width="20" /> Arabesque Trinkets
+  - <img src="./doc/archeological/icon_ring.png" width="20" /> <font color = white>Bovine Ivory Ring</font
+  - <img src="./doc/archeological/icon_necklace.png" width="20" /> <font color = green>Arabesque Trinkets</font
   - <img src="./doc/archeological/icon_mask.png" width="20" /> Painted Mask
   - <img src="./doc/archeological/icon_figure.png" width="20" /> Animal Figure
   - <img src="./doc/archeological/icon_book.png" width="20" /> Glory of Kings
@@ -40,7 +40,7 @@
 ## Botanical Item Pools
 
 <details>
-  <summary>Enbesa</summary>
+  <summary>Enbesa (Only with the mod "Fams Enbesan Flora")</summary>
 
 - Uncommon/Common
 
