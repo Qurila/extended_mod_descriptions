@@ -29,7 +29,7 @@
 
 - Rare
 
-  - <img src="./doc/archeological/icon_security.png" width="20" /> Collection Of Lost Expedition Relics
+  - <img src="./doc/archeological/icon_security.png" width="20" /> 🟦 Collection Of Lost Expedition Relics
   - <img src="./doc/archeological/icon_scroll.png" width="20" /> Heimskringla
   - <img src="./doc/archeological/icon_model_1.png" width="20" /> Inunnguaq Inuksuk
   - <img src="./doc/archeological/icon_model_2.png" width="20" /> Pirujaqarvik Inuksuk
