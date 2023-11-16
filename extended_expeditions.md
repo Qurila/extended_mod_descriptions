@@ -25,7 +25,7 @@
 
 </details>
 <details>
-    <img src="./doc/expeditions/icon_session_passage.png" width="20" /> Arctic</summary>
+    <summary><img src="./doc/expeditions/icon_session_passage.png" width="20" /> Arctic</summary>
 
 - <img src="./doc/archeological/icon_mercier_manifesto_archeological.png" width="20" /> "Archeological Research Report of the Arctic: Rare Artefacts"
 
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <img src="./doc/expeditions/icon_session_southamerica.png" width="20" /> New World</summary>
+  <summary><img src="./doc/expeditions/icon_session_southamerica.png" width="20" /> New World</summary>
 
 - <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report of the New World: Uncommon Plants"
 
@@ -105,7 +105,7 @@
 </details>
 
 <details>
-  <img src="./doc/expeditions/icon_session_asia.png" width="20" /> Asia</summary>
+  <summary><img src="./doc/expeditions/icon_session_asia.png" width="20" /> Asia</summary>
 
 - <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report from Asia: Uncommon Plants"
 
@@ -153,7 +153,7 @@
 </details>
 
 <details>
-  <img src="./doc/expeditions/icon_session_southamerica.png" width="20" /> New World</summary>
+  <summary><img src="./doc/expeditions/icon_session_southamerica.png" width="20" /> New World</summary>
 
 - <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report of the New World: Uncommon Animals"
 
@@ -201,7 +201,7 @@
 </details>
 
 <details>
-    <img src="./doc/expeditions/icon_session_passage.png" width="20" /> Arctic</summary>
+    <summary><img src="./doc/expeditions/icon_session_passage.png" width="20" /> Arctic</summary>
 
 - <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report of the Arctic: Rare Animals"
 
@@ -212,7 +212,7 @@
 </details>
 
 <details>
-  <img src="./doc/expeditions/icon_session_asia.png" width="20" /> Asia</summary>
+  <summary><img src="./doc/expeditions/icon_session_asia.png" width="20" /> Asia</summary>
 
 - <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report from Asia: Uncommon Animals"
 
