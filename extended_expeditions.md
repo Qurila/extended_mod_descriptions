@@ -1,9 +1,9 @@
 # Extended Expeditions
 
-## Archeological Item Pools
+## <img src="./doc/archeological/icon_museum.png" width="30" /> Archeological Items
 
 <details>
-  <summary>Enbesa</summary>
+  <summary><img src="./doc/expeditions/icon_session_landoflions.png" width="20" /> Enbesa</summary>
 
 - <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Archeological Research Report from Enbesa: Uncommon Artefacts"
 
@@ -25,7 +25,7 @@
 
 </details>
 <details>
-    <summary>Arctic</summary>
+    <img src="./doc/expeditions/icon_session_passage.png" width="20" /> Arctic</summary>
 
 - <img src="./doc/archeological/icon_mercier_manifesto_archeological.png" width="20" /> "Archeological Research Report of the Arctic: Rare Artefacts"
 
@@ -37,10 +37,10 @@
 
 </details>
 
-## <img src="./doc/botanical/icon_botanic_garden.png" width="30" /> Botanical Item Pools
+## <img src="./doc/botanical/icon_botanic_garden.png" width="30" /> Botanical Items
 
 <details>
-  <summary>Enbesa (Only with the mod "Fams Enbesan Flora")</summary>
+  <summary><img src="./doc/expeditions/icon_session_landoflions.png" width="20" /> Enbesa (Only with the mod "Fams Enbesan Flora")</summary>
 
 - <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report from Enbesa: Uncommon Plants"
 
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary>New World</summary>
+  <img src="./doc/expeditions/icon_session_southamerica.png" width="20" /> New World</summary>
 
 - <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report of the New World: Uncommon Plants"
 
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-  <summary>Old World</summary>
+  <summary><img src="./doc/expeditions/icon_session_moderate.png" width="20" /> Old World <img src="./doc/expeditions/icon_session_sunken_treasure.png" width="20" /></summary>
 
 - <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report of the Old World: Uncommon Plants"
 
@@ -105,7 +105,7 @@
 </details>
 
 <details>
-  <summary>Asia</summary>
+  <img src="./doc/expeditions/icon_session_asia.png" width="20" /> Asia</summary>
 
 - <img src="./doc/botanical/icon_journal_botanical.png" width="20" /> "Botanical Research Report from Asia: Uncommon Plants"
 
@@ -120,10 +120,10 @@
 
 </details>
 
-## Zoological Item Pools
+## <img src="./doc/zoological/icon_zoo.png" width="30" /> Zoological Items
 
 <details>
-  <summary>Enbesa</summary>
+  <summary><img src="./doc/expeditions/icon_session_landoflions.png" width="20" /> Enbesa</summary>
 
 - <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Trip to Enbesa: Uncommon Animals"
 
@@ -153,7 +153,7 @@
 </details>
 
 <details>
-  <summary>New World</summary>
+  <img src="./doc/expeditions/icon_session_southamerica.png" width="20" /> New World</summary>
 
 - <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report of the New World: Uncommon Animals"
 
@@ -201,7 +201,7 @@
 </details>
 
 <details>
-    <summary>Arctic</summary>
+    <img src="./doc/expeditions/icon_session_passage.png" width="20" /> Arctic</summary>
 
 - <img src="./doc/zoological/icon_mercier_manifesto_zoological.png" width="20" /> "Zoological Research Report of the Arctic: Rare Animals"
 
@@ -212,7 +212,7 @@
 </details>
 
 <details>
-  <summary>Asia</summary>
+  <img src="./doc/expeditions/icon_session_asia.png" width="20" /> Asia</summary>
 
 - <img src="./doc/zoological/icon_journal_zoological.png" width="20" /> "Zoological Research Report from Asia: Uncommon Animals"
 
