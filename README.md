@@ -1,3 +1,3 @@
 # Overview
 
-Descriptions of the changes to the "Item Overhaul" mod
+Detailed descriptions of published mods
