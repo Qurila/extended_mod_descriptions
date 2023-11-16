@@ -25,14 +25,14 @@
 
 </details>
 <details>
-  <summary>New World</summary>
-
-</details>
-<details>
     <summary>Arctic</summary>
 
-</details>
-<details>
-    <summary>Asia</summary>
+- Rare
+
+  - <img src="./doc/icon_cattle_16.png" width="20" /> Collection Of Lost Expedition Relics
+  - <img src="./doc/icon_cattle_16.png" width="20" /> Heimskringla
+  - <img src="./doc/icon_cattle_16.png" width="20" /> Inunnguaq Inuksuk
+  - <img src="./doc/icon_cattle_16.png" width="20" /> Pirujaqarvik Inuksuk
+  - <img src="./doc/icon_cattle_16.png" width="20" /> Toy Qamutiik
 
 </details>
