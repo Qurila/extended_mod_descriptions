@@ -7,7 +7,7 @@
 
 - Uncommon/Common
 
-  - <img src="./doc/archeological/icon_ring.png" width="20" /> $${\color{red}Bovine Ivory Ring}$$
+  - <img src="./doc/archeological/icon_ring.png" width="20" /> Bovine Ivory Ring
   - <img src="./doc/archeological/icon_necklace.png" width="20" /> Arabesque Trinkets
   - <img src="./doc/archeological/icon_mask.png" width="20" /> Painted Mask
   - <img src="./doc/archeological/icon_figure.png" width="20" /> Animal Figure
