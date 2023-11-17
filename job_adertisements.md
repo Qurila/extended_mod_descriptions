@@ -3,10 +3,10 @@
 ## <img src="./doc/job_adertisements/icon_session_moderate.png" width="30" /><img src="./doc/job_adertisements/icon_session_sunken_treasure.png" width="30" /> Old World Items
 
 <details>
-  <summary> Trade Union</summary>
+  <summary><img src="./doc/job_adertisements/icon_building_trade_union.png" width="20" /> Trade Union</summary>
 
 - <details>
-  <summary><img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> Forestry <img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /></summary>
+  <summary><img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /><img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /> Forestry</summary>
 
   - <img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> "Common/Uncommon/Rare"
 
