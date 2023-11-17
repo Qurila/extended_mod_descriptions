@@ -428,7 +428,7 @@
       </details>
 
     - <details><!-- Epic -->
-      <summary><img src="./doc/job_adertisements/residence/icon_residence_3.png" width="20" /> Epic</summary>
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_4.png" width="20" /> Epic</summary>
 
       - <img src="./doc/job_adertisements/residence/icon_normal_dressed_203.png" width="20" /> Mr. Garrick, Founder of the Entrepreneur Gentlemen's Club
       - <img src="./doc/job_adertisements/residence/icon_anarchist_krapotkin.png" width="20" /> Krapotkin, Evolutionist of Kindness
@@ -453,34 +453,153 @@
       </details>
 
     - <details><!-- Legendary -->
-      <summary><img src="./doc/job_adertisements/residence/icon_residence_3.png" width="20" /> Legendary</summary>
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_5.png" width="20" /> Legendary</summary>
 
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Eduardo Bernal, the Father of Public Relations
-      - <img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" width="20" /> Eduardo Bernal, the Father of Public Relations
+      - <img src="./doc/job_adertisements/residence/icon_anarchist_proud.png" width="20" /> Pietro Jonah Proud, The Philosopher of the Public Good
+      - <img src="./doc/job_adertisements/residence/icon_herder_3a.png" width="20" /> Kaldi, Infuser Of Teas
+      - <img src="./doc/job_adertisements/residence/icon_dean_2.png" width="20" /> Dean the Dean of Deansville University
+      - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_4.png" width="20" /> Mr. Bertram, Hotel Manager
+      - <img src="./doc/job_adertisements/residence/icon_police_officer_angel.png" width="20" /> Sgt. Nicolas Gabriel, the Over-Achiever
+      - <img src="./doc/job_adertisements/residence/icon_fireman_105.png" width="20" /> Chief George Doughty, Smouldering Hero
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_201.png" width="20" /> Franck von Lewenstein, Warmest of Hosts
+      - <img src="./doc/job_adertisements/residence/icon_priest_epic.png" width="20" /> Pope Lucius I, "The Rejuvenator"
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_109.png" width="20" /> Louis P. Hecate, Arm-Puncturing Pioneer
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_103.png" width="20" /> Joseph Beaumont, Historic Society Founder
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_110.png" width="20" /> Jakob Sokow, The Charitable Banker
+      - <img src="./doc/job_adertisements/residence/icon_priest_legendary.png" width="20" /> Saint D'Artois, Vision of the Valley
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_405.png" width="20" /> Prof. Iwa Ebashi, Pioneer of the Radioactive
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_402.png" width="20" /> Aristelia Bataille, of the "Novelty Store"
 
       </details>
+
+    </details>
+
+  - <details><!-- Puplic Services -->
+    <summary><img src="./doc/job_adertisements/puplic/icon_institutions_blank.png" width="20" /> Puplic Services</summary>
+
+    - <img src="./doc/job_adertisements/puplic/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/puplic/icon_priest_201.png" width="20" /> Abbé
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/puplic/icon_priest_517.png" width="20" /> Priest
+        - <img src="./doc/job_adertisements/puplic/icon_grocer724.png" width="20" /> Peddler
+        - <img src="./doc/job_adertisements/puplic/icon_bartender_323.png" width="20" /> Publican
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_native.png" width="20" /> House Doctor
+        - <img src="./doc/job_adertisements/puplic/icon_entertainer_401.png" width="20" /> Comedian
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer.png" width="20" /> Inspector
+
+      - Rare
+        - <img src="./doc/job_adertisements/puplic/icon_telecommunications_expert_3.png" width="20" /> Tuned-in Radio Operator
+        - <img src="./doc/job_adertisements/puplic/icon_priest_401.png" width="20" /> Beatific Bishopess
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_common.png" width="20" /> Punctilious Physician
+        - <img src="./doc/job_adertisements/puplic/icon_normaldress_811.png" width="20" /> Sales Clerk
+        - <img src="./doc/job_adertisements/puplic/icon_fireman_102.png" width="20" /> Veteran Firefighter
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer_101_b.png" width="20" /> Superintendent
+        - <img src="./doc/job_adertisements/puplic/icon_normal_dressed_204.png" width="20" /> Steward
+
+    - <img src="./doc/job_adertisements/puplic/icon_institutions_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/puplic/icon_fireman_104.png" width="20" /> Fire Chief Mills
+        - <img src="./doc/job_adertisements/puplic/icon_normal_dressed_205.png" width="20" /> Professor Razzaq
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_717.png" width="20" /> Dr. Salvador
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer_202.png" width="20" /> Chief Superintendent Clifford
+        - <img src="./doc/job_adertisements/puplic/icon_normal_dressed_102.png" width="20" /> Eduardo the Expert Broker
+        - <img src="./doc/job_adertisements/puplic/icon_firebrigade_401.png" width="20" /> Enbesan Fire Tamer
+      - Legendary
+        - <img src="./doc/job_adertisements/puplic/icon_well_dressed_602.png" width="20" /> Sarah Bartok, The Golden
+        - <img src="./doc/job_adertisements/puplic/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher
+        - <img src="./doc/job_adertisements/puplic/icon_hunter_401.png" width="20" /> Constable Chaos
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
+
+    </details>
+
+</details>
+
+- <details><!-- Harbourmaster Office -->
+  <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Harbourmaster Office</summary>
+
+  - <details><!-- Harbor Work -->
+    <summary><img src="./doc/job_adertisements/harbor/icon_harbor_blank.png" width="20" /> Harbor Work</summary>
+
+    - <img src="./doc/job_adertisements/harbor/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/harbor/icon_priest_201.png" width="20" /> Abbé
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/harbor/icon_priest_517.png" width="20" /> Priest
+        - <img src="./doc/job_adertisements/harbor/icon_grocer724.png" width="20" /> Peddler
+        - <img src="./doc/job_adertisements/harbor/icon_bartender_323.png" width="20" /> Publican
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_native.png" width="20" /> House Doctor
+        - <img src="./doc/job_adertisements/harbor/icon_entertainer_401.png" width="20" /> Comedian
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer.png" width="20" /> Inspector
+
+      - Rare
+        - <img src="./doc/job_adertisements/harbor/icon_telecommunications_expert_3.png" width="20" /> Tuned-in Radio Operator
+        - <img src="./doc/job_adertisements/harbor/icon_priest_401.png" width="20" /> Beatific Bishopess
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_common.png" width="20" /> Punctilious Physician
+        - <img src="./doc/job_adertisements/harbor/icon_normaldress_811.png" width="20" /> Sales Clerk
+        - <img src="./doc/job_adertisements/harbor/icon_fireman_102.png" width="20" /> Veteran Firefighter
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer_101_b.png" width="20" /> Superintendent
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_204.png" width="20" /> Steward
+
+    - <img src="./doc/job_adertisements/harbor/icon_harbor_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/harbor/icon_fireman_104.png" width="20" /> Fire Chief Mills
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_205.png" width="20" /> Professor Razzaq
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_717.png" width="20" /> Dr. Salvador
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer_202.png" width="20" /> Chief Superintendent Clifford
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_102.png" width="20" /> Eduardo the Expert Broker
+        - <img src="./doc/job_adertisements/harbor/icon_firebrigade_401.png" width="20" /> Enbesan Fire Tamer
+      - Legendary
+        - <img src="./doc/job_adertisements/harbor/icon_well_dressed_602.png" width="20" /> Sarah Bartok, The Golden
+        - <img src="./doc/job_adertisements/harbor/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher
+        - <img src="./doc/job_adertisements/harbor/icon_hunter_401.png" width="20" /> Constable Chaos
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
+
+    </details>
+
+  - <details><!-- harbor Services -->
+    <summary><img src="./doc/job_adertisements/harbor/icon_institutions_blank.png" width="20" /> harbor Services</summary>
+
+    - <img src="./doc/job_adertisements/harbor/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/harbor/icon_priest_201.png" width="20" /> Abbé
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/harbor/icon_priest_517.png" width="20" /> Priest
+        - <img src="./doc/job_adertisements/harbor/icon_grocer724.png" width="20" /> Peddler
+        - <img src="./doc/job_adertisements/harbor/icon_bartender_323.png" width="20" /> Publican
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_native.png" width="20" /> House Doctor
+        - <img src="./doc/job_adertisements/harbor/icon_entertainer_401.png" width="20" /> Comedian
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer.png" width="20" /> Inspector
+
+      - Rare
+        - <img src="./doc/job_adertisements/harbor/icon_telecommunications_expert_3.png" width="20" /> Tuned-in Radio Operator
+        - <img src="./doc/job_adertisements/harbor/icon_priest_401.png" width="20" /> Beatific Bishopess
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_common.png" width="20" /> Punctilious Physician
+        - <img src="./doc/job_adertisements/harbor/icon_normaldress_811.png" width="20" /> Sales Clerk
+        - <img src="./doc/job_adertisements/harbor/icon_fireman_102.png" width="20" /> Veteran Firefighter
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer_101_b.png" width="20" /> Superintendent
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_204.png" width="20" /> Steward
+
+    - <img src="./doc/job_adertisements/harbor/icon_institutions_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/harbor/icon_fireman_104.png" width="20" /> Fire Chief Mills
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_205.png" width="20" /> Professor Razzaq
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_717.png" width="20" /> Dr. Salvador
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer_202.png" width="20" /> Chief Superintendent Clifford
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_102.png" width="20" /> Eduardo the Expert Broker
+        - <img src="./doc/job_adertisements/harbor/icon_firebrigade_401.png" width="20" /> Enbesan Fire Tamer
+      - Legendary
+        - <img src="./doc/job_adertisements/harbor/icon_well_dressed_602.png" width="20" /> Sarah Bartok, The Golden
+        - <img src="./doc/job_adertisements/harbor/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher
+        - <img src="./doc/job_adertisements/harbor/icon_hunter_401.png" width="20" /> Constable Chaos
+        - <img src="./doc/job_adertisements/harbor/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
+        - <img src="./doc/job_adertisements/harbor/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
 
     </details>
 
