@@ -62,4 +62,38 @@
 
   </details>
 
+- <details>
+  <summary>Food Industry</summary>
+
+  - <img src="./doc/job_adertisements/food/icon_food_1.png" width="20" /> "Common/Uncommon/Rare"
+    - Common
+      - <img src="./doc/job_adertisements/food/icon_baker_101.png" width="20" /> Baker
+      - <img src="./doc/job_adertisements/food/icon_worker_101.png" width="20" /> Butcher
+      - <img src="./doc/job_adertisements/food/icon_worker_417.png" width="20" /> Canner
+      - <img src="./doc/job_adertisements/food/icon_worker_329.png" width="20" /> Mixer
+    - Uncommon
+      - <img src="./doc/job_adertisements/food/icon_baker_202_b.png" width="20" /> Pastry Chef
+      - <img src="./doc/job_adertisements/food/icon_worker_103.png" width="20" /> Delicatesseur
+      - <img src="./doc/job_adertisements/food/icon_worker_402.png" width="20" /> Pantry Maid
+      - <img src="./doc/job_adertisements/food/icon_bartender_314.png" width="20" /> Potager
+    - Rare
+      - <img src="./doc/job_adertisements/food/icon_baker_101.png" width="20" /> Charcutier
+      - <img src="./doc/job_adertisements/food/icon_baker_401_b.png" width="20" />Fine Cake Decorator
+      - <img src="./doc/job_adertisements/food/icon_baker_401.png" width="20" /> Recipe Archivist
+      - <img src="./doc/job_adertisements/food/icon_baker_401_c.png" width="20" />Pantry Chef
+
+  - <img src="./doc/job_adertisements/food/icon_food_2.png" width="20" /> "Epic/Legendary"
+    - Epic
+      - <img src="./doc/job_adertisements/food/icon_baker_402.png" width="20" /> Chantelle the Charcutier
+      - <img src="./doc/job_adertisements/food/icon_normal_dressed_401.png" width="20" /> Tatiana the Taste-tester
+      - <img src="./doc/job_adertisements/food/icon_baker_201.png" width="20" /> Pâtissier Patrice
+      - <img src="./doc/job_adertisements/food/icon_baker_201.png" width="20" /> Chef Michel
+    - Legendary
+      - <img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Marie-Antoine, Pâtissier Royale
+      - <img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Maxime Graves, Delicatesseur Extraordinaire
+      - <img src="./doc/job_adertisements/food/icon_well_dressed_201.png" width="20" /> Marcel Forcas, Celebrity Chef
+      - <img src="./doc/job_adertisements/food/icon_well_dressed_401.png" width="20" /> Mrs. Mayson, The Very Good Housekeeper
+
+  </details>
+
 </details>
