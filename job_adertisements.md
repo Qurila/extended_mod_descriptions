@@ -2,10 +2,10 @@
 
 ## <img src="./doc/job_adertisements/icon_session_moderate.png" width="30" /><img src="./doc/job_adertisements/icon_session_sunken_treasure.png" width="30" /> Old World Items
 
-- <details>
+- <details><!-- Trade Union -->
   <summary><img src="./doc/job_adertisements/icon_building_trade_union.png" width="20" /> Trade Union</summary>
 
-  - <details>
+  - <details><!-- Forestry/Carpenter -->
     <summary>Forestry/Carpenter</summary>
 
     - <img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> "Common/Uncommon/Rare"
@@ -37,7 +37,7 @@
 
     </details>
 
-  - <details>
+  - <details><!-- Foundries -->
     <summary>Foundries</summary>
 
     - <img src="./doc/job_adertisements/foundry/icon_smelter_1.png" width="20" /> "Common/Uncommon/Rare"
@@ -62,7 +62,7 @@
 
     </details>
 
-  - <details>
+  - <details><!-- Food Industry -->
     <summary>Food Industry</summary>
 
     - <img src="./doc/job_adertisements/food/icon_food_1.png" width="20" /> "Common/Uncommon/Rare"
@@ -96,7 +96,7 @@
 
     </details>
 
-  - <details>
+  - <details><!-- Drink Industry -->
     <summary>Drink Industry</summary>
 
     - <img src="./doc/job_adertisements/drink/icon_drink_1.png" width="20" /> "Common/Uncommon/Rare"
@@ -123,7 +123,7 @@
 
     </details>
 
-  - <details>
+  - <details><!-- Building Material Industry -->
     <summary>Building Material Industry</summary>
 
     - <img src="./doc/job_adertisements/material/icon_construction_1.png" width="20" /> "Common/Uncommon/Rare"
@@ -185,8 +185,8 @@
 
     </details>
 
-  - <details>
-    <summary>Clothing Industry</summary>
+  - <details><!-- Consumer Goods -->
+    <summary>Consumer Goods</summary>
 
     - <img src="./doc/job_adertisements/cloth/icon_clothings_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
