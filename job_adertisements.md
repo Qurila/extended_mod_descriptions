@@ -188,30 +188,118 @@
   - <details><!-- Consumer Goods -->
     <summary>Consumer Goods</summary>
 
-    - <img src="./doc/job_adertisements/cloth/icon_clothings_1.png" width="20" /> "Common/Uncommon/Rare"
+    - <img src="./doc/job_adertisements/consumer/icon_consumables_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
-        - <img src="./doc/job_adertisements/cloth/icon_worker_204.png" width="20" /> Tanner
-        - <img src="./doc/job_adertisements/cloth/icon_worker_413.png" width="20" /> Weaver
+        - <img src="./doc/job_adertisements/consumer/icon_worker_209.png" width="20" /> Chandler
+        - <img src="./doc/job_adertisements/consumer/icon_worker_104.png" width="20" /> Sparky
+        - <img src="./doc/job_adertisements/consumer/icon_worker_104.png" width="20" /> Wheelwright
+        - <img src="./doc/job_adertisements/consumer/icon_worker_401.png" width="20" /> Spectacle-Maker
+        - <img src="./doc/job_adertisements/consumer/icon_worker_401.png" width="20" /> Handicrafter
 
       - Uncommon
-        - <img src="./doc/job_adertisements/cloth/icon_tailor_1.png" width="20" /> Bespoke Tailor
-        - <img src="./doc/job_adertisements/cloth/icon_worker_329.png" width="20" /> Tailor
-        - <img src="./doc/job_adertisements/cloth/icon_worker_325.png" width="20" /> Dressmaker
+        - <img src="./doc/job_adertisements/consumer/icon_normal_dressed_102.png" width="20" /> Optician
+        - <img src="./doc/job_adertisements/consumer/icon_mason_718.png" width="20" /> Physicist
+        - <img src="./doc/job_adertisements/consumer/icon_worker_106.png" width="20" /> Machinist
+        - <img src="./doc/job_adertisements/consumer/icon_worker_105.png" width="20" /> Repairman
+        - <img src="./doc/job_adertisements/consumer/icon_bartender_314.png" width="20" /> Soapmaker
 
       - Rare
-        - <img src="./doc/job_adertisements/cloth/icon_normaldress_304.png" width="20" /> Fine Couturier
-        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_409.png" width="20" />Costume Designer
+        - <img src="./doc/job_adertisements/consumer/icon_grocer724.png" width="20" /> Herbal Hygienist
+        - <img src="./doc/job_adertisements/consumer/icon_worker_206.png" width="20" /> Steam Engineer
+        - <img src="./doc/job_adertisements/consumer/icon_well_dressed_408.png" width="20" /> Lens Designer
+        - <img src="./doc/job_adertisements/consumer/icon_normal_dressed_401.png" width="20" /> Science Whizz
+        - <img src="./doc/job_adertisements/consumer/icon_normal_dressed_401.png" width="20" /> Draughtswoman
+        - <img src="./doc/job_adertisements/consumer/icon_forester_822.png" width="20" /> Maria Maravilla
 
-    - <img src="./doc/job_adertisements/cloth/icon_clothings_2.png" width="20" /> "Epic/Legendary"
+    - <img src="./doc/job_adertisements/consumer/icon_consumables_2.png" width="20" /> "Epic/Legendary"
       - Epic
-        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" width="20" /> Lily the Fashion Designer
-        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_602.png" width="20" /> Mariana the Master Stylist
-        - <img src="./doc/job_adertisements/cloth/icon_tailor_2.png" width="20" /> Paul Poiret, Shocking Fashion Designer
-        - <img src="./doc/job_adertisements/cloth/icon_boris_franke.png" width="20" /> Master Craftsman Franke
+        - <img src="./doc/job_adertisements/consumer/icon_worker_418.png" width="20" /> Perfumier Prunella
+        - <img src="./doc/job_adertisements/consumer/icon_well_dressed_406.png" width="20" /> Susannah the Steam Engineer
+        - <img src="./doc/job_adertisements/consumer/icon_travelagent_723.png" width="20" /> Optometrist Otto
+        - <img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" width="20" /> Dario the Mechanical Enginee
 
       - Legendary
-        - <img src="./doc/job_adertisements/cloth/icon_tailor_3.png" width="20" /> Bumm Brimmell, The Original Dandy
-        - <img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" width="20" /> Lady Jane Smythe, Queen of Haute Couture
+        - <img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" /> Gerhard Fuchs, of the Patent Eyeglass
+        - <img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" /> Hervé Savonne, Suppressor of Grime
+        - <img src="./doc/job_adertisements/consumer/icon_normal_dressed_102.png" width="20" /> Prof. Ram Devi, The Bundle of Energy
+        - <img src="./doc/job_adertisements/consumer/icon_well_dressed_205.png" width="20" /> Bruno Ironbright, Engineering Giant
+
+    </details>
+
+  - <details><!-- Luxury Goods -->
+    <summary>Luxury Goods</summary>
+
+    - <img src="./doc/job_adertisements/luxus/icon_luxus_consumables_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_106.png" width="20" /> Jeweler
+        - <img src="./doc/job_adertisements/luxus/icon_worker_106.png" width="20" /> Watchmaker
+        - <img src="./doc/job_adertisements/luxus/icon_worker_102_b.png" width="20" /> Technician
+        - <img src="./doc/job_adertisements/luxus/icon_worker_102_b.png" width="20" /> Mechanic
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/luxus/icon_worker_202.png" width="20" /> Clockmaker
+        - <img src="./doc/job_adertisements/luxus/icon_worker_103.png" width="20" /> Gramophonist
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_401.png" width="20" /> Lapidary
+        - <img src="./doc/job_adertisements/luxus/icon_worker_404.png" width="20" /> Velocipedalist
+
+      - Rare
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_206.png" width="20" /> Illustrious Gemologist
+        - <img src="./doc/job_adertisements/luxus/icon_worker_407.png" width="20" /> Precision Horologist
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_401.png" width="20" /> Science Whizz
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_401.png" width="20" /> Draughtswoman
+
+    - <img src="./doc/job_adertisements/luxus/icon_luxus_consumables_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/luxus/icon_well_dressed_407.png" width="20" /> Chronometrist Chiara
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_201_c.png" width="20" /> Goldsmith Gilbert
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_202.png" width="20" /> Johan the Inventor
+
+      - Legendary
+        - <img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" width="20" /> François Strindberg, Crown Jeweller
+        - <img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" width="20" /> Hans Klein, Old Grandfather Time
+        - <img src="./doc/job_adertisements/luxus/icon_normal_dressed_102.png" width="20" /> Prof. Ram Devi, The Bundle of Energy
+        - <img src="./doc/job_adertisements/luxus/icon_well_dressed_205.png" width="20" /> Bruno Ironbright, Engineering Giant
+
+    </details>
+
+  - <details><!-- Agriculture -->
+    <summary>Agriculture</summary>
+
+    - <img src="./doc/job_adertisements/agriculture/icon_agriculture_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_204.png" width="20" /> Ploughman
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_201_b.png" width="20" /> Shepherd
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_405.png" width="20" /> Cropper
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_417.png" width="20" /> Moonshiner
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_413.png" width="20" /> Weaver
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_402.png" width="20" /> Vintner
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_106.png" width="20" /> Grower
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_101.png" width="20" /> Winegrower
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_103.png" width="20" /> Delicatesseur
+        - <img src="./doc/job_adertisements/agriculture/icon_shepherd_705.png" width="20" /> Herdsman
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_416.png" width="20" /> Vegetable Grower
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_402.png" width="20" /> Pantry Maid
+
+      - Rare
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_104.png" width="20" /> Expert Planter
+        - <img src="./doc/job_adertisements/agriculture/icon_nw_dung_collector.png" width="20" /> Animal Nutritionist
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_313.png" width="20" /> Happy Homesteader
+        - <img src="./doc/job_adertisements/agriculture/icon_welldress_307.png" width="20" /> Livestock Farmer
+        - <img src="./doc/job_adertisements/agriculture/icon_top_soil_scientist_eu.png" width="20" /> Temperate Pedologist
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_328.png" width="20" /> Valentina Álvarez
+
+    - <img src="./doc/job_adertisements/agriculture/icon_agriculture_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_302.png" width="20" /> Yvonne the Yeowoman
+        - <img src="./doc/job_adertisements/agriculture/icon_normal_dressed_105.png" width="20" /> Medal-Winning Producer
+        - <img src="./doc/job_adertisements/agriculture/icon_shepherd_519.png" width="20" /> Rodrigo the Ranchero
+        - <img src="./doc/job_adertisements/agriculture/icon_influencer_alex_hancock.png" width="20" /> Alexander Hancock
+
+      - Legendary
+        - <img src="./doc/job_adertisements/agriculture/icon_well_dressed_107.png" width="20" /> Cosmo Castelli, Agronomic Trailblazer
+        - <img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" width="20" /> Mark van der Mark, Breeder of Shepherd Dogs
 
     </details>
 
