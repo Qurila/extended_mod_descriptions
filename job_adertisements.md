@@ -375,11 +375,12 @@
 - <details><!-- Town Hall -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
 
-  - <details><!-- Forestry/Carpenter -->
-    <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Forestry/Carpenter</summary>
+  - <details>Resicende Management
+    <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Resicende Management</summary>
 
-    - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common/Uncommon/Rare"
-      - Common
+    - <details><!-- Common -->
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> Common</summary>
+      - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common"
         - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__201.png" width="20" /> Affiliated Anarchist
         - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
         - <img src="./doc/job_adertisements/residence/icon_professor_710.png" width="20" /> Fellow
@@ -392,6 +393,21 @@
         - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
         - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess
         - <img src="./doc/job_adertisements/residence/icon_worker_821.png" width="20" /> Housemaid
+      </details>
+
+    - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common"
+      - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__201.png" width="20" /> Affiliated Anarchist
+      - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
+      - <img src="./doc/job_adertisements/residence/icon_professor_710.png" width="20" /> Fellow
+      - <img src="./doc/job_adertisements/residence/icon_entertainer_503.png" width="20" /> Fool
+      - <img src="./doc/job_adertisements/residence/icon_police_officer_uncommon.png" width="20" /> Sergeant
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_103.png" width="20" /> Lender
+      - <img src="./doc/job_adertisements/residence/icon_bartender_324.png" width="20" /> Intoxicator
+      - <img src="./doc/job_adertisements/residence/icon_firebrigade_401.png" width="20" /> Water-Carrier
+      - <img src="./doc/job_adertisements/residence/icon_doctor_802.png" width="20" /> Nurse
+      - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
+      - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess
+      - <img src="./doc/job_adertisements/residence/icon_worker_821.png" width="20" /> Housemaid
       - Uncommon
         - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_3.png" width="20" /> Concierge
         - <img src="./doc/job_adertisements/residence/icon_well_dressed_407.png" width="20" /> Lecturer
