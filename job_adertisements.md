@@ -123,4 +123,36 @@
 
   </details>
 
+- <details>
+  <summary>Building Material Industry</summary>
+
+  - <img src="./doc/job_adertisements/material/icon_construction_1.png" width="20" /> "Common/Uncommon/Rare"
+    - Common
+      - <img src="./doc/job_adertisements/material/icon_worker_104.png" width="20" /> Sparky
+      - <img src="./doc/job_adertisements/material/icon_worker_102_b.png" width="20" /> Technician
+      - <img src="./doc/job_adertisements/material/icon_mason_718.png" width="20" /> Moulder
+      - <img src="./doc/job_adertisements/material/icon_worker_415.png" width="20" /> Mason
+      - <img src="./doc/job_adertisements/material/icon_carpenter_722.png" width="20" /> Glassblower
+    - Uncommon
+      - <img src="./doc/job_adertisements/material/icon_mason_718.png" width="20" /> Physicist
+      - <img src="./doc/job_adertisements/material/icon_worker_204.png" width="20" /> Glass Maker
+      - <img src="./doc/job_adertisements/material/icon_worker_205.png" width="20" /> Cementer
+      - <img src="./doc/job_adertisements/material/icon_worker_603.png" width="20" /> Brickmaker
+    - Rare
+      - <img src="./doc/job_adertisements/material/icon_worker_106.png" width="20" /> Cabinet-Maker
+      - <img src="./doc/job_adertisements/material/icon_worker_109.png" width="20" />General Foreman
+      - <img src="./doc/job_adertisements/material/icon_worker_203.png" width="20" />Steely-eyed Steelsmith
+
+  - <img src="./doc/job_adertisements/material/icon_construction_2.png" width="20" /> "Epic/Legendary"
+    - Epic
+      - <img src="./doc/job_adertisements/material/icon_worker_202.png" width="20" /> Master Craftsman Morris
+      - <img src="./doc/job_adertisements/material/icon_normal_dressed_106.png" width="20" /> Ferhat the Experienced Builder
+      - <img src="./doc/job_adertisements/material/icon_worker_410.png" width="20" /> Master of the Forges
+    - Legendary
+      - <img src="./doc/job_adertisements/material/icon_well_dressed_107.png" width="20" /> Seraphim Papadikas, The Window Dresser
+      - <img src="./doc/job_adertisements/material/icon_well_dressed_103.png" width="20" /> François Thorne, The Industrial Reinforcer
+      - <img src="./doc/job_adertisements/material/icon_well_dressed_111.png" width="20" /> Henri Zanchi, Man of Steel
+
+  </details>
+
 </details>
