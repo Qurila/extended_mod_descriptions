@@ -6,7 +6,7 @@
   <summary><img src="./doc/job_adertisements/icon_building_trade_union.png" width="20" /> Trade Union</summary>
 
 - <details>
-  <summary><img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /><img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /> Forestry</summary>
+  <summary><img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /><img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /> Forestry/Carpenter</summary>
 
   - <img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> "Common/Uncommon/Rare"
     - Common
@@ -24,13 +24,16 @@
     - Rare
       - <img src="./doc/job_adertisements/forestry/icon_explorer_716.png" width="20" /> Park Ranger
       - <img src="./doc/job_adertisements/forestry/icon_hunter_native.png" width="20" /> Expert Hunter
+      - <img src="./doc/job_adertisements/forestry/icon_worker_106.png" width="20" /> Cabinet-Maker
 
   - <img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /> "Epic/Legendary"
     - Epic
       - <img src="./doc/job_adertisements/forestry/icon_forester_401.png" width="20" /> Miss Rodriguez
       - <img src="./doc/job_adertisements/forestry/icon_hunter_common.png" width="20" /> Wild Frontiersman Steen
+      - <img src="./doc/job_adertisements/forestry/icon_worker_202.png" width="20" /> Master Craftsman Morris
     - Legendary
       - <img src="./doc/job_adertisements/forestry/icon_hunter_300.png" width="20" /> Ursula Green
+      - <img src="./doc/job_adertisements/forestry/icon_well_dressed_107.png" width="20" /> Seraphim Papadikas, The Window Dresser
 
 </details>
 
