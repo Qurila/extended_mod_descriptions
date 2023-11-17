@@ -6,7 +6,7 @@
   <summary><img src="./doc/job_adertisements/icon_building_trade_union.png" width="20" /> Trade Union</summary>
 
 - <details>
-  <summary>**Forestry/Carpenter**</summary>
+  **<summary>Forestry/Carpenter</summary>**
 
   - <img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> "Common/Uncommon/Rare"
     - Common
@@ -38,7 +38,7 @@
 </details>
 
 - <details>
-  <summary>**Foundries**</summary>
+  **<summary>Foundries</summary>**
 
   - <img src="./doc/job_adertisements/foundry/icon_smelter_1.png" width="20" /> "Common/Uncommon/Rare"
     - Common
