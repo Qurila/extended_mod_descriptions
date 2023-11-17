@@ -380,6 +380,7 @@
 
     - <details><!-- Common -->
       <summary><img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> Common</summary>
+
       - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common"
         - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__201.png" width="20" /> Affiliated Anarchist
         - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
@@ -393,6 +394,7 @@
         - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
         - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess
         - <img src="./doc/job_adertisements/residence/icon_worker_821.png" width="20" /> Housemaid
+
       </details>
 
     - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common"
