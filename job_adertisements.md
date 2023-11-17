@@ -6,7 +6,7 @@
   <summary><img src="./doc/job_adertisements/icon_building_trade_union.png" width="20" /> Trade Union</summary>
 
 - <details>
-  <summary><img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /><img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /> Forestry/Carpenter</summary>
+  <summary>**Forestry/Carpenter**</summary>
 
   - <img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> "Common/Uncommon/Rare"
     - Common
@@ -34,6 +34,31 @@
     - Legendary
       - <img src="./doc/job_adertisements/forestry/icon_hunter_300.png" width="20" /> Ursula Green
       - <img src="./doc/job_adertisements/forestry/icon_well_dressed_107.png" width="20" /> Seraphim Papadikas, The Window Dresser
+
+</details>
+
+- <details>
+  <summary>**Foundries**</summary>
+
+  - <img src="./doc/job_adertisements/foundry/icon_smelter_1.png" width="20" /> "Common/Uncommon/Rare"
+    - Common
+      - <img src="./doc/job_adertisements/foundry/icon_craftsman_common.png" width="20" /> Boilermaker
+      - <img src="./doc/job_adertisements/foundry/icon_worker_401.png" width="20" /> Welder
+    - Uncommon
+      - <img src="./doc/job_adertisements/foundry/icon_emergency_military.png" width="20" /> Military Logistician
+      - <img src="./doc/job_adertisements/foundry/icon_worker_208.png" width="20" /> Iron Founder
+      - <img src="./doc/job_adertisements/foundry/icon_worker_210.png" width="20" /> Wrought Ironsmith
+    - Rare
+      - <img src="./doc/job_adertisements/foundry/icon_worker_203.png" width="20" /> Steely-eyed Steelsmith
+      - <img src="./doc/job_adertisements/foundry/icon_combustion_chemist.png" width="20" /> Combustion Chemist
+
+  - <img src="./doc/job_adertisements/foundry/icon_smelter_2.png" width="20" /> "Epic/Legendary"
+    - Epic
+      - <img src="./doc/job_adertisements/foundry/icon_worker_410.png" width="20" /> Master of the Forges
+      - <img src="./doc/job_adertisements/foundry/icon_normal_dressed_201_c.png" width="20" /> Goldsmith Gilbert
+      - <img src="./doc/job_adertisements/foundry/icon_well_dressed_407.png" width="20" /> Chronometrist Chiara
+    - Legendary
+      - <img src="./doc/job_adertisements/foundry/icon_well_dressed_111.png" width="20" /> Henri Zanchi, Man of Steel
 
 </details>
 
