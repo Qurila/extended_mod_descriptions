@@ -96,4 +96,31 @@
 
   </details>
 
+- <details>
+  <summary>Drink Industry</summary>
+
+  - <img src="./doc/job_adertisements/drink/icon_drink_1.png" width="20" /> "Common/Uncommon/Rare"
+    - Common
+      - <img src="./doc/job_adertisements/drink/icon_sommelier_101.png" width="20" /> Cellarman
+      - <img src="./doc/job_adertisements/drink/icon_worker_417.png" width="20" /> Moonshiner
+    - Uncommon
+      - <img src="./doc/job_adertisements/drink/icon_sommelier_201.png" width="20" /> Champagne Taster
+      - <img src="./doc/job_adertisements/drink/icon_worker_108.png" width="20" /> Distiller
+    - Rare
+      - <img src="./doc/job_adertisements/drink/icon_well_dressed_203.png" width="20" /> Award-Winning Brewer
+      - <img src="./doc/job_adertisements/drink/icon_sommelier_401.png" width="20" />Respected Oenologist
+
+  - <img src="./doc/job_adertisements/drink/icon_drink_2.png" width="20" /> "Epic/Legendary"
+    - Epic
+      - <img src="./doc/job_adertisements/drink/icon_sommelier_318.png" width="20" /> Sommelier Raymond
+      - <img src="./doc/job_adertisements/drink/icon_welldress_812.png" width="20" /> Cecilia the Coffeessieur
+      - <img src="./doc/job_adertisements/drink/icon_normal_dressed_201_c.png" width="20" /> Brewmaster Bill
+      - <img src="./doc/job_adertisements/drink/icon_influencer_lewis_2.png" width="20" /> Sir Lewis Brindley the Chemist
+    - Legendary
+      - <img src="./doc/job_adertisements/drink/icon_curator_702.png" width="20" /> Marco de la Mocha, Crusher of Beans
+      - <img src="./doc/job_adertisements/drink/icon_priest_uncommon.png" width="20" /> Brother Hilarius, Purveyor of Monastic Mixtures
+      - <img src="./doc/job_adertisements/drink/icon_sommelier_824.png" width="20" /> Mme. Elise "The Nose" Bouquet
+
+  </details>
+
 </details>
