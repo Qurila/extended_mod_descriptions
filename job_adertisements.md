@@ -557,7 +557,7 @@
         - <img src="./doc/job_adertisements/harbor/icon_navigator_102.png" width="20" /> Captain Moby, Old Dog of the Sea
         - <img src="./doc/job_adertisements/harbor/icon_architect_501.png" width="20" /> Rohit Bhargava, the Naval Architect
         - <img src="./doc/job_adertisements/harbor/icon_captain_103.png" width="20" /> Field Marshall Matravers, Conductor of Armies
-        - <img src="./doc/job_adertisements/icon_uniformed_101/icon_uniformed_101.png" width="20" /> General Ewing Thomson, Planter of Flags
+        - <img src="./doc/job_adertisements/harbor/icon_uniformed_101.png" width="20" /> General Ewing Thomson, Planter of Flags
         - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
         - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
         - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
