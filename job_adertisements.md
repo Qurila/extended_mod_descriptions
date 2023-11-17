@@ -1,15 +1,17 @@
 # Job Adertisements
 
-## <img src="./doc/archeological/icon_museum.png" width="30" /> Old World Items
+## <img src="./doc/job_adertisements/icon_session_moderate.png" width="30" /><img src="./doc/job_adertisements/icon_session_sunken_treasure.png" width="30" /> Old World Items
 
 <details>
   <summary> Trade Union</summary>
 
 - <details>
-  <summary> Forestry</summary>
+  <summary><img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> Forestry <img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /></summary>
 
-  - <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Common/Uncommon/Rare"
+  - <img src="./doc/job_adertisements/forestry/icon_forestry_1.png" width="20" /> "Common/Uncommon/Rare"
 
+    - <img src="./doc/job_adertisements/forestry/icon_worker_406.png" width="20" /> Rumrunner
+    - <img src="./doc/job_adertisements/forestry/icon_torcedor_709.png" width="20" /> Lector
     - <img src="./doc/job_adertisements/forestry/icon_worker_104.png" width="20" /> Lumberjack
     - <img src="./doc/job_adertisements/forestry/icon_shepherd_507.png" width="20" /> Poacher
     - <img src="./doc/job_adertisements/forestry/icon_worker_211.png" width="20" /> Burner
@@ -22,7 +24,8 @@
     ___
     - <img src="./doc/job_adertisements/forestry/icon_explorer_716.png" width="20" /> Park Ranger
     - <img src="./doc/job_adertisements/forestry/icon_hunter_native.png" width="20" /> Expert Hunter
-  - <img src="./doc/archeological/icon_journal_archeological.png" width="20" /> "Epic/Legendary"
+
+  - <img src="./doc/job_adertisements/forestry/icon_forestry_2.png" width="20" /> "Epic/Legendary"
 
     - <img src="./doc/job_adertisements/forestry/icon_forester_401.png" width="20" /> Miss Rodriguez
     - <img src="./doc/job_adertisements/forestry/icon_hunter_common.png" width="20" /> Wild Frontiersman Steen
