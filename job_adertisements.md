@@ -375,29 +375,12 @@
 - <details><!-- Town Hall -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
 
-  - <details>Resicende Management
+  - <details><!-- Resicende Management -->
     <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Resicende Management</summary>
 
     - <details><!-- Common -->
       <summary><img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> Common</summary>
 
-      - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common"
-        - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__201.png" width="20" /> Affiliated Anarchist
-        - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
-        - <img src="./doc/job_adertisements/residence/icon_professor_710.png" width="20" /> Fellow
-        - <img src="./doc/job_adertisements/residence/icon_entertainer_503.png" width="20" /> Fool
-        - <img src="./doc/job_adertisements/residence/icon_police_officer_uncommon.png" width="20" /> Sergeant
-        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_103.png" width="20" /> Lender
-        - <img src="./doc/job_adertisements/residence/icon_bartender_324.png" width="20" /> Intoxicator
-        - <img src="./doc/job_adertisements/residence/icon_firebrigade_401.png" width="20" /> Water-Carrier
-        - <img src="./doc/job_adertisements/residence/icon_doctor_802.png" width="20" /> Nurse
-        - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
-        - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess
-        - <img src="./doc/job_adertisements/residence/icon_worker_821.png" width="20" /> Housemaid
-
-      </details>
-
-    - <img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> "Common"
       - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__201.png" width="20" /> Affiliated Anarchist
       - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
       - <img src="./doc/job_adertisements/residence/icon_professor_710.png" width="20" /> Fellow
@@ -410,74 +393,94 @@
       - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
       - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess
       - <img src="./doc/job_adertisements/residence/icon_worker_821.png" width="20" /> Housemaid
-      - Uncommon
-        - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_3.png" width="20" /> Concierge
-        - <img src="./doc/job_adertisements/residence/icon_well_dressed_407.png" width="20" /> Lecturer
-        - <img src="./doc/job_adertisements/residence/icon_worker_804.png" width="20" /> Schoolteacher
-        - <img src="./doc/job_adertisements/residence/icon_priest_102.png" width="20" /> Confessor of the Burgeois
-        - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__202.png" width="20" /> Anti-Clerical Lecturer
-        - <img src="./doc/job_adertisements/residence/icon_dean_1.png" width="20" /> Associate Professor of Faculty
-        - <img src="./doc/job_adertisements/residence/icon_fireman_101.png" width="20" /> Volunteer Fireman
-        - <img src="./doc/job_adertisements/residence/icon_sommelier_101.png" width="20" /> Footman
-        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_101.png" width="20" /> Banker
-      - Rare
-        - <img src="./doc/job_adertisements/residence/icon_well_dressed_404.png" width="20" /> Mordant Conservative Playwright
-        - <img src="./doc/job_adertisements/residence/icon_anarchist_manager_404.png" width="20" /> Democratically Elected Minister
-        - <img src="./doc/job_adertisements/residence/icon_enbesa_expatriate_2.png" width="20" /> Wise Enbesan Homesteader
-        - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_6.png" width="20" /> Blue Skies Maid
-        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_404.png" width="20" /> Very Senior Lecturer
-        - <img src="./doc/job_adertisements/residence/icon_entertainer_801.png" width="20" /> Actor
-        - <img src="./doc/job_adertisements/residence/icon_worker_407.png" width="20" /> Headmistress
-        - <img src="./doc/job_adertisements/residence/icon_welldress_319.png" width="20" /> Postal Banker
-        - <img src="./doc/job_adertisements/residence/icon_worker_103.png" width="20" /> Blue Skies Janitor
-        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_201_b.png" width="20" /> Generous Innkeeper
 
-    - <img src="./doc/job_adertisements/residence/icon_residence_2.png" width="20" /> "Epic/Legendary"
-      - Epic
-        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_203.png" width="20" /> Mr. Garrick, Founder of the Entrepreneur Gentlemen's Club
-        - <img src="./doc/job_adertisements/residence/icon_anarchist_krapotkin.png" width="20" /> Krapotkin, Evolutionist of Kindness
-        - <img src="./doc/job_adertisements/residence/icon_telecommunication_expert_2.png" width="20" /> Lineman
-        - <img src="./doc/job_adertisements/residence/icon_enbesa_expatriate_1.png" width="20" /> Djimon the Melancholic Expatriate
-        - <img src="./doc/job_adertisements/residence/icon_enbesa_expatriate_3.png" width="20" /> Eshe the Eager Enbesan Entrepreneur
-        - <img src="./doc/job_adertisements/residence/icon_amazing_tailor.png" width="20" /> Amazing Fashion Designer
-        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_206_b.png" width="20" /> Brasserie Patron Mertens
-        - <img src="./doc/job_adertisements/residence/icon_priest_715.png" width="20" /> Arch-Archbishop Archibald
-        - <img src="./doc/job_adertisements/residence/icon_well_dressed_202.png" width="20" /> Gordon the Master Grocer
-        - <img src="./doc/job_adertisements/residence/icon_well_dressed_108.png" width="20" /> Ernest the Educator
-        - <img src="./doc/job_adertisements/residence/icon_well_dressed_102.png" width="20" /> Miles the Master Butler
-        - <img src="./doc/job_adertisements/residence/icon_influencer_amixem.png" width="20" /> Maxime Renard the One-Man Show
-        - <img src="./doc/job_adertisements/residence/icon_influencer_keralis_2.png" width="20" /> Arek Lisowski the Architect
-        - <img src="./doc/job_adertisements/residence/icon_influencer_br4mm3n.png" width="20" /> Dennis Brammen the Food Critic
-        - <img src="./doc/job_adertisements/residence/icon_influencer_blitz.png" width="20" /> Elliot "Blitz" the Security Engineer
-        - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_5.png" width="20" /> Madame Blanc, Maître d'hôtel
-        - <img src="./doc/job_adertisements/residence/icon_specialist_delivery_service.png" width="20" /> Blue Skies Delivery Service
-        - <img src="./doc/job_adertisements/residence/icon_entertainer_828.png" width="20" /> Critically-Acclaimed Tragedian
-        - <img src="./doc/job_adertisements/residence/icon_worker_603.png" width="20" /> Vicente's Informant
-      - Legendary
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Eduardo Bernal, the Father of Public Relations
-        - <img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
-        - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      </details>
+
+    - <details><!-- Uncommon -->
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_2.png" width="20" /> Uncommon</summary>
+
+      - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_3.png" width="20" /> Concierge
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_407.png" width="20" /> Lecturer
+      - <img src="./doc/job_adertisements/residence/icon_worker_804.png" width="20" /> Schoolteacher
+      - <img src="./doc/job_adertisements/residence/icon_priest_102.png" width="20" /> Confessor of the Burgeois
+      - <img src="./doc/job_adertisements/residence/icon_anarchist_manager__202.png" width="20" /> Anti-Clerical Lecturer
+      - <img src="./doc/job_adertisements/residence/icon_dean_1.png" width="20" /> Associate Professor of Faculty
+      - <img src="./doc/job_adertisements/residence/icon_fireman_101.png" width="20" /> Volunteer Fireman
+      - <img src="./doc/job_adertisements/residence/icon_sommelier_101.png" width="20" /> Footman
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_101.png" width="20" /> Banker
+
+      </details>
+
+    - <details><!-- Rare -->
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_3.png" width="20" /> Rare</summary>
+
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_404.png" width="20" /> Mordant Conservative Playwright
+      - <img src="./doc/job_adertisements/residence/icon_anarchist_manager_404.png" width="20" /> Democratically Elected Minister
+      - <img src="./doc/job_adertisements/residence/icon_enbesa_expatriate_2.png" width="20" /> Wise Enbesan Homesteader
+      - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_6.png" width="20" /> Blue Skies Maid
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_404.png" width="20" /> Very Senior Lecturer
+      - <img src="./doc/job_adertisements/residence/icon_entertainer_801.png" width="20" /> Actor
+      - <img src="./doc/job_adertisements/residence/icon_worker_407.png" width="20" /> Headmistress
+      - <img src="./doc/job_adertisements/residence/icon_welldress_319.png" width="20" /> Postal Banker
+      - <img src="./doc/job_adertisements/residence/icon_worker_103.png" width="20" /> Blue Skies Janitor
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_201_b.png" width="20" /> Generous Innkeeper
+
+      </details>
+
+    - <details><!-- Epic -->
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_3.png" width="20" /> Epic</summary>
+
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_203.png" width="20" /> Mr. Garrick, Founder of the Entrepreneur Gentlemen's Club
+      - <img src="./doc/job_adertisements/residence/icon_anarchist_krapotkin.png" width="20" /> Krapotkin, Evolutionist of Kindness
+      - <img src="./doc/job_adertisements/residence/icon_telecommunication_expert_2.png" width="20" /> Lineman
+      - <img src="./doc/job_adertisements/residence/icon_enbesa_expatriate_1.png" width="20" /> Djimon the Melancholic Expatriate
+      - <img src="./doc/job_adertisements/residence/icon_enbesa_expatriate_3.png" width="20" /> Eshe the Eager Enbesan Entrepreneur
+      - <img src="./doc/job_adertisements/residence/icon_amazing_tailor.png" width="20" /> Amazing Fashion Designer
+      - <img src="./doc/job_adertisements/residence/icon_normal_dressed_206_b.png" width="20" /> Brasserie Patron Mertens
+      - <img src="./doc/job_adertisements/residence/icon_priest_715.png" width="20" /> Arch-Archbishop Archibald
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_202.png" width="20" /> Gordon the Master Grocer
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_108.png" width="20" /> Ernest the Educator
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_102.png" width="20" /> Miles the Master Butler
+      - <img src="./doc/job_adertisements/residence/icon_influencer_amixem.png" width="20" /> Maxime Renard the One-Man Show
+      - <img src="./doc/job_adertisements/residence/icon_influencer_keralis_2.png" width="20" /> Arek Lisowski the Architect
+      - <img src="./doc/job_adertisements/residence/icon_influencer_br4mm3n.png" width="20" /> Dennis Brammen the Food Critic
+      - <img src="./doc/job_adertisements/residence/icon_influencer_blitz.png" width="20" /> Elliot "Blitz" the Security Engineer
+      - <img src="./doc/job_adertisements/residence/icon_specialist_hotelier_5.png" width="20" /> Madame Blanc, Maître d'hôtel
+      - <img src="./doc/job_adertisements/residence/icon_specialist_delivery_service.png" width="20" /> Blue Skies Delivery Service
+      - <img src="./doc/job_adertisements/residence/icon_entertainer_828.png" width="20" /> Critically-Acclaimed Tragedian
+      - <img src="./doc/job_adertisements/residence/icon_worker_603.png" width="20" /> Vicente's Informant
+
+      </details>
+
+    - <details><!-- Legendary -->
+      <summary><img src="./doc/job_adertisements/residence/icon_residence_3.png" width="20" /> Legendary</summary>
+
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Eduardo Bernal, the Father of Public Relations
+      - <img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+      - <img src="./doc/job_adertisements/residence/icon_hunter_300.png" width="20" /> Ursula
+
+      </details>
 
     </details>
 
