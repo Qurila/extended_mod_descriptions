@@ -562,31 +562,10 @@
 
     </details>
 
-  - <details><!-- harbor Services -->
-    <summary><img src="./doc/job_adertisements/harbor/icon_institutions_blank.png" width="20" /> harbor Services</summary>
+  - <details><!-- Shipbuilders -->
+    <summary><img src="./doc/job_adertisements/harbor/icon_harbor_ships_blank.png" width="20" /> Shipbuilders</summary>
 
-    - <img src="./doc/job_adertisements/harbor/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
-      - Common
-        - <img src="./doc/job_adertisements/harbor/icon_priest_201.png" width="20" /> Abbé
-
-      - Uncommon
-        - <img src="./doc/job_adertisements/harbor/icon_priest_517.png" width="20" /> Priest
-        - <img src="./doc/job_adertisements/harbor/icon_grocer724.png" width="20" /> Peddler
-        - <img src="./doc/job_adertisements/harbor/icon_bartender_323.png" width="20" /> Publican
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_native.png" width="20" /> House Doctor
-        - <img src="./doc/job_adertisements/harbor/icon_entertainer_401.png" width="20" /> Comedian
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer.png" width="20" /> Inspector
-
-      - Rare
-        - <img src="./doc/job_adertisements/harbor/icon_telecommunications_expert_3.png" width="20" /> Tuned-in Radio Operator
-        - <img src="./doc/job_adertisements/harbor/icon_priest_401.png" width="20" /> Beatific Bishopess
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_common.png" width="20" /> Punctilious Physician
-        - <img src="./doc/job_adertisements/harbor/icon_normaldress_811.png" width="20" /> Sales Clerk
-        - <img src="./doc/job_adertisements/harbor/icon_fireman_102.png" width="20" /> Veteran Firefighter
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer_101_b.png" width="20" /> Superintendent
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_204.png" width="20" /> Steward
-
-    - <img src="./doc/job_adertisements/harbor/icon_institutions_2.png" width="20" /> "Epic/Legendary"
+    - <img src="./doc/job_adertisements/harbor/icon_institutions_2.png" width="20" /> "Legendary"
       - Epic
         - <img src="./doc/job_adertisements/harbor/icon_fireman_104.png" width="20" /> Fire Chief Mills
         - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_205.png" width="20" /> Professor Razzaq
