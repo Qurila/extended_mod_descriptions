@@ -155,4 +155,64 @@
 
     </details>
 
+  - <details><!-- Clothing Industry -->
+    <summary>Clothing Industry</summary>
+
+    - <img src="./doc/job_adertisements/cloth/icon_clothings_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/cloth/icon_worker_204.png" width="20" /> Tanner
+        - <img src="./doc/job_adertisements/cloth/icon_worker_413.png" width="20" /> Weaver
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/cloth/icon_tailor_1.png" width="20" /> Bespoke Tailor
+        - <img src="./doc/job_adertisements/cloth/icon_worker_329.png" width="20" /> Tailor
+        - <img src="./doc/job_adertisements/cloth/icon_worker_325.png" width="20" /> Dressmaker
+
+      - Rare
+        - <img src="./doc/job_adertisements/cloth/icon_normaldress_304.png" width="20" /> Fine Couturier
+        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_409.png" width="20" />Costume Designer
+
+    - <img src="./doc/job_adertisements/cloth/icon_clothings_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" width="20" /> Lily the Fashion Designer
+        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_602.png" width="20" /> Mariana the Master Stylist
+        - <img src="./doc/job_adertisements/cloth/icon_tailor_2.png" width="20" /> Paul Poiret, Shocking Fashion Designer
+        - <img src="./doc/job_adertisements/cloth/icon_boris_franke.png" width="20" /> Master Craftsman Franke
+
+      - Legendary
+        - <img src="./doc/job_adertisements/cloth/icon_tailor_3.png" width="20" /> Bumm Brimmell, The Original Dandy
+        - <img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" width="20" /> Lady Jane Smythe, Queen of Haute Couture
+
+    </details>
+
+  - <details>
+    <summary>Clothing Industry</summary>
+
+    - <img src="./doc/job_adertisements/cloth/icon_clothings_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/cloth/icon_worker_204.png" width="20" /> Tanner
+        - <img src="./doc/job_adertisements/cloth/icon_worker_413.png" width="20" /> Weaver
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/cloth/icon_tailor_1.png" width="20" /> Bespoke Tailor
+        - <img src="./doc/job_adertisements/cloth/icon_worker_329.png" width="20" /> Tailor
+        - <img src="./doc/job_adertisements/cloth/icon_worker_325.png" width="20" /> Dressmaker
+
+      - Rare
+        - <img src="./doc/job_adertisements/cloth/icon_normaldress_304.png" width="20" /> Fine Couturier
+        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_409.png" width="20" />Costume Designer
+
+    - <img src="./doc/job_adertisements/cloth/icon_clothings_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" width="20" /> Lily the Fashion Designer
+        - <img src="./doc/job_adertisements/cloth/icon_well_dressed_602.png" width="20" /> Mariana the Master Stylist
+        - <img src="./doc/job_adertisements/cloth/icon_tailor_2.png" width="20" /> Paul Poiret, Shocking Fashion Designer
+        - <img src="./doc/job_adertisements/cloth/icon_boris_franke.png" width="20" /> Master Craftsman Franke
+
+      - Legendary
+        - <img src="./doc/job_adertisements/cloth/icon_tailor_3.png" width="20" /> Bumm Brimmell, The Original Dandy
+        - <img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" width="20" /> Lady Jane Smythe, Queen of Haute Couture
+
+    </details>
+
 </details>
