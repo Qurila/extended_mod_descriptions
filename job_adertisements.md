@@ -303,4 +303,71 @@
 
     </details>
 
+  - <details><!-- Mining -->
+    <summary>Mining</summary>
+
+    - <img src="./doc/job_adertisements/mining/icon_mining_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/mining/icon_miner_101_b.png" width="20" /> Miner
+        - <img src="./doc/job_adertisements/mining/icon_miner_102.png" width="20" /> Prospector
+        - <img src="./doc/job_adertisements/mining/icon_mason_718.png" width="20" /> Moulder
+        - <img src="./doc/job_adertisements/mining/icon_carpenter_721.png" width="20" /> Driller
+        - <img src="./doc/job_adertisements/mining/icon_worker_413.png" width="20" /> Digger
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/mining/icon_worker_208.png" width="20" /> Iron Founder
+        - <img src="./doc/job_adertisements/mining/icon_miner_201.png" width="20" /> Ventilator
+        - <img src="./doc/job_adertisements/mining/icon_worker_104.png" width="20" /> Quarryman
+        - <img src="./doc/job_adertisements/mining/icon_worker_411.png" width="20" /> Refiner
+        - <img src="./doc/job_adertisements/mining/icon_worker_402.png" width="20" /> Pantry Maid
+        - <img src="./doc/job_adertisements/mining/icon_farmer_401.png" width="20" /> Dredger
+
+      - Rare
+        - <img src="./doc/job_adertisements/mining/icon_worker_107.png" width="20" /> First-Rate Sapper
+        - <img src="./doc/job_adertisements/mining/icon_grocer724.png" width="20" /> Quarry Foreman
+        - <img src="./doc/job_adertisements/mining/icon_scientist_mineralogist.png" width="20" /> Mineralogist
+        - <img src="./doc/job_adertisements/mining/icon_explosive_expert.png" width="20" /> Mad Mary, Dynamite Enthusiast
+
+    - <img src="./doc/job_adertisements/mining/icon_mining_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/mining/icon_miner_401.png" width="20" /> Micaela the Mining Engineer
+        - <img src="./doc/job_adertisements/mining/icon_normal_dressed_106.png" width="20" /> Grigor the Geologist
+
+      - Legendary
+        - <img src="./doc/job_adertisements/mining/icon_well_dressed_104.png" width="20" /> Jörg von Malching, Augur of the Auric
+        - <img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" width="20" /> Steven MacLeod, Geological Surveyor
+
+    </details>
+
+  - <details><!-- Infrastructure -->
+    <summary>Infrastructure</summary>
+
+    - <img src="./doc/job_adertisements/infrastructure/icon_infrastructure_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/infrastructure/icon_mason_720.png" width="20" /> Lineman
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/infrastructure/icon_normal_dressed_106.png" width="20" /> Magnetist
+        - <img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_3.png" width="20" /> Entremetier
+
+      - Rare
+        - <img src="./doc/job_adertisements/infrastructure/icon_worker_109.png" width="20" /> Leading Electrical Engineer
+        - <img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_03.png" width="20" /> Window-Dresser
+        - <img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_02.png" width="20" /> Store Greeter
+        - <img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_2.png" width="20" /> Sous-Chef
+
+    - <img src="./doc/job_adertisements/infrastructure/icon_infrastructure_2.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/infrastructure/icon_well_dressed_408.png" width="20" /> Former Pyrphorian Whizz
+        - <img src="./doc/job_adertisements/infrastructure/icon_anarchist_bekoin.png" width="20" /> Bekonin, Spirit of Liberty
+        - <img src="./doc/job_adertisements/infrastructure/icon_influencer_realferas_2.png" width="20" /> Feras Alsarami
+        - <img src="./doc/job_adertisements/infrastructure/icon_uniform_706.png" width="20" /> Airship Logistician
+        - <img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_1.png" width="20" /> Marie-Louise Carême, Chef de Cuisine
+
+      - Legendary
+        - <img src="./doc/job_adertisements/infrastructure/icon_craftsman_maciver.png" width="20" /> Angela "Meg" Iver, The Polyvalent
+        - <img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" width="20" /> Belinda San Pedro, Head of Arcade Acquisitions
+
+    </details>
+
 </details>
