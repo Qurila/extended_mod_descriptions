@@ -524,7 +524,7 @@
   - <details><!-- Harbor Work -->
     <summary><img src="./doc/job_adertisements/harbor/icon_harbor_blank.png" width="20" /> Harbor Work</summary>
 
-    - <img src="./doc/job_adertisements/harbor/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
+    - <img src="./doc/job_adertisements/harbor/icon_harbor_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
         - <img src="./doc/job_adertisements/harbor/icon_custom_officer_101.png" width="20" /> Bruiser
         - <img src="./doc/job_adertisements/harbor/icon_carpenter_722.png" width="20" /> Carpenter
