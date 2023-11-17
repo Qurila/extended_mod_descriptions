@@ -373,7 +373,7 @@
 </details>
 
 - <details><!-- Town Hall -->
-  <summary><img src="./doc/job_adertisements/icon_building_town_hall.png" width="20" /> Town Hall</summary>
+  <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
 
   - <details><!-- Forestry/Carpenter -->
     <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Forestry/Carpenter</summary>
