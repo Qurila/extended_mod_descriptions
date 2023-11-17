@@ -375,8 +375,8 @@
 - <details><!-- Town Hall -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
 
-  - <details><!-- Resicende Management -->
-    <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Resicende Management</summary>
+  - <details><!-- Residence Management -->
+    <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Residence Management</summary>
 
     - <details><!-- Common -->
       <summary><img src="./doc/job_adertisements/residence/icon_residence_1.png" width="20" /> Common</summary>
@@ -526,39 +526,41 @@
 
     - <img src="./doc/job_adertisements/harbor/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
-        - <img src="./doc/job_adertisements/harbor/icon_priest_201.png" width="20" /> Abbé
+        - <img src="./doc/job_adertisements/harbor/icon_custom_officer_101.png" width="20" /> Bruiser
+        - <img src="./doc/job_adertisements/harbor/icon_carpenter_722.png" width="20" /> Carpenter
+        - <img src="./doc/job_adertisements/harbor/icon_uniform_707.png" width="20" /> Gunner
+        - <img src="./doc/job_adertisements/harbor/icon_fisher_401.png" width="20" /> Angler
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_401.png" width="20" /> Guide
 
       - Uncommon
-        - <img src="./doc/job_adertisements/harbor/icon_priest_517.png" width="20" /> Priest
-        - <img src="./doc/job_adertisements/harbor/icon_grocer724.png" width="20" /> Peddler
-        - <img src="./doc/job_adertisements/harbor/icon_bartender_323.png" width="20" /> Publican
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_native.png" width="20" /> House Doctor
-        - <img src="./doc/job_adertisements/harbor/icon_entertainer_401.png" width="20" /> Comedian
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer.png" width="20" /> Inspector
+        - <img src="./doc/job_adertisements/harbor/icon_artillerist_401.png" width="20" /> Artillerywoman
+        - <img src="./doc/job_adertisements/harbor/icon_fisherman_101_b.png" width="20" /> Line Fisherman
+        - <img src="./doc/job_adertisements/harbor/icon_custom_officer_201.png" width="20" /> Scammer
+        - <img src="./doc/job_adertisements/harbor/icon_worker_205.png" width="20" /> Ship Builder
 
       - Rare
-        - <img src="./doc/job_adertisements/harbor/icon_telecommunications_expert_3.png" width="20" /> Tuned-in Radio Operator
-        - <img src="./doc/job_adertisements/harbor/icon_priest_401.png" width="20" /> Beatific Bishopess
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_common.png" width="20" /> Punctilious Physician
-        - <img src="./doc/job_adertisements/harbor/icon_normaldress_811.png" width="20" /> Sales Clerk
-        - <img src="./doc/job_adertisements/harbor/icon_fireman_102.png" width="20" /> Veteran Firefighter
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer_101_b.png" width="20" /> Superintendent
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_204.png" width="20" /> Steward
+        - <img src="./doc/job_adertisements/harbor/icon_fisherman_102.png" width="20" /> Veteran Whaler
+        - <img src="./doc/job_adertisements/harbor/icon_worker_206.png" width="20" /> Naval Architect
+        - <img src="./doc/job_adertisements/harbor/icon_artillerist_201.png" width="20" /> Cannoneer
+        - <img src="./doc/job_adertisements/harbor/icon_custom_officer.png" width="20" /> Savvy Customs Officer
+        - <img src="./doc/job_adertisements/harbor/icon_travelagent_827.png" width="20" /> Travel Agent
 
     - <img src="./doc/job_adertisements/harbor/icon_harbor_2.png" width="20" /> "Epic/Legendary"
       - Epic
-        - <img src="./doc/job_adertisements/harbor/icon_fireman_104.png" width="20" /> Fire Chief Mills
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_205.png" width="20" /> Professor Razzaq
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_717.png" width="20" /> Dr. Salvador
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer_202.png" width="20" /> Chief Superintendent Clifford
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_102.png" width="20" /> Eduardo the Expert Broker
-        - <img src="./doc/job_adertisements/harbor/icon_firebrigade_401.png" width="20" /> Enbesan Fire Tamer
+        - <img src="./doc/job_adertisements/harbor/icon_worker_414.png" width="20" /> Mother of Pearls
+        - <img src="./doc/job_adertisements/harbor/icon_custom_officer_103.png" width="20" /> Taxman Tim
+        - <img src="./doc/job_adertisements/harbor/icon_travelagent_712.png" width="20" /> Jaafan the Cruise Impresario
+        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_107.png" width="20" /> Mr. Swell the Hydrodynamist
+        - <img src="./doc/job_adertisements/harbor/icon_artillerist_202.png" width="20" /> Colonel Barzagli
+
       - Legendary
-        - <img src="./doc/job_adertisements/harbor/icon_well_dressed_602.png" width="20" /> Sarah Bartok, The Golden
-        - <img src="./doc/job_adertisements/harbor/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher
-        - <img src="./doc/job_adertisements/harbor/icon_hunter_401.png" width="20" /> Constable Chaos
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
+        - <img src="./doc/job_adertisements/harbor/icon_navigator_102.png" width="20" /> Captain Moby, Old Dog of the Sea
+        - <img src="./doc/job_adertisements/harbor/icon_architect_501.png" width="20" /> Rohit Bhargava, the Naval Architect
+        - <img src="./doc/job_adertisements/harbor/icon_captain_103.png" width="20" /> Field Marshall Matravers, Conductor of Armies
+        - <img src="./doc/job_adertisements/icon_uniformed_101/icon_uniformed_101.png" width="20" /> General Ewing Thomson, Planter of Flags
+        - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
+        - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
+        - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
 
     </details>
 
@@ -566,19 +568,15 @@
     <summary><img src="./doc/job_adertisements/harbor/icon_harbor_ships_blank.png" width="20" /> Shipbuilders</summary>
 
     - <img src="./doc/job_adertisements/harbor/icon_institutions_2.png" width="20" /> "Legendary"
-      - Epic
-        - <img src="./doc/job_adertisements/harbor/icon_fireman_104.png" width="20" /> Fire Chief Mills
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_205.png" width="20" /> Professor Razzaq
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_717.png" width="20" /> Dr. Salvador
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer_202.png" width="20" /> Chief Superintendent Clifford
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_102.png" width="20" /> Eduardo the Expert Broker
-        - <img src="./doc/job_adertisements/harbor/icon_firebrigade_401.png" width="20" /> Enbesan Fire Tamer
-      - Legendary
-        - <img src="./doc/job_adertisements/harbor/icon_well_dressed_602.png" width="20" /> Sarah Bartok, The Golden
-        - <img src="./doc/job_adertisements/harbor/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher
-        - <img src="./doc/job_adertisements/harbor/icon_hunter_401.png" width="20" /> Constable Chaos
-        - <img src="./doc/job_adertisements/harbor/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
-        - <img src="./doc/job_adertisements/harbor/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
+      - <img src="./doc/job_adertisements/harbor/icon_pirate_gunboat_151.png" width="20" /> Gideon Small, Guru of Pirate Gunboats
+      - <img src="./doc/job_adertisements/harbor/icon_petra_651.png" width="20" /> Petra Piper, Fashioner of Pirate Frigates
+      - <img src="./doc/job_adertisements/harbor/icon_shih_yang_150.png" width="20" /> Shih Yang, Sirer of Pirate Ships-of-the-line
+      - <img src="./doc/job_adertisements/harbor/icon_maria_351.png" width="20" /> Maria Pizarro, Maker of Pirate Monitors
+      - <img src="./doc/job_adertisements/harbor/icon_stilton_252.png" width="20" /> Stilton Snood, Purveyor of Pyrphorian Monitors
+      - <img src="./doc/job_adertisements/harbor/icon_suspicia_650.png" width="20" /> Suspicia Slyhood, Begetter of Pyrphorian Battle Cruisers
+      - <img src="./doc/job_adertisements/harbor/icon_sinistra_250.png" width="20" /> Slinky Sinistra, Warlock of Pyrphorian Warships
+      - <img src="./doc/job_adertisements/harbor/icon_guscott_251.png" width="20" /> Sir Milfoy Credenza-Belfry-Guscott, HM Ship Architect
+      - <img src="./doc/job_adertisements/harbor/icon_anna_350.png" width="20" /> Anna Union, Engineer of Extravaganza Steamers
 
     </details>
 
