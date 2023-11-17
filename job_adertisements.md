@@ -567,7 +567,7 @@
   - <details><!-- Shipbuilders -->
     <summary><img src="./doc/job_adertisements/harbor/icon_harbor_ships_blank.png" width="20" /> Shipbuilders</summary>
 
-    - <img src="./doc/job_adertisements/harbor/icon_institutions_2.png" width="20" /> "Legendary"
+    - <img src="./doc/job_adertisements/harbor/icon_harbor_ships.png" width="20" /> "Legendary"
       - <img src="./doc/job_adertisements/harbor/icon_pirate_gunboat_151.png" width="20" /> Gideon Small, Guru of Pirate Gunboats
       - <img src="./doc/job_adertisements/harbor/icon_petra_651.png" width="20" /> Petra Piper, Fashioner of Pirate Frigates
       - <img src="./doc/job_adertisements/harbor/icon_shih_yang_150.png" width="20" /> Shih Yang, Sirer of Pirate Ships-of-the-line
