@@ -721,7 +721,7 @@
         - <img src="./doc/job_adertisements/forestry/icon_carpenter_721.png" width="20" /> Carpenter
         - <img src="./doc/job_adertisements/infrastructure/icon_mason_720.png" width="20" /> Lineman
         - <img src="./doc/job_adertisements/material/icon_worker_415.png" width="20" /> Mason (Only with "New World Cities")
-        - <img src="./doc/job_adertisements/material/icon_carpenter_722.png" width="20" /> Glassblower (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/material/icon_carpenter_722.png" width="20" /> Glassblower (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
       - Uncommon
         - <img src="./doc/job_adertisements/forestry/icon_worker_413.png" width="20" /> Joiner
