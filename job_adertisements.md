@@ -1065,7 +1065,7 @@
   - <details><!-- Foreign Specialists -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_enbesa_blank_2.png" width="20" /> Foreign Specialists</summary>
 
-    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_1f.png" width="20" /> "Common/Uncommon/Rare"
+    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_f1.png" width="20" /> "Common/Uncommon/Rare"
 
       - Common
         - <img src="./doc/job_adertisements/forestry/icon_worker_104.png" width="20" /> Lumberjack
@@ -1088,7 +1088,7 @@
         - <img src="./doc/job_adertisements/mining/icon_grocer724.png" width="20" /> Quarry Foreman
         - <img src="./doc/job_adertisements/material/icon_worker_109.png" width="20" />General Foreman
 
-    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_2f.png" width="20" /> "Epic/Legendary"
+    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_f2.png" width="20" /> "Epic/Legendary"
 
       - Epic
         - <img src="./doc/job_adertisements/infrastructure/icon_anarchist_bekoin.png" width="20" /> Bekonin, Spirit of Liberty
