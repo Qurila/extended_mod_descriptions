@@ -1,4 +1,4 @@
-# <img src="./doc/job_adertisements/item_survey_depth.png" width="30" /> Job Adertisements
+# <img src="./doc/job_adertisements/item_survey_depth.png" width="30" /> Job Advertisements
 
 ## <img src="./doc/job_adertisements/icon_session_moderate.png" width="30" /><img src="./doc/job_adertisements/icon_session_sunken_treasure.png" width="30" /> Old World Items
 
