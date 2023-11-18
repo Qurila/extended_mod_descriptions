@@ -902,7 +902,7 @@
   - <details><!-- Residence Management -->
     <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Residence Management</summary>
 
-    - <img src="./doc/job_adertisements/residence/icon_residence_6.png" width="20" /> Residence Management
+    - <img src="./doc/job_adertisements/residence/icon_residence_6.png" width="20" /> "Common/Uncommon/Rare"
       - Common
         - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
         - <img src="./doc/job_adertisements/residence/icon_professor_710.png" width="20" /> Fellow
@@ -922,7 +922,7 @@
         - <img src="./doc/job_adertisements/residence/icon_normal_dressed_404.png" width="20" /> Very Senior Lecturer
         - <img src="./doc/job_adertisements/residence/icon_worker_407.png" width="20" /> Headmistress
 
-    - <img src="./doc/job_adertisements/residence/icon_residence_7.png" width="20" /> Epic/Legendary
+    - <img src="./doc/job_adertisements/residence/icon_residence_7.png" width="20" /> "Epic/Legendary"
       - Epic
         - <img src="./doc/job_adertisements/residence/icon_priest_715.png" width="20" /> Arch-Archbishop Archibald
         - <img src="./doc/job_adertisements/residence/icon_well_dressed_202.png" width="20" /> Gordon the Master Grocer
@@ -983,6 +983,7 @@
 - <details><!-- New World Harbourmaster Office -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Harbourmaster Office</summary>
 
+  - Harbor Work
   - <img src="./doc/job_adertisements/harbor/icon_harbor_1.png" width="20" /> "Common/Uncommon/Rare"
     - Common
       - <img src="./doc/job_adertisements/harbor/icon_pearl_diver_102.png" width="20" /> Diver
