@@ -983,50 +983,45 @@
 - <details><!-- New World Harbourmaster Office -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Harbourmaster Office</summary>
 
-  - <details><!-- Harbor Work -->
-    <summary><img src="./doc/job_adertisements/harbor/icon_harbor_blank.png" width="20" /> Harbor Work</summary>
+  - <img src="./doc/job_adertisements/harbor/icon_harbor_1.png" width="20" /> "Common/Uncommon/Rare"
+    - Common
+      - <img src="./doc/job_adertisements/harbor/icon_pearl_diver_102.png" width="20" /> Diver
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer_101.png" width="20" /> Bruiser
+      - <img src="./doc/job_adertisements/harbor/icon_carpenter_722.png" width="20" /> Carpenter
+      - <img src="./doc/job_adertisements/harbor/icon_uniform_707.png" width="20" /> Gunner
+      - <img src="./doc/job_adertisements/harbor/icon_fisher_401.png" width="20" /> Angler
+      - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_401.png" width="20" /> Guide
 
-    - <img src="./doc/job_adertisements/harbor/icon_harbor_1.png" width="20" /> "Common/Uncommon/Rare"
-      - Common
-        - <img src="./doc/job_adertisements/harbor/icon_pearl_diver_102.png" width="20" /> Diver
-        - <img src="./doc/job_adertisements/harbor/icon_custom_officer_101.png" width="20" /> Bruiser
-        - <img src="./doc/job_adertisements/harbor/icon_carpenter_722.png" width="20" /> Carpenter
-        - <img src="./doc/job_adertisements/harbor/icon_uniform_707.png" width="20" /> Gunner
-        - <img src="./doc/job_adertisements/harbor/icon_fisher_401.png" width="20" /> Angler
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_401.png" width="20" /> Guide
+    - Uncommon
+      - <img src="./doc/job_adertisements/harbor/icon_artillerist_401.png" width="20" /> Artillerywoman
+      - <img src="./doc/job_adertisements/harbor/icon_fisherman_101_b.png" width="20" /> Line Fisherman
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer_201.png" width="20" /> Scammer
+      - <img src="./doc/job_adertisements/harbor/icon_worker_205.png" width="20" /> Ship Builder
+      - <img src="./doc/job_adertisements/harbor/icon_normaldress_303.png" width="20" /> Souvenir Seller
 
-      - Uncommon
-        - <img src="./doc/job_adertisements/harbor/icon_artillerist_401.png" width="20" /> Artillerywoman
-        - <img src="./doc/job_adertisements/harbor/icon_fisherman_101_b.png" width="20" /> Line Fisherman
-        - <img src="./doc/job_adertisements/harbor/icon_custom_officer_201.png" width="20" /> Scammer
-        - <img src="./doc/job_adertisements/harbor/icon_worker_205.png" width="20" /> Ship Builder
-        - <img src="./doc/job_adertisements/harbor/icon_normaldress_303.png" width="20" /> Souvenir Seller
+    - Rare
+      - <img src="./doc/job_adertisements/harbor/icon_pearl_diver_201.png" width="20" /> Daring Scuba Diver
+      - <img src="./doc/job_adertisements/harbor/icon_fisherman_102.png" width="20" /> Veteran Whaler
+      - <img src="./doc/job_adertisements/harbor/icon_worker_206.png" width="20" /> Naval Architect
+      - <img src="./doc/job_adertisements/harbor/icon_artillerist_201.png" width="20" /> Cannoneer
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer.png" width="20" /> Savvy Customs Officer
+      - <img src="./doc/job_adertisements/harbor/icon_travelagent_827.png" width="20" /> Travel Agent
 
-      - Rare
-        - <img src="./doc/job_adertisements/harbor/icon_pearl_diver_201.png" width="20" /> Daring Scuba Diver
-        - <img src="./doc/job_adertisements/harbor/icon_fisherman_102.png" width="20" /> Veteran Whaler
-        - <img src="./doc/job_adertisements/harbor/icon_worker_206.png" width="20" /> Naval Architect
-        - <img src="./doc/job_adertisements/harbor/icon_artillerist_201.png" width="20" /> Cannoneer
-        - <img src="./doc/job_adertisements/harbor/icon_custom_officer.png" width="20" /> Savvy Customs Officer
-        - <img src="./doc/job_adertisements/harbor/icon_travelagent_827.png" width="20" /> Travel Agent
+  - <img src="./doc/job_adertisements/harbor/icon_harbor_2.png" width="20" /> "Epic/Legendary"
+    - Epic
+      - <img src="./doc/job_adertisements/harbor/icon_worker_414.png" width="20" /> Mother of Pearls
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer_103.png" width="20" /> Taxman Tim
+      - <img src="./doc/job_adertisements/harbor/icon_travelagent_712.png" width="20" /> Jaafan the Cruise Impresario
+      - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_107.png" width="20" /> Mr. Swell the Hydrodynamist
+      - <img src="./doc/job_adertisements/harbor/icon_artillerist_202.png" width="20" /> Colonel Barzagli
 
-    - <img src="./doc/job_adertisements/harbor/icon_harbor_2.png" width="20" /> "Epic/Legendary"
-      - Epic
-        - <img src="./doc/job_adertisements/harbor/icon_worker_414.png" width="20" /> Mother of Pearls
-        - <img src="./doc/job_adertisements/harbor/icon_custom_officer_103.png" width="20" /> Taxman Tim
-        - <img src="./doc/job_adertisements/harbor/icon_travelagent_712.png" width="20" /> Jaafan the Cruise Impresario
-        - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_107.png" width="20" /> Mr. Swell the Hydrodynamist
-        - <img src="./doc/job_adertisements/harbor/icon_artillerist_202.png" width="20" /> Colonel Barzagli
-
-      - Legendary
-        - <img src="./doc/job_adertisements/harbor/icon_navigator_102.png" width="20" /> Captain Moby, Old Dog of the Sea
-        - <img src="./doc/job_adertisements/harbor/icon_architect_501.png" width="20" /> Rohit Bhargava, the Naval Architect
-        - <img src="./doc/job_adertisements/harbor/icon_captain_103.png" width="20" /> Field Marshall Matravers, Conductor of Armies
-        - <img src="./doc/job_adertisements/harbor/icon_uniformed_101.png" width="20" /> General Ewing Thomson, Planter of Flags
-        - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
-        - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
-        - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
-
-    </details>
+    - Legendary
+      - <img src="./doc/job_adertisements/harbor/icon_navigator_102.png" width="20" /> Captain Moby, Old Dog of the Sea
+      - <img src="./doc/job_adertisements/harbor/icon_architect_501.png" width="20" /> Rohit Bhargava, the Naval Architect
+      - <img src="./doc/job_adertisements/harbor/icon_captain_103.png" width="20" /> Field Marshall Matravers, Conductor of Armies
+      - <img src="./doc/job_adertisements/harbor/icon_uniformed_101.png" width="20" /> General Ewing Thomson, Planter of Flags
+      - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
+      - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
+      - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
 
 </details>
