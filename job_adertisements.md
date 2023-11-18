@@ -650,29 +650,29 @@
         - <img src="./doc/job_adertisements/food/icon_farmer_818.png" width="20" /> Pastry Cook
         - <img src="./doc/job_adertisements/food/icon_worker_416.png" width="20" /> Kitchen Help
         - <img src="./doc/job_adertisements/food/icon_worker_821.png" width="20" /> Confectioner
-        - <img src="./doc/job_adertisements/food/icon_baker_101.png" width="20" /> Baker (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/food/icon_baker_101.png" width="20" /> Baker (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
       - Uncommon
         - <img src="./doc/job_adertisements/food/icon_blacksmith_317.png" width="20" /> Gelatier
         - <img src="./doc/job_adertisements/food/icon_bartender_813.png" width="20" /> Tortillera
         - <img src="./doc/job_adertisements/food/icon_baker_101.png" width="20" /> Chocolatier
-        - <img src="./doc/job_adertisements/food/icon_baker_202_b.png" width="20" /> Pastry Chef (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/food/icon_baker_202_b.png" width="20" /> Pastry Chef (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
       - Rare
         - <img src="./doc/job_adertisements/food/icon_baker_201.png" width="20" /> Master Confectioner
         - <img src="./doc/job_adertisements/food/icon_baker_202_b.png" width="20" />Mole Master
         - <img src="./doc/job_adertisements/food/icon_baker_202_b.png" width="20" /> Quality Chocolatier
         - <img src="./doc/job_adertisements/food/icon_doctor_518.png" width="20" />Enbesan Envoy
-        - <img src="./doc/job_adertisements/food/icon_baker_401_b.png" width="20" />Fine Cake Decorator (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/food/icon_baker_401_b.png" width="20" />Fine Cake Decorator (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
     - <img src="./doc/job_adertisements/food/icon_food_2.png" width="20" /> "Epic/Legendary"
       - Epic
         - <img src="./doc/job_adertisements/food/icon_baker_401.png" width="20" /> Charlotte the Chocoholic
         - <img src="./doc/job_adertisements/food/icon_farmer_602.png" width="20" /> Kantyi of the Quinoa
         - <img src="./doc/job_adertisements/food/icon_well_dressed_105.png" width="20" /> Salvador, the Stalwart
-        - <img src="./doc/job_adertisements/food/icon_baker_201.png" width="20" /> Pâtissier Patrice (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/food/icon_baker_201.png" width="20" /> Pâtissier Patrice (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
       - Legendary
         - <img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Gennaro Garibaldi, Chocolatier by Royal Appointment
         - <img src="./doc/job_adertisements/food/icon_entertainer_508.png" width="20" /> Tlayolotl Savor, King of the Corn
-        - <img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Marie-Antoine, Pâtissier Royale (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Marie-Antoine, Pâtissier Royale (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
     </details>
 
@@ -720,21 +720,21 @@
         - <img src="./doc/job_adertisements/material/icon_mason_718.png" width="20" /> Moulder
         - <img src="./doc/job_adertisements/forestry/icon_carpenter_721.png" width="20" /> Carpenter
         - <img src="./doc/job_adertisements/infrastructure/icon_mason_720.png" width="20" /> Lineman
-        - <img src="./doc/job_adertisements/material/icon_worker_415.png" width="20" /> Mason (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/material/icon_worker_415.png" width="20" /> Mason (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
         - <img src="./doc/job_adertisements/material/icon_carpenter_722.png" width="20" /> Glassblower (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
       - Uncommon
         - <img src="./doc/job_adertisements/forestry/icon_worker_413.png" width="20" /> Joiner
         - <img src="./doc/job_adertisements/material/icon_worker_603.png" width="20" /> Brickmaker
         - <img src="./doc/job_adertisements/infrastructure/icon_normal_dressed_106.png" width="20" /> Magnetist
-        - <img src="./doc/job_adertisements/material/icon_worker_204.png" width="20" /> Glass Maker (Only with "New World Cities")
-        - <img src="./doc/job_adertisements/material/icon_worker_205.png" width="20" /> Cementer (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/material/icon_worker_204.png" width="20" /> Glass Maker (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
+        - <img src="./doc/job_adertisements/material/icon_worker_205.png" width="20" /> Cementer (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
       - Rare
         - <img src="./doc/job_adertisements/material/icon_worker_106.png" width="20" /> Cabinet-Maker
         - <img src="./doc/job_adertisements/material/icon_worker_109.png" width="20" />General Foreman
         - <img src="./doc/job_adertisements/infrastructure/icon_worker_109.png" width="20" /> Leading Electrical Engineer
-        - <img src="./doc/job_adertisements/material/icon_worker_203.png" width="20" />Steely-eyed Steelsmith (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/material/icon_worker_203.png" width="20" />Steely-eyed Steelsmith (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
     - <img src="./doc/job_adertisements/material/icon_construction_infrastructure_2.png" width="20" /> "Epic/Legendary"
 
@@ -745,12 +745,12 @@
         - <img src="./doc/job_adertisements/infrastructure/icon_anarchist_bekoin.png" width="20" /> Bekonin, Spirit of Liberty
         - <img src="./doc/job_adertisements/infrastructure/icon_influencer_realferas_2.png" width="20" /> Feras Alsarami
         - <img src="./doc/job_adertisements/infrastructure/icon_uniform_706.png" width="20" /> Airship Logistician
-        - <img src="./doc/job_adertisements/material/icon_worker_410.png" width="20" /> Master of the Forges (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/material/icon_worker_410.png" width="20" /> Master of the Forges (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
       - Legendary
         - <img src="./doc/job_adertisements/infrastructure/icon_craftsman_maciver.png" width="20" /> Angela "Meg" Iver, The Polyvalent
         - <img src="./doc/job_adertisements/material/icon_well_dressed_107.png" width="20" /> Seraphim Papadikas, The Window Dresser
-        - <img src="./doc/job_adertisements/material/icon_well_dressed_111.png" width="20" /> Henri Zanchi, Man of Steel (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/material/icon_well_dressed_111.png" width="20" /> Henri Zanchi, Man of Steel (Only with ["New World Cities"](https://mod.io/g/anno-1800/m/jakob-new-world-cities))
 
     </details>
 
@@ -911,12 +911,12 @@
         - <img src="./doc/job_adertisements/residence/icon_firebrigade_401.png" width="20" /> Water-Carrier
         - <img src="./doc/job_adertisements/residence/icon_doctor_802.png" width="20" /> Nurse
         - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
-        - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess (Only with "School New World")
+        - <img src="./doc/job_adertisements/residence/icon_worker_408.png" width="20" /> Governess (Only with ["School New World"](https://mod.io/g/anno-1800/m/school-new-world))
 
       - Uncommon
         - <img src="./doc/job_adertisements/residence/icon_well_dressed_407.png" width="20" /> Lecturer
         - <img src="./doc/job_adertisements/residence/icon_fireman_101.png" width="20" /> Volunteer Fireman
-        - <img src="./doc/job_adertisements/residence/icon_worker_804.png" width="20" /> Schoolteacher (Only with "School New World")
+        - <img src="./doc/job_adertisements/residence/icon_worker_804.png" width="20" /> Schoolteacher (Only with ["School New World"](https://mod.io/g/anno-1800/m/school-new-world))
 
       - Rare
         - <img src="./doc/job_adertisements/residence/icon_normal_dressed_404.png" width="20" /> Very Senior Lecturer
@@ -974,7 +974,7 @@
         - <img src="./doc/job_adertisements/puplic/icon_hunter_401.png" width="20" /> Constable Chaos
         - <img src="./doc/job_adertisements/puplic/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
         - <img src="./doc/job_adertisements/puplic/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
-        - <img src="./doc/job_adertisements/puplic/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher (Only with "School New World")
+        - <img src="./doc/job_adertisements/puplic/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher (Only with ["School New World"](https://mod.io/g/anno-1800/m/school-new-world))
 
     </details>
   </details>
