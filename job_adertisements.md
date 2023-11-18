@@ -44,7 +44,7 @@
     - <img src="./doc/job_adertisements/foundry/icon_smelter_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
         - <img src="./doc/job_adertisements/foundry/icon_worker_401.png" width="20" /> Welder
-        - <img src="./doc/job_adertisements/foundry/icon_craftsman_common.png" width="20" /> Boilermaker (Only with "New World Cities")
+        - <img src="./doc/job_adertisements/foundry/icon_craftsman_common.png" width="20" /> Boilermaker
       - Uncommon
         - <img src="./doc/job_adertisements/foundry/icon_emergency_military.png" width="20" /> Military Logistician
         - <img src="./doc/job_adertisements/foundry/icon_worker_208.png" width="20" /> Iron Founder
@@ -369,7 +369,7 @@
 
     </details>
 
-</details>
+  </details>
 
 - <details><!-- Town Hall -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
@@ -515,7 +515,7 @@
 
     </details>
 
-</details>
+  </details>
 
 - <details><!-- Harbourmaster Office -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Harbourmaster Office</summary>
@@ -561,6 +561,7 @@
         - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
         - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
         - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
+      - <img src="./doc/job_adertisements/enbesa/icon_archaeologist_801.png" width="20" /> Khadija Tsegaye, Angereb's Market Master
 
     </details>
 
@@ -580,7 +581,7 @@
 
     </details>
 
-</details>
+  </details>
 
 ## <img src="./doc/job_adertisements/icon_session_southamerica.png" width="30" /> New World Items
 
@@ -783,8 +784,8 @@
 
     </details>
 
-  - <details><!-- New World Consumer Goods -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_consumables_colony01_blank.png" width="20" /> Consumer Goods</summary>
+  - <details><!-- New World Consumer/Luxus Goods -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_consumables_colony01_blank.png" width="20" /> Consumer/Luxus Goods</summary>
 
     - <img src="./doc/job_adertisements/consumer/icon_consumables_colony01_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
@@ -894,7 +895,7 @@
 
     </details>
 
-</details>
+  </details>
 
 - <details><!-- New World Town Hall -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
@@ -914,7 +915,6 @@
 
       - Uncommon
         - <img src="./doc/job_adertisements/residence/icon_well_dressed_407.png" width="20" /> Lecturer
-        - <img src="./doc/job_adertisements/residence/icon_worker_804.png" width="20" /> Schoolteacher
         - <img src="./doc/job_adertisements/residence/icon_fireman_101.png" width="20" /> Volunteer Fireman
         - <img src="./doc/job_adertisements/residence/icon_worker_804.png" width="20" /> Schoolteacher (Only with "School New World")
 
@@ -977,8 +977,7 @@
         - <img src="./doc/job_adertisements/puplic/icon_teacher_823.png" width="20" /> Anne Kenyatta, Special Needs Teacher (Only with "School New World")
 
     </details>
-
-</details>
+  </details>
 
 - <details><!-- New World Harbourmaster Office -->
   <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Harbourmaster Office</summary>
@@ -1024,5 +1023,216 @@
       - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
       - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
       - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
+      - <img src="./doc/job_adertisements/enbesa/icon_archaeologist_801.png" width="20" /> Khadija Tsegaye, Angereb's Market Master
 
-</details>
+  </details>
+
+## <img src="./doc/job_adertisements/icon_session_landoflions.png" width="30" /> Enbesa Items
+
+- <details><!-- Enbesa Trade Union -->
+  <summary><img src="./doc/job_adertisements/icon_building_trade_union.png" width="20" /> Trade Union</summary>
+
+  - <details><!-- Local Specialists -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesa_blank.png" width="20" /> Local Specialists</summary>
+
+    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_1.png" width="20" /> "Uncommon/Rare"
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/enbesa/icon_herder_1.png" width="20" /> Grazing expert
+        - <img src="./doc/job_adertisements/enbesa/icon_horticulturist_2b.png" width="20" /> Flower Girl
+        - <img src="./doc/job_adertisements/enbesa/icon_traditional_handicraft_1.png" width="20" /> Careful Craftsman
+
+      - Rare
+        - <img src="./doc/job_adertisements/enbesa/icon_herder_2.png" width="20" /> Loving Cattleherd
+        - <img src="./doc/job_adertisements/enbesa/icon_innkeeper_2.png" width="20" /> Tea Selector
+        - <img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_2.png" width="20" /> Enbesan Bishop
+        - <img src="./doc/job_adertisements/enbesa/icon_plants_adept_1.png" width="20" /> Spice Master
+        - <img src="./doc/job_adertisements/enbesa/icon_enbesa_dung_collector.png" width="20" /> Enbesan Animal Nutritionist
+
+    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_2.png" width="20" /> "Epic/Legendary"
+
+      - Epic
+        - <img src="./doc/job_adertisements/enbesa/icon_traditional_handcraft_3b.png" width="20" /> Magan the Master Craftsman
+        - <img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" width="20" /> Wahenoor the Paper Mill Pro
+
+      - Legendary
+        - <img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" width="20" /> Calla Lily, Of The Desert Bloom
+        - <img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Aaden Issack, World-Famous Enbesan Chef
+        - <img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_2.png" width="20" /> Giorgis the Eminent Hymnodist
+
+    </details>
+
+  - <details><!-- Foreign Specialists -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesa_blank_2.png" width="20" /> Foreign Specialists</summary>
+
+    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_1f.png" width="20" /> "Common/Uncommon/Rare"
+
+      - Common
+        - <img src="./doc/job_adertisements/forestry/icon_worker_104.png" width="20" /> Lumberjack
+        - <img src="./doc/job_adertisements/agriculture/icon_farmer_201_b.png" width="20" /> Shepherd
+        - <img src="./doc/job_adertisements/cloth/icon_worker_413.png" width="20" /> Weaver
+        - <img src="./doc/job_adertisements/material/icon_mason_718.png" width="20" /> Moulder
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/forestry/icon_farmer_201_b.png" width="20" /> Forester
+        - <img src="./doc/job_adertisements/forestry/icon_worker_413.png" width="20" /> Joiner
+        - <img src="./doc/job_adertisements/agriculture/icon_shepherd_705.png" width="20" /> Herdsman
+        - <img src="./doc/job_adertisements/cloth/icon_worker_329.png" width="20" /> Tailor
+        - <img src="./doc/job_adertisements/mining/icon_farmer_401.png" width="20" /> Dredger
+        - <img src="./doc/job_adertisements/material/icon_worker_603.png" width="20" /> Brickmaker
+
+      - Rare
+        - <img src="./doc/job_adertisements/agriculture/icon_welldress_307.png" width="20" /> Livestock Farmer
+        - <img src="./doc/job_adertisements/agriculture/icon_worker_328.png" width="20" /> Valentina Álvarez
+        - <img src="./doc/job_adertisements/food/icon_doctor_518.png" width="20" />Enbesan Envoy
+        - <img src="./doc/job_adertisements/mining/icon_grocer724.png" width="20" /> Quarry Foreman
+        - <img src="./doc/job_adertisements/material/icon_worker_109.png" width="20" />General Foreman
+
+    - <img src="./doc/job_adertisements/enbesa/icon_enbesa_2f.png" width="20" /> "Epic/Legendary"
+
+      - Epic
+        - <img src="./doc/job_adertisements/infrastructure/icon_anarchist_bekoin.png" width="20" /> Bekonin, Spirit of Liberty
+        - <img src="./doc/job_adertisements/infrastructure/icon_influencer_realferas_2.png" width="20" /> Feras Alsarami
+        - <img src="./doc/job_adertisements/agriculture/icon_shepherd_519.png" width="20" /> Rodrigo the Ranchero
+        - <img src="./doc/job_adertisements/forestry/icon_forester_401.png" width="20" /> Miss Rodriguez
+        - <img src="./doc/job_adertisements/material/icon_normal_dressed_106.png" width="20" /> Ferhat the Experienced Builder
+
+      - Legendary
+        - <img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" width="20" /> Mark van der Mark, Breeder of Shepherd Dogs
+        - <img src="./doc/job_adertisements/forestry/icon_hunter_300.png" width="20" /> Ursula Green
+        - <img src="./doc/job_adertisements/infrastructure/icon_craftsman_maciver.png" width="20" /> Angela "Meg" Iver, The Polyvalent
+        - <img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" width="20" /> Steven MacLeod, Geological Surveyor
+
+    </details>
+
+  </details>
+
+- <details><!-- Enbesa Town Hall -->
+  <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Town Hall</summary>
+
+  - <details><!-- Residence Management -->
+    <summary><img src="./doc/job_adertisements/residence/icon_residence_blank.png" width="20" /> Residence Management</summary>
+
+    - <img src="./doc/job_adertisements/residence/icon_residence_6.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/residence/icon_worker_104.png" width="20" /> Bartender
+        - <img src="./doc/job_adertisements/residence/icon_professor_710.png" width="20" /> Fellow
+        - <img src="./doc/job_adertisements/residence/icon_police_officer_uncommon.png" width="20" /> Sergeant
+        - <img src="./doc/job_adertisements/residence/icon_firebrigade_401.png" width="20" /> Water-Carrier
+        - <img src="./doc/job_adertisements/residence/icon_doctor_802.png" width="20" /> Nurse
+        - <img src="./doc/job_adertisements/residence/icon_bartender_813.png" width="20" /> Grocer
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/residence/icon_well_dressed_407.png" width="20" /> Lecturer
+        - <img src="./doc/job_adertisements/residence/icon_fireman_101.png" width="20" /> Volunteer Fireman
+        - <img src="./doc/job_adertisements/enbesa/icon_innkeeper_1a.png" width="20" /> Soft Drink Seller
+        - <img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_1.png" width="20" /> Enthusiast Cook
+
+      - Rare
+        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_404.png" width="20" /> Very Senior Lecturer
+        - <img src="./doc/job_adertisements/residence/icon_worker_407.png" width="20" /> Headmistress
+        - <img src="./doc/job_adertisements/enbesa/icon_politician.png" width="20" /> Elder Selassy'e
+        - <img src="./doc/job_adertisements/enbesa/icon_plants_adept_2.png" width="20" /> Industrious Embroidress
+
+    - <img src="./doc/job_adertisements/residence/icon_residence_7.png" width="20" /> "Epic/Legendary"
+      - Epic
+        - <img src="./doc/job_adertisements/residence/icon_priest_715.png" width="20" /> Arch-Archbishop Archibald
+        - <img src="./doc/job_adertisements/residence/icon_well_dressed_202.png" width="20" /> Gordon the Master Grocer
+        - <img src="./doc/job_adertisements/residence/icon_well_dressed_108.png" width="20" /> Ernest the Educator
+        - <img src="./doc/job_adertisements/residence/icon_well_dressed_102.png" width="20" /> Miles the Master Butler
+        - <img src="./doc/job_adertisements/residence/icon_influencer_blitz.png" width="20" /> Elliot "Blitz" the Security Engineer
+        - <img src="./doc/job_adertisements/residence/icon_worker_603.png" width="20" /> Vicente's Informant
+        - <img src="./doc/job_adertisements/enbesa/icon_innkeeper_3a.png" width="20" /> Shayi Shaah, Tea House Empress
+        - <img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_2.png" width="20" /> Banquet Chef
+
+      - Legendary
+        - <img src="./doc/job_adertisements/residence/icon_police_officer_angel.png" width="20" /> Sgt. Nicolas Gabriel, the Over-Achiever
+        - <img src="./doc/job_adertisements/residence/icon_priest_epic.png" width="20" /> Pope Lucius I, "The Rejuvenator"
+        - <img src="./doc/job_adertisements/residence/icon_normal_dressed_405.png" width="20" /> Prof. Iwa Ebashi, Pioneer of the Radioactive
+        - <img src="./doc/job_adertisements/residence/icon_well_dressed_402.png" width="20" /> Aristelia Bataille, of the "Novelty Store"
+        - <img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_3.png" width="20" /> Patriarch Matteos X
+        - <img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_1.png" width="20" /> Aesop, The Fabled Storyteller
+        - <img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_3.png" width="20" /> Mulatu The Musical Maestro
+        - <img src="./doc/job_adertisements/enbesa/icon_adventurer_700.png" width="20" /> Amadi Ilga, Ketema's Chief Civil Engineer
+
+    </details>
+
+  - <details><!-- Puplic Services -->
+    <summary><img src="./doc/job_adertisements/puplic/icon_institutions_blank.png" width="20" /> Puplic Services</summary>
+
+    - <img src="./doc/job_adertisements/puplic/icon_institutions_1.png" width="20" /> "Common/Uncommon/Rare"
+      - Common
+        - <img src="./doc/job_adertisements/puplic/icon_priest_201.png" width="20" /> Abbé
+
+      - Uncommon
+        - <img src="./doc/job_adertisements/puplic/icon_priest_517.png" width="20" /> Priest
+        - <img src="./doc/job_adertisements/puplic/icon_grocer724.png" width="20" /> Peddler
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_native.png" width="20" /> House Doctor
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer.png" width="20" /> Inspector
+        - <img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_1.png" width="20" /> Pater Dekama
+
+      - Rare
+        - <img src="./doc/job_adertisements/puplic/icon_priest_401.png" width="20" /> Beatific Bishopess
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_common.png" width="20" /> Punctilious Physician
+        - <img src="./doc/job_adertisements/puplic/icon_normaldress_811.png" width="20" /> Sales Clerk
+        - <img src="./doc/job_adertisements/puplic/icon_fireman_102.png" width="20" /> Veteran Firefighter
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer_101_b.png" width="20" /> Superintendent
+
+    - <img src="./doc/job_adertisements/puplic/icon_institutions_2.png" width="20" /> "Epic/Legendary"
+
+      - Epic
+        - <img src="./doc/job_adertisements/puplic/icon_fireman_104.png" width="20" /> Fire Chief Mills
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_717.png" width="20" /> Dr. Salvador
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer_202.png" width="20" /> Chief Superintendent Clifford
+        - <img src="./doc/job_adertisements/puplic/icon_firebrigade_401.png" width="20" /> Enbesan Fire Tamer
+
+      - Legendary
+        - <img src="./doc/job_adertisements/puplic/icon_hunter_401.png" width="20" /> Constable Chaos
+        - <img src="./doc/job_adertisements/puplic/icon_doctor_james_barry.png" width="20" /> Dr. Maurice Slim, Former Head of Promise Trust
+        - <img src="./doc/job_adertisements/puplic/icon_police_officer_legendary.png" width="20" /> Sir Charles Rafferty, Metropolitan Commissioner
+
+    </details>
+  </details>
+
+- <details><!-- Enbesa Harbourmaster Office -->
+  <summary><img src="./doc/job_adertisements/icon_building_townhall.png" width="20" /> Harbourmaster Office</summary>
+
+  - Harbor Work
+  - <img src="./doc/job_adertisements/harbor/icon_harbor_1.png" width="20" /> "Common/Uncommon/Rare"
+    - Common
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer_101.png" width="20" /> Bruiser
+      - <img src="./doc/job_adertisements/harbor/icon_uniform_707.png" width="20" /> Gunner
+      - <img src="./doc/job_adertisements/harbor/icon_fisher_401.png" width="20" /> Angler
+      - <img src="./doc/job_adertisements/harbor/icon_normal_dressed_401.png" width="20" /> Guide
+
+    - Uncommon
+      - <img src="./doc/job_adertisements/harbor/icon_artillerist_401.png" width="20" /> Artillerywoman
+      - <img src="./doc/job_adertisements/harbor/icon_fisherman_101_b.png" width="20" /> Line Fisherman
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer_201.png" width="20" /> Scammer
+      - <img src="./doc/job_adertisements/harbor/icon_normaldress_303.png" width="20" /> Souvenir Seller
+
+    - Rare
+      - <img src="./doc/job_adertisements/enbesa/icon_sea_master_1.png" width="20" /> Seasoned Salter
+      - <img src="./doc/job_adertisements/harbor/icon_fisherman_102.png" width="20" /> Veteran Whaler
+      - <img src="./doc/job_adertisements/harbor/icon_artillerist_201.png" width="20" /> Cannoneer
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer.png" width="20" /> Savvy Customs Officer
+      - <img src="./doc/job_adertisements/harbor/icon_travelagent_827.png" width="20" /> Travel Agent
+
+  - <img src="./doc/job_adertisements/harbor/icon_harbor_2.png" width="20" /> "Epic/Legendary"
+    - Epic
+      - <img src="./doc/job_adertisements/enbesa/icon_sea_master_2.png" width="20" /> Lobsterman
+      - <img src="./doc/job_adertisements/harbor/icon_worker_414.png" width="20" /> Mother of Pearls
+      - <img src="./doc/job_adertisements/harbor/icon_custom_officer_103.png" width="20" /> Taxman Tim
+      - <img src="./doc/job_adertisements/harbor/icon_travelagent_712.png" width="20" /> Jaafan the Cruise Impresario
+      - <img src="./doc/job_adertisements/harbor/icon_artillerist_202.png" width="20" /> Colonel Barzagli
+
+    - Legendary
+      - <img src="./doc/job_adertisements/enbesa/icon_archaeologist_801.png" width="20" /> Khadija Tsegaye, Angereb's Market Master
+      - <img src="./doc/job_adertisements/harbor/icon_navigator_102.png" width="20" /> Captain Moby, Old Dog of the Sea
+      - <img src="./doc/job_adertisements/harbor/icon_captain_103.png" width="20" /> Field Marshall Matravers, Conductor of Armies
+      - <img src="./doc/job_adertisements/harbor/icon_uniformed_101.png" width="20" /> General Ewing Thomson, Planter of Flags
+      - <img src="./doc/job_adertisements/harbor/icon_shepherd_510.png" width="20" /> Pedro, Captain of the "Panama"
+      - <img src="./doc/job_adertisements/harbor/icon_captain_401_b.png" width="20" /> Lady Banes, Proponent of Protectionism
+      - <img src="./doc/job_adertisements/harbor/icon_travelagent_829.png" width="20" /> Thomasina Langton, Promoter Extraordinaire!
+
+  </details>
