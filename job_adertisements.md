@@ -339,7 +339,7 @@
     </details>
 
   - <details><!-- Infrastructure -->
-    <summary>Infrastructure</summary>
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_infrastructure_blank.png" width="20" /> Infrastructure</summary>
 
     - <img src="./doc/job_adertisements/infrastructure/icon_infrastructure_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
@@ -709,7 +709,7 @@
     </details>
 
   - <details><!-- New World Building Material Industry/Infrastructure -->
-    <summary><img src="./doc/job_adertisements/material/icon_construction_blank.png" width="20" /> Building Material Industry/Infrastructure</summary>
+    <summary><img src="./doc/job_adertisements/material/icon_construction_infrastructure_blank.png" width="20" /> Building Material Industry/Infrastructure</summary>
 
     - <img src="./doc/job_adertisements/material/icon_construction_infrastructure_1.png" width="20" /> "Common/Uncommon/Rare"
       - Common
