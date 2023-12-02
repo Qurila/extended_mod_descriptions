@@ -1,6 +1,6 @@
 # Item Overhaul
 
-<details>
+   <details>
 
 ## <summary><img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" width="30" /> Town Hall Rebalanced</summary>
 
