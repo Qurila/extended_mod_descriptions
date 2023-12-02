@@ -52,6 +52,18 @@
       <img src="./doc/item_overhaul/trade_union/mariana_2.png" />
     </details>
 
+  - <details><!-- Dr. Ali Al-Zahir, the Botanical Director -->
+    <summary><img src="./doc/job_adertisements/agriculture/icon_farmer_102_b.png" width="20" /> Dr. Ali Al-Zahir, the Botanical Director</summary>
+      <img src="./doc/item_overhaul/trade_union/ali.png" />
+    </details>
+
+  - <details><!-- Francois Strindberg, Crown Jeweller -->
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" width="20" width="20" /> Francois Strindberg, Crown Jeweller</summary>
+      <img src="./doc/item_overhaul/trade_union/strindberg.png" />
+      <img src="./doc/item_overhaul/trade_union/gilbert.png" />
+      <img src="./doc/item_overhaul/trade_union/gemologist.png" />
+    </details>
+
   </details>
 
 - <details>
