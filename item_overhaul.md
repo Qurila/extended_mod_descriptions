@@ -9,7 +9,7 @@
     <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
       <img src="./doc/item_overhaul/trade_union/aaden.png" />
 
-      When a population consumes Jacob's "**Canned Fish**", "**Canned Food**" is exchanged for it.
+      When a population consumes Jacob's "**Sardines**", "**Canned Food**" is exchanged for it.
       <img src="./doc/item_overhaul/trade_union/aaden_2.png" />
     </details>
 
@@ -36,6 +36,20 @@
   - <details><!-- Calla Lily, Of The Desert Bloom -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" width="20" /> Calla Lily, Of The Desert Bloom</summary>
       <img src="./doc/item_overhaul/trade_union/calla.png" />
+    </details>
+
+  - <details><!-- Cosmo Castelli, Agronomic Trailblazer -->
+    <summary><img src="./doc/job_adertisements/agriculture/icon_well_dressed_107.png" width="20" /> Cosmo Castelli, Agronomic Trailblazer</summary>
+      <img src="./doc/item_overhaul/trade_union/calla.png" />
+    </details>
+
+  - <details><!-- Cristobal Taffeta, The Trendsetter -->
+    <summary><img src="./doc/job_adertisements/cloth/icon_teacher_515.png" width="20" /> Cristobal Taffeta, The Trendsetter</summary>
+      <img src="./doc/item_overhaul/trade_union/cristobal.png" />
+      <img src="./doc/item_overhaul/trade_union/mariana.png" />
+
+      When a population consumes Jacob's "**Suits**", "**Tailored Suits**" are exchanged for them.
+      <img src="./doc/item_overhaul/trade_union/mariana_2.png" />
     </details>
 
   </details>
