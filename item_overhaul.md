@@ -1,6 +1,6 @@
 # item_overhaul
 
-## <img src="./doc/job_adertisements/icon_session_landoflions.png" width="30" /> Trade Union Rebalanced
+## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" width="30" /> Trade Union Rebalanced
 
 - <details>
   <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Legendary</summary>
