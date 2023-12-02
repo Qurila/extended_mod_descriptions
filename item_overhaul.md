@@ -24,9 +24,9 @@
 
   </details>
 
-<details>
+  <details>
 
-## summary><img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" width="30" /> Town Hall Rebalanced</summary>
+## <summary><img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" width="30" /> Town Hall Rebalanced</summary>
 
 - <details>
   <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Legendary</summary>
