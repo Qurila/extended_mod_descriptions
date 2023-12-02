@@ -1,9 +1,10 @@
-# item_overhaul
+# Item Overhaul
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" width="30" /> Trade Union Rebalanced
 
 - <details>
-  <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Legendary</summary>
+
+- ## <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Legendary</summary>
 
   - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
@@ -23,10 +24,3 @@
     </details>
 
   </details>
-
-<details><!-- Aaden Issack, World-Famous Enbesan Chef -->
-
-## <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
-
-  <img src="./doc/item_overhaul/trade_union/aaden.png" />
-</details>
