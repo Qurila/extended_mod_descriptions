@@ -34,7 +34,7 @@
     </details>
 
   - <details><!-- Calla Lily, Of The Desert Bloom -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" width="20" /> /> Calla Lily, Of The Desert Bloom</summary>
+    <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" width="20" /> Calla Lily, Of The Desert Bloom</summary>
       <img src="./doc/item_overhaul/trade_union/calla.png" />
     </details>
 
