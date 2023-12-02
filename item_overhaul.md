@@ -19,7 +19,7 @@
 
   - <details><!-- Brother Hilarius, Purveyor of Monastic Mixtures -->
     <summary><img src="./doc/job_adertisements/drink/icon_priest_uncommon.png" width="20" /> Brother Hilarius, Purveyor of Monastic Mixtures</summary>
-      <img src="./doc/item_overhaul/trade_union/belinda.png" />
+      <img src="./doc/item_overhaul/trade_union/hilarius.png" />
     </details>
 
   - <details><!-- Bruno Ironbright, Engineering Giant -->
