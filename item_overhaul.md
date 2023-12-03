@@ -99,6 +99,7 @@
   - <details><!-- Hans Klein, Old Grandfather Time  -->
     <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" width="20" width="20" /> Hans Klein, Old Grandfather Time </summary>
       <img src="./doc/item_overhaul/trade_union/hans.png" />
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" />
       <img src="./doc/item_overhaul/trade_union/chiara.png" />
       <img src="./doc/item_overhaul/trade_union/horologist.png" />
     </details>
