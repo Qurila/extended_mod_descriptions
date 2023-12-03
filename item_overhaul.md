@@ -60,8 +60,36 @@
   - <details><!-- Francois Strindberg, Crown Jeweller -->
     <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" width="20" width="20" /> Francois Strindberg, Crown Jeweller</summary>
       <img src="./doc/item_overhaul/trade_union/strindberg.png" />
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" />
       <img src="./doc/item_overhaul/trade_union/gilbert.png" />
       <img src="./doc/item_overhaul/trade_union/gemologist.png" />
+    </details>
+
+  - <details><!-- Francois Thorne, The Industrial Reinforcer  -->
+    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_103.png" width="20" width="20" /> Francois Thorne, The Industrial Reinforcer </summary>
+      <img src="./doc/item_overhaul/trade_union/thorne.png" />
+      <img src="./doc/item_overhaul/trade_union/general.png" />
+    </details>
+
+  - <details><!-- Gennaro Garibaldi, Chocolatier by Royal Appointment  -->
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" width="20" /> Gennaro Garibaldi, Chocolatier by Royal Appointment </summary>
+      <img src="./doc/item_overhaul/trade_union/gennaro.png" />
+      <img src="./doc/item_overhaul/trade_union/charlotte.png" />
+      <img src="./doc/item_overhaul/trade_union/chocolatier.png" />
+    </details>
+
+  - <details><!-- Fried Plantain Kitchen Items  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_fried_bananas.png" width="20" width="20" /> Fried Plantain Kitchen Items </summary>
+      <img src="./doc/item_overhaul/trade_union/icnoyotl.png" />
+      <img src="./doc/item_overhaul/trade_union/kantyi.png" />
+      <img src="./doc/item_overhaul/trade_union/confectionier.png" />
+    </details>
+
+  - <details><!-- Gerhard Fuchs, of the Patent Eyeglass  -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" width="20" /> Gerhard Fuchs, of the Patent Eyeglass </summary>
+      <img src="./doc/item_overhaul/trade_union/gerhard.png" />
+      <img src="./doc/item_overhaul/trade_union/otto.png" />
+      <img src="./doc/item_overhaul/trade_union/horologist.png" />
     </details>
 
   </details>
