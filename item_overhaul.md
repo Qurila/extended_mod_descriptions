@@ -135,6 +135,21 @@
       <img src="./doc/item_overhaul/trade_union/sommelier.png" />
     </details>
 
+  - <details><!-- Marie-Antoine, Patissier Royale -->
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" width="20" width="20" width="20" /> Marie-Antoine, Patissier Royale </summary>
+      <img src="./doc/item_overhaul/trade_union/marie.png" />
+      <img src="./doc/item_overhaul/trade_union/patrice.png" />
+      <img src="./doc/item_overhaul/trade_union/fine.png" />
+    </details>
+
+  - <details><!-- Mark van der Mark, Breeder of Shepherd Dogs -->
+    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" width="20" width="20" width="20" width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
+      <img src="./doc/item_overhaul/trade_union/mark.png" />
+      <img src="./doc/item_overhaul/trade_union/anthrax.png" />
+      <img src="./doc/item_overhaul/trade_union/savannah.png" />
+      <img src="./doc/item_overhaul/trade_union/domestic.png" />
+    </details>
+
   </details>
 
 - <details>
