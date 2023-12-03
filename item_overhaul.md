@@ -26,6 +26,8 @@
   - <details><!-- Bruno Ironbright, Engineering Giant -->
     <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_205.png" width="20" /> Bruno Ironbright, Engineering Giant</summary>
       <img src="./doc/item_overhaul/trade_union/bruno.png" />
+      <img src="./doc/item_overhaul/trade_union/susannah.png" />
+      <img src="./doc/item_overhaul/trade_union/engineer.png" />
     </details>
 
   - <details><!-- Bumm Brimmell, the Original Dandy -->
@@ -40,7 +42,12 @@
 
   - <details><!-- Cosmo Castelli, Agronomic Trailblazer -->
     <summary><img src="./doc/job_adertisements/agriculture/icon_well_dressed_107.png" width="20" /> Cosmo Castelli, Agronomic Trailblazer</summary>
-      <img src="./doc/item_overhaul/trade_union/calla.png" />
+      <img src="./doc/item_overhaul/trade_union/cosmo.png" />
+      <img src="./doc/item_overhaul/trade_union/alexander.png" />
+      <img src="./doc/item_overhaul/trade_union/medal.png" />
+      <img src="./doc/item_overhaul/trade_union/planter.png" />
+      <img src="./doc/item_overhaul/trade_union/yvonne.png" />
+      <img src="./doc/item_overhaul/trade_union/homesteader.png" />
     </details>
 
   - <details><!-- Cristobal Taffeta, The Trendsetter -->
@@ -58,7 +65,7 @@
     </details>
 
   - <details><!-- Francois Strindberg, Crown Jeweller -->
-    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" width="20" width="20" /> Francois Strindberg, Crown Jeweller</summary>
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" width="20" /> Francois Strindberg, Crown Jeweller</summary>
       <img src="./doc/item_overhaul/trade_union/strindberg.png" />
       <img src="./doc/item_overhaul/trade_union/brigthwoman.png" />
       <img src="./doc/item_overhaul/trade_union/gilbert.png" />
@@ -66,38 +73,38 @@
     </details>
 
   - <details><!-- Francois Thorne, The Industrial Reinforcer -->
-    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_103.png" width="20" width="20" /> Francois Thorne, The Industrial Reinforcer </summary>
+    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_103.png" width="20" /> Francois Thorne, The Industrial Reinforcer </summary>
       <img src="./doc/item_overhaul/trade_union/thorne.png" />
       <img src="./doc/item_overhaul/trade_union/general.png" />
     </details>
 
   - <details><!-- Gennaro Garibaldi, Chocolatier by Royal Appointment -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" width="20" /> Gennaro Garibaldi, Chocolatier by Royal Appointment </summary>
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Gennaro Garibaldi, Chocolatier by Royal Appointment </summary>
       <img src="./doc/item_overhaul/trade_union/gennaro.png" />
       <img src="./doc/item_overhaul/trade_union/charlotte.png" />
       <img src="./doc/item_overhaul/trade_union/chocolatier.png" />
     </details>
 
   - <details><!-- Fried Plantain Kitchen Items -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_fried_bananas.png" width="20" width="20" /> Fried Plantain Kitchen Items </summary>
+    <summary><img src="./doc/item_overhaul/trade_union/icon_fried_bananas.png" width="20" /> Fried Plantain Kitchen Items </summary>
       <img src="./doc/item_overhaul/trade_union/icnoyotl.png" />
       <img src="./doc/item_overhaul/trade_union/kantyi.png" />
       <img src="./doc/item_overhaul/trade_union/confectionier.png" />
     </details>
 
   - <details><!-- Gerhard Fuchs, of the Patent Eyeglass -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" width="20" /> Gerhard Fuchs, of the Patent Eyeglass </summary>
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" /> Gerhard Fuchs, of the Patent Eyeglass </summary>
       <img src="./doc/item_overhaul/trade_union/gerhard.png" />
       <img src="./doc/item_overhaul/trade_union/otto.png" />
     </details>
 
   - <details><!-- Giorgis, the Eminent Hymnodist -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_2.png" width="20" width="20" /> Giorgis, the Eminent Hymnodist </summary>
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_2.png" width="20" /> Giorgis, the Eminent Hymnodist </summary>
       <img src="./doc/item_overhaul/trade_union/giorgis.png" />
     </details>
 
   - <details><!-- Hans Klein, Old Grandfather Time -->
-    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" width="20" width="20" /> Hans Klein, Old Grandfather Time </summary>
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" width="20" /> Hans Klein, Old Grandfather Time </summary>
       <img src="./doc/item_overhaul/trade_union/hans.png" />
       <img src="./doc/item_overhaul/trade_union/brigthwoman.png" />
       <img src="./doc/item_overhaul/trade_union/chiara.png" />
@@ -105,49 +112,91 @@
     </details>
 
   - <details><!-- Herve Savonne, Suppressor of Grime -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" width="20" /> Herve Savonne, Suppressor of Grime </summary>
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" /> Herve Savonne, Suppressor of Grime </summary>
       <img src="./doc/item_overhaul/trade_union/herve.png" />
       <img src="./doc/item_overhaul/trade_union/prunella.png" />
     </details>
 
   - <details><!-- Jörg von Malching, Augur of the Auric -->
-    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_104.png" width="20" width="20" /> Jörg von Malching, Augur of the Auric </summary>
+    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_104.png" width="20" /> Jörg von Malching, Augur of the Auric </summary>
       <img src="./doc/item_overhaul/trade_union/joerg.png" />
       <img src="./doc/item_overhaul/trade_union/micaela.png" />
       <img src="./doc/item_overhaul/trade_union/sapper.png" />
     </details>
 
   - <details><!-- Lady Jane Smythe, Queen of Haute Couture -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" width="20" width="20" /> Lady Jane Smythe, Queen of Haute Couture </summary>
+    <summary><img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" width="20" /> Lady Jane Smythe, Queen of Haute Couture </summary>
       <img src="./doc/item_overhaul/trade_union/jane.png" />
     </details>
 
   - <details><!-- Marcel Forcas, Celebrity Chef -->
-    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_201.png" width="20" width="20" width="20" /> Marcel Forcas, Celebrity Chef </summary>
+    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_201.png" width="20" /> Marcel Forcas, Celebrity Chef </summary>
       <img src="./doc/item_overhaul/trade_union/marcel.png" />
       <img src="./doc/item_overhaul/trade_union/archivist.png" />
     </details>
 
   - <details><!-- Marco de la Mocha, Crusher of Beans -->
-    <summary><img src="./doc/job_adertisements/drink/icon_curator_702.png" width="20" width="20" width="20" width="20" /> Marco de la Mocha, Crusher of Beans </summary>
+    <summary><img src="./doc/job_adertisements/drink/icon_curator_702.png" width="20" /> Marco de la Mocha, Crusher of Beans </summary>
       <img src="./doc/item_overhaul/trade_union/marco.png" />
       <img src="./doc/item_overhaul/trade_union/cecilia.png" />
       <img src="./doc/item_overhaul/trade_union/sommelier.png" />
     </details>
 
   - <details><!-- Marie-Antoine, Patissier Royale -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" width="20" width="20" width="20" /> Marie-Antoine, Patissier Royale </summary>
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" width="20" /> Marie-Antoine, Patissier Royale </summary>
       <img src="./doc/item_overhaul/trade_union/marie.png" />
       <img src="./doc/item_overhaul/trade_union/patrice.png" />
       <img src="./doc/item_overhaul/trade_union/fine.png" />
     </details>
 
   - <details><!-- Mark van der Mark, Breeder of Shepherd Dogs -->
-    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" width="20" width="20" width="20" width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
+    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
       <img src="./doc/item_overhaul/trade_union/mark.png" />
       <img src="./doc/item_overhaul/trade_union/anthrax.png" />
       <img src="./doc/item_overhaul/trade_union/savannah.png" />
       <img src="./doc/item_overhaul/trade_union/domestic.png" />
+    </details>
+
+  - <details><!-- Mrs. Mayson, The Very Good Housekeeper -->
+    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" width="20" /> Mrs. Mayson, The Very Good Housekeeper </summary>
+      <img src="./doc/item_overhaul/trade_union/mayson.png" />
+      <img src="./doc/item_overhaul/trade_union/michel.png" />
+    </details>
+
+  - <details><!-- Seraphim Papadikas, The Window Dresser -->
+    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_107.png" width="20" /> Seraphim Papadikas, The Window Dresser </summary>
+      <img src="./doc/item_overhaul/trade_union/seraphim.png" />
+      <img src="./doc/item_overhaul/trade_union/morris.png" />
+    </details>
+
+  - <details><!-- Steven MacLeod, Geological Surveyor -->
+    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" width="20" /> Steven MacLeod, Geological Surveyor </summary>
+      <img src="./doc/item_overhaul/trade_union/steven.png" />
+      <img src="./doc/item_overhaul/trade_union/grigor.png" />
+    </details>
+
+  - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_coffee_specialist_800.png" width="20" /> Susannah Brightwoman, A Glimmer In The Darkness </summary>
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" />
+    </details>
+
+  - <details><!-- Tlayolotl Savor, King of the Corn -->
+    <summary><img src="./doc/job_adertisements/food/icon_entertainer_508.png" width="20" /> Tlayolotl Savor, King of the Corn </summary>
+      <img src="./doc/item_overhaul/trade_union/tlayolotl.png" />
+      <img src="./doc/item_overhaul/trade_union/kantyi_2.png" />
+      <img src="./doc/item_overhaul/trade_union/mole.png" />
+    </details>
+
+  - <details><!-- Victor Perfecto, Cigar Daddy -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_torcedor_512.png" width="20" /> Victor Perfecto, Cigar Daddy </summary>
+      <img src="./doc/item_overhaul/trade_union/victor.png" />
+      <img src="./doc/item_overhaul/trade_union/lucia.png" />
+    </details>
+
+  - <details><!-- Victor Perfecto, Cigar Daddy -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_torcedor_512.png" width="20" /> Victor Perfecto, Cigar Daddy </summary>
+      <img src="./doc/item_overhaul/trade_union/victor.png" />
+      <img src="./doc/item_overhaul/trade_union/lucia.png" />
     </details>
 
   </details>
