@@ -115,7 +115,6 @@
       <img src="./doc/item_overhaul/trade_union/micaela.png" />
       <img src="./doc/item_overhaul/trade_union/sapper.png" />
     </details>
-    </details>
 
   </details>
 
