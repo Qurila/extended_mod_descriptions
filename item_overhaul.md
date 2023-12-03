@@ -89,7 +89,32 @@
     <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" width="20" /> Gerhard Fuchs, of the Patent Eyeglass </summary>
       <img src="./doc/item_overhaul/trade_union/gerhard.png" />
       <img src="./doc/item_overhaul/trade_union/otto.png" />
+    </details>
+
+  - <details><!-- Giorgis, the Eminent Hymnodist  -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_2.png" width="20" width="20" /> Giorgis, the Eminent Hymnodist </summary>
+      <img src="./doc/item_overhaul/trade_union/giorgis.png" />
+    </details>
+
+  - <details><!-- Hans Klein, Old Grandfather Time  -->
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" width="20" width="20" /> Hans Klein, Old Grandfather Time </summary>
+      <img src="./doc/item_overhaul/trade_union/hans.png" />
+      <img src="./doc/item_overhaul/trade_union/chiara.png" />
       <img src="./doc/item_overhaul/trade_union/horologist.png" />
+    </details>
+
+  - <details><!-- Herve Savonne, Suppressor of Grime  -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" width="20" width="20" /> Herve Savonne, Suppressor of Grime </summary>
+      <img src="./doc/item_overhaul/trade_union/herve.png" />
+      <img src="./doc/item_overhaul/trade_union/prunella.png" />
+    </details>
+
+  - <details><!-- Jörg von Malching, Augur of the Auric  -->
+    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_104.png" width="20" width="20" /> Jörg von Malching, Augur of the Auric </summary>
+      <img src="./doc/item_overhaul/trade_union/joerg.png" />
+      <img src="./doc/item_overhaul/trade_union/micaela.png" />
+      <img src="./doc/item_overhaul/trade_union/sapper.png" />
+    </details>
     </details>
 
   </details>
