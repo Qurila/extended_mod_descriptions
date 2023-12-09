@@ -198,10 +198,10 @@
 - <details>
   <summary>Epic</summary>
 
-  - <details><!-- Victor Perfecto, Cigar Daddy -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_torcedor_512.png" alt="Alternate text" width="20" /> Victor Perfecto, Cigar Daddy </summary>
-      <img src="./doc/item_overhaul/trade_union/victor.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/lucia.png" alt="Alternate text" />
+  - <details><!-- Chantelle the Charcutier -->
+    <summary><img src="./doc/job_adertisements/food/icon_baker_402.png" alt="Alternate text" width="20" /> Chantelle the Charcutier </summary>
+      <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="Alternate text" />
     </details>
 
   </details>
