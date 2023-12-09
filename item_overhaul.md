@@ -6,7 +6,7 @@
   <summary>Legendary</summary>
 
   - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="Alternate text" /> Aaden Issack, World-Famous Enbesan Chef</summary>
+    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="Alternate text" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
       <img src="./doc/item_overhaul/trade_union/aaden.png" />
 
       When a population consumes Jacob's "**Sardines**", "**Canned Food**" is exchanged for it.
