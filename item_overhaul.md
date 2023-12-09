@@ -204,6 +204,27 @@
       <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="Alternate text" />
     </details>
 
+  - <details><!-- Dario the Mechanical Engineer -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" alt="Alternate text" width="20" /> Dario the Mechanical Engineer </summary>
+      <img src="./doc/item_overhaul/trade_union/dario.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Johan the Inventor -->
+    <summary><img src="./doc/job_adertisements/luxus/icon_normal_dressed_202.png" alt="Alternate text" width="20" /> Johan the Inventor </summary>
+      <img src="./doc/item_overhaul/trade_union/johan.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Lily the Fashion Designer -->
+    <summary><img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" alt="Alternate text" width="20" /> Lily the Fashion Designer </summary>
+      <img src="./doc/item_overhaul/trade_union/lily.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Marie-Louise Careme, Chef de Cuisine -->
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_1.png" alt="Alternate text" width="20" /> Marie-Louise Careme, Chef de Cuisine </summary>
+      <img src="./doc/item_overhaul/trade_union/careme.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/sous.png" alt="Alternate text" />
+    </details>
+
   </details>
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Town Hall Rebalanced
