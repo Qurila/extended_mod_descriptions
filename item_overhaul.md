@@ -187,6 +187,13 @@
       <img src="./doc/item_overhaul/trade_union/mole.png" alt="Alternate text" />
     </details>
 
+  - <details><!-- Ursula Green, Guardian of the Forests -->
+    <summary><img src="./doc/job_adertisements/forestry/icon_hunter_300.png" alt="Alternate text" width="20" /> Ursula Green, Guardian of the Forests </summary>
+      <img src="./doc/item_overhaul/trade_union/ursula.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/tool3.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/tool2.png" alt="Alternate text" />
+    </details>
+
   - <details><!-- Victor Perfecto, Cigar Daddy -->
     <summary><img src="./doc/job_adertisements/consumer/icon_torcedor_512.png" alt="Alternate text" width="20" /> Victor Perfecto, Cigar Daddy </summary>
       <img src="./doc/item_overhaul/trade_union/victor.png" alt="Alternate text" />
@@ -235,6 +242,9 @@
     <summary><img src="./doc/job_adertisements/forestry/icon_forester_401.png" alt="Alternate text" width="20" /> Miss Rodriguez, the Conservationist </summary>
       <img src="./doc/item_overhaul/trade_union/rodriguez.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/ranger.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/saw3.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/saw2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/saw1.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Sir Lewis Brindley, the Chemist -->
@@ -263,7 +273,26 @@
       <img src="./doc/item_overhaul/trade_union/plough2.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/plough1.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/seed.png" alt="Alternate text" />
+
+      **Miraculous Steel Plough** is now part of the plough group, while **Steel Seed Drill** stands alone.
     </details>
+
+  - <details><!-- Fabulous Feed Yard -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_feedlots_3.png" alt="Alternate text" width="20" /> Fabulous Feed Yard </summary>
+      <img src="./doc/item_overhaul/trade_union/yard3.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/yard2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/yard1.png" alt="Alternate text" />
+    </details>
+
+- <details>
+  <summary>Rare</summary>
+
+  - <details><!-- Enbesan Bishop -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_innkeeper_2.png" alt="Alternate text" width="20" /> Enbesan Bishop  </summary>
+      <img src="./doc/item_overhaul/trade_union/bishop.png" alt="Alternate text" />
+    </details>
+
+  </details>
 
   </details>
 
