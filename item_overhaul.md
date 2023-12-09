@@ -163,7 +163,7 @@
       <img src="./doc/item_overhaul/trade_union/michel.png" alt="Alternate text" />
 
       When a population consumes Jacob's "**Sardines**", "**Canned Food**" is exchanged for it.
-      <img src="./doc/item_overhaul/trade_union/michel2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/michel_2.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Seraphim Papadikas, The Window Dresser -->
