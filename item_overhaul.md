@@ -161,6 +161,9 @@
     <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" alt="Alternate text" width="20" /> Mrs. Mayson, The Very Good Housekeeper </summary>
       <img src="./doc/item_overhaul/trade_union/mayson.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/michel.png" alt="Alternate text" />
+
+      When a population consumes Jacob's "**Sardines**", "**Canned Food**" is exchanged for it.
+      <img src="./doc/item_overhaul/trade_union/michel2.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Seraphim Papadikas, The Window Dresser -->
