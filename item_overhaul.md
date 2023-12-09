@@ -62,6 +62,10 @@
   - <details><!-- Dr. Ali Al-Zahir, the Botanical Director -->
     <summary><img src="./doc/job_adertisements/agriculture/icon_farmer_102_b.png" alt="Alternate text" width="20" /> Dr. Ali Al-Zahir, the Botanical Director</summary>
       <img src="./doc/item_overhaul/trade_union/ali.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/hermann.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/arborist.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/brown.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/pedologist.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Francois Strindberg, Crown Jeweller -->
