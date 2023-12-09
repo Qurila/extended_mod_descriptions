@@ -288,7 +288,7 @@
   <summary>Rare</summary>
 
   - <details><!-- Enbesan Bishop -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_innkeeper_2.png" alt="Alternate text" width="20" /> Enbesan Bishop  </summary>
+    <summary><img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_2.png" alt="Alternate text" width="20" /> Enbesan Bishop  </summary>
       <img src="./doc/item_overhaul/trade_union/bishop.png" alt="Alternate text" />
     </details>
 
