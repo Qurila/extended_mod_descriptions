@@ -225,6 +225,46 @@
       <img src="./doc/item_overhaul/trade_union/sous.png" alt="Alternate text" />
     </details>
 
+  - <details><!-- Master Craftsman Franke -->
+    <summary><img src="./doc/job_adertisements/cloth/icon_boris_franke.png" alt="Alternate text" width="20" /> Master Craftsman Franke </summary>
+      <img src="./doc/item_overhaul/trade_union/franke.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/constume.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Miss Rodriguez, the Conservationist -->
+    <summary><img src="./doc/job_adertisements/forestry/icon_forester_401.png" alt="Alternate text" width="20" /> Miss Rodriguez, the Conservationist </summary>
+      <img src="./doc/item_overhaul/trade_union/rodriguez.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/ranger.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Sir Lewis Brindley, the Chemist -->
+    <summary><img src="./doc/job_adertisements/drink/icon_influencer_lewis_2.png" alt="Alternate text" width="20" /> Sir Lewis Brindley, the Chemist </summary>
+      <img src="./doc/item_overhaul/trade_union/lewis.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Sluggish Surge-Wheel -->
+    <summary><img src="./doc/item_overhaul/trade_union/item_pelton_wheel.png" alt="Alternate text" width="20" /> Sluggish Surge-Wheel </summary>
+      <img src="./doc/item_overhaul/trade_union/wheel.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Wahenoor, the Paper Mill Pro -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" alt="Alternate text" width="20" /> Wahenoor, the Paper Mill Pro </summary>
+      <img src="./doc/item_overhaul/trade_union/wahenoor.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Yebeba's Sturdy Greenhouse -->
+    <summary><img src="./doc/item_overhaul/trade_union/item_sturdy_greenhouse.png" alt="Alternate text" width="20" /> Yebeba's Sturdy Greenhouse </summary>
+      <img src="./doc/item_overhaul/trade_union/yebeba.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Miraculous Steel Plough -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="Alternate text" width="20" /> Miraculous Steel Plough </summary>
+      <img src="./doc/item_overhaul/trade_union/plough3.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/plough2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/plough1.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/seed.png" alt="Alternate text" />
+    </details>
+
   </details>
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Town Hall Rebalanced
