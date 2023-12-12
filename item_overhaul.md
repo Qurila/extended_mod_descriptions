@@ -302,20 +302,3 @@
   </details>
 
   </details>
-
-## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Town Hall Rebalanced
-
-- <details>
-  <summary>Legendary</summary>
-
-  </details>
-
-- <details>
-  <summary>Epic</summary>
-
-  </details>
-
-- <details>
-  <summary>Rare/Uncommon</summary>
-
-  </details>
