@@ -240,9 +240,7 @@
       <img src="./doc/item_overhaul/trade_union/trap1.png" alt="Alternate text" />
 
       The following items will be removed from the game.
-      <img src="./doc/item_overhaul/trade_union/tool3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/tool2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/tool1.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/tools.png" alt="Alternate text" />
 
       I deliberately did not transfer the oil press, I think it no longer fits into the new concept and has enough bonuses from other items.
     </details>
