@@ -8,9 +8,23 @@
   - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="Alternate text" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
       <img src="./doc/item_overhaul/trade_union/aaden.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/banquet.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/cook.png" alt="Alternate text" />
+    </details>
 
-      When a population consumes Jacob's "**Sardines**", "**Canned Food**" is exchanged for it.
-      <img src="./doc/item_overhaul/trade_union/aaden_2.png" alt="Alternate text" />
+  - <details><!-- Kaldi, Infuser Of Teas -->
+    <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="Alternate text" width="20" /> Kaldi, Infuser Of Teas</summary>
+      <img src="./doc/item_overhaul/trade_union/kaldi.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/shayi.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/drink_seller.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Angela "Meg" Iver, The Polyvalent -->
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_craftsman_maciver.png" alt="Alternate text" width="20" /> Angela "Meg" Iver, The Polyvalent</summary>
+      <img src="./doc/item_overhaul/trade_union/angela.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/whizz.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/electrical.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/magnetist.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Belinda San Pedro, Head of Arcade Acquisitions -->
@@ -21,6 +35,15 @@
   - <details><!-- Brother Hilarius, Purveyor of Monastic Mixtures -->
     <summary><img src="./doc/job_adertisements/drink/icon_priest_uncommon.png" alt="Alternate text" width="20" /> Brother Hilarius, Purveyor of Monastic Mixtures</summary>
       <img src="./doc/item_overhaul/trade_union/hilarius.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/bill.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/brewer.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Schnapps Distillery Items -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_schnapps_3.png" alt="Alternate text" width="20" /> Schnapps Distillery Items</summary>
+      <img src="./doc/item_overhaul/trade_union/lewis.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/distiller.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/moonshiner.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Bruno Ironbright, Engineering Giant -->
@@ -252,11 +275,6 @@
       <img src="./doc/item_overhaul/trade_union/saw3.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/saw2.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/saw1.png" alt="Alternate text" />
-    </details>
-
-  - <details><!-- Sir Lewis Brindley, the Chemist -->
-    <summary><img src="./doc/job_adertisements/drink/icon_influencer_lewis_2.png" alt="Alternate text" width="20" /> Sir Lewis Brindley, the Chemist </summary>
-      <img src="./doc/item_overhaul/trade_union/lewis.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Sluggish Surge-Wheel -->
