@@ -184,6 +184,16 @@
       <img src="./doc/item_overhaul/trade_union/domestic.png" alt="Alternate text" />
     </details>
 
+  - <details><!-- Maxime Graves, Delicatesseur Extraordinaire -->
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="Alternate text" width="20" /> Maxime Graves, Delicatesseur Extraordinaire </summary>
+      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="Alternate text" />
+
+      If "Cattle need to be butchered is active, "**Cattle**" is processed instead of "**Beef**"" and instead of "**Goulash**" "**Beef**" is granted as bonus .
+      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="Alternate text" />
+    </details>
+
   - <details><!-- Mrs. Mayson, The Very Good Housekeeper -->
     <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" alt="Alternate text" width="20" /> Mrs. Mayson, The Very Good Housekeeper </summary>
       <img src="./doc/item_overhaul/trade_union/mayson.png" alt="Alternate text" />
@@ -220,8 +230,14 @@
   - <details><!-- Ursula Green, Guardian of the Forests -->
     <summary><img src="./doc/job_adertisements/forestry/icon_hunter_300.png" alt="Alternate text" width="20" /> Ursula Green, Guardian of the Forests </summary>
       <img src="./doc/item_overhaul/trade_union/ursula.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/tool3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/tool2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/rodriguez.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/ranger.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/saw3.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/saw2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/saw1.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/trap3.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/trap2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/trap1.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Victor Perfecto, Cigar Daddy -->
@@ -234,12 +250,6 @@
 
 - <details>
   <summary>Epic</summary>
-
-  - <details><!-- Chantelle the Charcutier -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_402.png" alt="Alternate text" width="20" /> Chantelle the Charcutier </summary>
-      <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="Alternate text" />
-    </details>
 
   - <details><!-- Dario the Mechanical Engineer -->
     <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" alt="Alternate text" width="20" /> Dario the Mechanical Engineer </summary>
@@ -266,15 +276,6 @@
     <summary><img src="./doc/job_adertisements/cloth/icon_boris_franke.png" alt="Alternate text" width="20" /> Master Craftsman Franke </summary>
       <img src="./doc/item_overhaul/trade_union/franke.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/trade_union/constume.png" alt="Alternate text" />
-    </details>
-
-  - <details><!-- Miss Rodriguez, the Conservationist -->
-    <summary><img src="./doc/job_adertisements/forestry/icon_forester_401.png" alt="Alternate text" width="20" /> Miss Rodriguez, the Conservationist </summary>
-      <img src="./doc/item_overhaul/trade_union/rodriguez.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/ranger.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/saw3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/saw2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/saw1.png" alt="Alternate text" />
     </details>
 
   - <details><!-- Sluggish Surge-Wheel -->
