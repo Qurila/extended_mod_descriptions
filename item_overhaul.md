@@ -637,7 +637,7 @@
     - <details><!-- Reduced Opening Hours -->
       <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Opening Hours</summary>
 
-      **Is not removed, can be removed with Imya**
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
 
         <img src="./doc/item_overhaul/town_hall/opening_hours.png" alt="If you are reading this, there is an error." />
       </details>
@@ -645,7 +645,7 @@
     - <details><!-- Reduced Opening Hours -->
       <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Opening Hours</summary>
 
-      **Will be removed, can be kept with Imya. (Is removed independently of Imya when the item no longer affects any building)**
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
 
         <img src="./doc/item_overhaul/town_hall/opening_hours.png" alt="If you are reading this, there is an error.
       </details>
