@@ -1039,7 +1039,7 @@
     </details
 
   - <details><!-- Anarchy Essay -->
-    <summary><img src="./doc/item_overhaul/town_hall/icon_anarchy_essay_03.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Propaganda</summary>
+    <summary><img src="./doc/item_overhaul/town_hall/icon_anarchy_essay_03.png" alt="If you are reading this, there is an error." width="20" /> Anarchy Essay</summary>
 
     **Is not removed, can be removed with Imya**
 
