@@ -354,7 +354,7 @@
       <img src="./doc/item_overhaul/town_hall/ernest.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/town_hall/headmistress.png" alt="Alternate text" />
 
-      The following items will be removed.
+      **The following items will be removed.**
 
       <img src="./doc/item_overhaul/town_hall/subvention.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/town_hall/tuiton.png" alt="Alternate text" />
@@ -366,7 +366,122 @@
       <img src="./doc/item_overhaul/town_hall/gordon.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/town_hall/clerk.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/town_hall/peddler.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/clerk.png" alt="Alternate text" />
+
+      **"All marketplaces" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/investment.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/ursury.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Chief George Doughty, Smouldering Hero -->
+    <summary><img src="./doc/job_adertisements/residence/icon_fireman_105.png" alt="Alternate text" width="20" /> Chief George Doughty, Smouldering Hero</summary>
+      <img src="./doc/item_overhaul/town_hall/georg.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/nicolas.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/mills.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/tamer.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/veteran.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/volunteer.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Dean, the Dean of Deansville University -->
+    <summary><img src="./doc/job_adertisements/residence/icon_dean_2.png" alt="Alternate text" width="20" /> Dean, the Dean of Deansville University</summary>
+      <img src="./doc/item_overhaul/town_hall/dean.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/djimon.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/eshe.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Eduardo Bernal, the Father of Public Relations -->
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" alt="Alternate text" width="20" /> Eduardo Bernal, the Father of Public Relations</summary>
+      <img src="./doc/item_overhaul/town_hall/bernal.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/garrick.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Fernando de Faro, Coffee-Lover and All-Round Cad -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_habour_master_700.png" alt="Alternate text" width="20" /> Fernando de Faro, Coffee-Lover and All-Round Cad</summary>
+
+      **Changes are only triggered if Faro cannot be researched or purchased**
+
+      <img src="./doc/item_overhaul/town_hall/faro.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Franck von Lewenstein, Warmest of Hosts -->
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_201.png" alt="Alternate text" width="20" /> Franck von Lewenstein, Warmest of Hosts</summary>
+      <img src="./doc/item_overhaul/town_hall/lewenstein.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/mertens.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/innkeeper.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/puplican.png" alt="Alternate text" />
+
+      **"Pup" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/opening_authorization.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/curfew.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/wibble_soc_tarot.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Jakob Sokow, The Charitable Banker -->
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_110.png" alt="Alternate text" width="20" /> Jakob Sokow, The Charitable Banker</summary>
+      <img src="./doc/item_overhaul/town_hall/sokow.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/eduardo.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/postal.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/banker.png" alt="Alternate text" />
+
+      **"Bank" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/investment.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/ursury.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Joseph Beaumont, Historic Society Founder -->
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_103.png" alt="Alternate text" width="20" /> Joseph Beaumont, Historic Society Founder</summary>
+      <img src="./doc/item_overhaul/town_hall/beaumont.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/miles.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/steward.png" alt="Alternate text" />
+
+      **"Members Club" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/symposiums.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/budget.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Kaldi, Infuser Of Teas -->
+    <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="Alternate text" width="20" /> Kaldi, Infuser Of Teas</summary>
+      <img src="./doc/item_overhaul/town_hall/kaldi_2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/shayi_2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/drink_seller.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Louis P. Hecate, Arm-Puncturing Pioneer -->
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_109.png" alt="Alternate text" width="20" /> Louis P. Hecate, Arm-Puncturing Pioneer</summary>
+      <img src="./doc/item_overhaul/town_hall/hecate.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/slim.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/salvador.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/physician.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/nurse.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/doctor.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Mulatu, the Musical Maestro -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_3.png" alt="Alternate text" width="20" /> Mulatu, the Musical Maestro</summary>
+      <img src="./doc/item_overhaul/town_hall/mulatu.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/drum2_1.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/drum1_1.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/krar.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Patriarch Matteos X -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_3.png" alt="Alternate text" width="20" /> Patriarch Matteos X</summary>
+      <img src="./doc/item_overhaul/town_hall/matteos.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/bishop.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/dekama.png" alt="Alternate text" />
+
+      **"Monastery" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/drum2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/drum1.png" alt="Alternate text" />
+
+      **If neither musicians' court nor monastery is on the Hollow-Tree Drum, the item is removed**
     </details>
 
   </details>
