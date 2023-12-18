@@ -995,7 +995,7 @@
 
       **Is not removed, can be removed with Imya**
 
-        <img src="./doc/item_overhaul/town_hall/submission.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/town_hall/firebrand.png" alt="If you are reading this, there is an error." />
       </details>
 
     - <details><!-- The Art of Rule -->
@@ -1003,7 +1003,7 @@
 
       **Will be removed, can be kept with Imya.**
 
-        <img src="./doc/item_overhaul/town_hall/rights.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/town_hall/rule.png" alt="If you are reading this, there is an error." />
       </details>
 
     </details
