@@ -1,254 +1,254 @@
 # Item Overhaul
 
-## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Trade Union Rebalanced
+## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Trade Union Rebalanced
 
 - <details><!-- Legendary -->
   <summary>Legendary</summary>
 
   - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="Alternate text" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
-      <img src="./doc/item_overhaul/trade_union/aaden.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/banquet.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/cook.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="If you are reading this, there is an error." width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
+      <img src="./doc/item_overhaul/trade_union/aaden.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/banquet.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/cook.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Kaldi, Infuser Of Teas -->
-    <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="Alternate text" width="20" /> Kaldi, Infuser Of Teas</summary>
-      <img src="./doc/item_overhaul/trade_union/kaldi.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/shayi.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/drink_seller.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="If you are reading this, there is an error." width="20" /> Kaldi, Infuser Of Teas</summary>
+      <img src="./doc/item_overhaul/trade_union/kaldi.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/shayi.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/drink_seller.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Angela "Meg" Iver, The Polyvalent -->
-    <summary><img src="./doc/job_adertisements/infrastructure/icon_craftsman_maciver.png" alt="Alternate text" width="20" /> Angela "Meg" Iver, The Polyvalent</summary>
-      <img src="./doc/item_overhaul/trade_union/angela.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/whizz.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/electrical.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/magnetist.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_craftsman_maciver.png" alt="If you are reading this, there is an error." width="20" /> Angela "Meg" Iver, The Polyvalent</summary>
+      <img src="./doc/item_overhaul/trade_union/angela.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/whizz.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/electrical.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/magnetist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Belinda San Pedro, Head of Arcade Acquisitions -->
-    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" alt="Alternate text" width="20" /> Belinda San Pedro, Head of Arcade Acquisitions</summary>
-      <img src="./doc/item_overhaul/trade_union/belinda.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" alt="If you are reading this, there is an error." width="20" /> Belinda San Pedro, Head of Arcade Acquisitions</summary>
+      <img src="./doc/item_overhaul/trade_union/belinda.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Brother Hilarius, Purveyor of Monastic Mixtures -->
-    <summary><img src="./doc/job_adertisements/drink/icon_priest_uncommon.png" alt="Alternate text" width="20" /> Brother Hilarius, Purveyor of Monastic Mixtures</summary>
-      <img src="./doc/item_overhaul/trade_union/hilarius.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/bill.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/brewer.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/drink/icon_priest_uncommon.png" alt="If you are reading this, there is an error." width="20" /> Brother Hilarius, Purveyor of Monastic Mixtures</summary>
+      <img src="./doc/item_overhaul/trade_union/hilarius.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/bill.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/brewer.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Schnapps Distillery Items -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_schnapps_3.png" alt="Alternate text" width="20" /> Schnapps Distillery Items</summary>
-      <img src="./doc/item_overhaul/trade_union/lewis.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/distiller.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/moonshiner.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/icon_schnapps_3.png" alt="If you are reading this, there is an error." width="20" /> Schnapps Distillery Items</summary>
+      <img src="./doc/item_overhaul/trade_union/lewis.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/distiller.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/moonshiner.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Bruno Ironbright, Engineering Giant -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_205.png" alt="Alternate text" width="20" /> Bruno Ironbright, Engineering Giant</summary>
-      <img src="./doc/item_overhaul/trade_union/bruno.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/susannah.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/engineer.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_205.png" alt="If you are reading this, there is an error." width="20" /> Bruno Ironbright, Engineering Giant</summary>
+      <img src="./doc/item_overhaul/trade_union/bruno.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/susannah.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/engineer.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Bumm Brimmell, the Original Dandy -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_tailor_3.png" alt="Alternate text" width="20" /> Bumm Brimmell, the Original Dandy</summary>
-      <img src="./doc/item_overhaul/trade_union/bumm.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/cloth/icon_tailor_3.png" alt="If you are reading this, there is an error." width="20" /> Bumm Brimmell, the Original Dandy</summary>
+      <img src="./doc/item_overhaul/trade_union/bumm.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Calla Lily, Of The Desert Bloom -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" alt="Alternate text" width="20" /> Calla Lily, Of The Desert Bloom</summary>
-      <img src="./doc/item_overhaul/trade_union/calla.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" alt="If you are reading this, there is an error." width="20" /> Calla Lily, Of The Desert Bloom</summary>
+      <img src="./doc/item_overhaul/trade_union/calla.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Cosmo Castelli, Agronomic Trailblazer -->
-    <summary><img src="./doc/job_adertisements/agriculture/icon_well_dressed_107.png" alt="Alternate text" width="20" /> Cosmo Castelli, Agronomic Trailblazer</summary>
-      <img src="./doc/item_overhaul/trade_union/cosmo.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/alexander.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/medal.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/planter.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/yvonne.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/homesteader.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/agriculture/icon_well_dressed_107.png" alt="If you are reading this, there is an error." width="20" /> Cosmo Castelli, Agronomic Trailblazer</summary>
+      <img src="./doc/item_overhaul/trade_union/cosmo.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/alexander.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/medal.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/planter.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/yvonne.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/homesteader.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Cristobal Taffeta, The Trendsetter -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_teacher_515.png" alt="Alternate text" width="20" /> Cristobal Taffeta, The Trendsetter</summary>
-      <img src="./doc/item_overhaul/trade_union/cristobal.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/mariana.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/cloth/icon_teacher_515.png" alt="If you are reading this, there is an error." width="20" /> Cristobal Taffeta, The Trendsetter</summary>
+      <img src="./doc/item_overhaul/trade_union/cristobal.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mariana.png" alt="If you are reading this, there is an error." />
 
       When a population consumes Jacob's "**Suits**", "**Tailored Suits**" are exchanged for them.
-      <img src="./doc/item_overhaul/trade_union/mariana_2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/mariana_2.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Dr. Ali Al-Zahir, the Botanical Director -->
-    <summary><img src="./doc/job_adertisements/agriculture/icon_farmer_102_b.png" alt="Alternate text" width="20" /> Dr. Ali Al-Zahir, the Botanical Director</summary>
-      <img src="./doc/item_overhaul/trade_union/ali.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/hermann.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/arborist.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/brown.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/pedologist.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/agriculture/icon_farmer_102_b.png" alt="If you are reading this, there is an error." width="20" /> Dr. Ali Al-Zahir, the Botanical Director</summary>
+      <img src="./doc/item_overhaul/trade_union/ali.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/hermann.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/arborist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/brown.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/pedologist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Francois Strindberg, Crown Jeweller -->
-    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" alt="Alternate text" width="20" /> Francois Strindberg, Crown Jeweller</summary>
-      <img src="./doc/item_overhaul/trade_union/strindberg.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/gilbert.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/gemologist.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" alt="If you are reading this, there is an error." width="20" /> Francois Strindberg, Crown Jeweller</summary>
+      <img src="./doc/item_overhaul/trade_union/strindberg.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gilbert.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gemologist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Francois Thorne, The Industrial Reinforcer -->
-    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_103.png" alt="Alternate text" width="20" /> Francois Thorne, The Industrial Reinforcer </summary>
-      <img src="./doc/item_overhaul/trade_union/thorne.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/general.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_103.png" alt="If you are reading this, there is an error." width="20" /> Francois Thorne, The Industrial Reinforcer </summary>
+      <img src="./doc/item_overhaul/trade_union/thorne.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/general.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Gennaro Garibaldi, Chocolatier by Royal Appointment -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="Alternate text" width="20" /> Gennaro Garibaldi, Chocolatier by Royal Appointment </summary>
-      <img src="./doc/item_overhaul/trade_union/gennaro.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/charlotte.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/chocolatier.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="If you are reading this, there is an error." width="20" /> Gennaro Garibaldi, Chocolatier by Royal Appointment </summary>
+      <img src="./doc/item_overhaul/trade_union/gennaro.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/charlotte.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/chocolatier.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Fried Plantain Kitchen Items -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_fried_bananas.png" alt="Alternate text" width="20" /> Fried Plantain Kitchen Items </summary>
-      <img src="./doc/item_overhaul/trade_union/icnoyotl.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/kantyi.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/confectionier.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/icon_fried_bananas.png" alt="If you are reading this, there is an error." width="20" /> Fried Plantain Kitchen Items </summary>
+      <img src="./doc/item_overhaul/trade_union/icnoyotl.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/kantyi.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/confectionier.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Gerhard Fuchs, of the Patent Eyeglass -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" alt="Alternate text" width="20" /> Gerhard Fuchs, of the Patent Eyeglass </summary>
-      <img src="./doc/item_overhaul/trade_union/gerhard.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/otto.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" alt="If you are reading this, there is an error." width="20" /> Gerhard Fuchs, of the Patent Eyeglass </summary>
+      <img src="./doc/item_overhaul/trade_union/gerhard.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/otto.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Giorgis, the Eminent Hymnodist -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_2.png" alt="Alternate text" width="20" /> Giorgis, the Eminent Hymnodist </summary>
-      <img src="./doc/item_overhaul/trade_union/giorgis.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_2.png" alt="If you are reading this, there is an error." width="20" /> Giorgis, the Eminent Hymnodist </summary>
+      <img src="./doc/item_overhaul/trade_union/giorgis.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Hans Klein, Old Grandfather Time -->
-    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" alt="Alternate text" width="20" /> Hans Klein, Old Grandfather Time </summary>
-      <img src="./doc/item_overhaul/trade_union/hans.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/chiara.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/horologist.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" alt="If you are reading this, there is an error." width="20" /> Hans Klein, Old Grandfather Time </summary>
+      <img src="./doc/item_overhaul/trade_union/hans.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/chiara.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/horologist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Herve Savonne, Suppressor of Grime -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" alt="Alternate text" width="20" /> Herve Savonne, Suppressor of Grime </summary>
-      <img src="./doc/item_overhaul/trade_union/herve.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/prunella.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" alt="If you are reading this, there is an error." width="20" /> Herve Savonne, Suppressor of Grime </summary>
+      <img src="./doc/item_overhaul/trade_union/herve.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/prunella.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Jörg von Malching, Augur of the Auric -->
-    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_104.png" alt="Alternate text" width="20" /> Jörg von Malching, Augur of the Auric </summary>
-      <img src="./doc/item_overhaul/trade_union/joerg.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/micaela.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/sapper.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_104.png" alt="If you are reading this, there is an error." width="20" /> Jörg von Malching, Augur of the Auric </summary>
+      <img src="./doc/item_overhaul/trade_union/joerg.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/micaela.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/sapper.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Lady Jane Smythe, Queen of Haute Couture -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" alt="Alternate text" width="20" /> Lady Jane Smythe, Queen of Haute Couture </summary>
-      <img src="./doc/item_overhaul/trade_union/jane.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" alt="If you are reading this, there is an error." width="20" /> Lady Jane Smythe, Queen of Haute Couture </summary>
+      <img src="./doc/item_overhaul/trade_union/jane.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Marcel Forcas, Celebrity Chef -->
-    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_201.png" alt="Alternate text" width="20" /> Marcel Forcas, Celebrity Chef </summary>
-      <img src="./doc/item_overhaul/trade_union/marcel.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/archivist.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_201.png" alt="If you are reading this, there is an error." width="20" /> Marcel Forcas, Celebrity Chef </summary>
+      <img src="./doc/item_overhaul/trade_union/marcel.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/archivist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Marco de la Mocha, Crusher of Beans -->
-    <summary><img src="./doc/job_adertisements/drink/icon_curator_702.png" alt="Alternate text" width="20" /> Marco de la Mocha, Crusher of Beans </summary>
-      <img src="./doc/item_overhaul/trade_union/marco.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/cecilia.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/sommelier.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/drink/icon_curator_702.png" alt="If you are reading this, there is an error." width="20" /> Marco de la Mocha, Crusher of Beans </summary>
+      <img src="./doc/item_overhaul/trade_union/marco.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/cecilia.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/sommelier.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Marie-Antoine, Patissier Royale -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="Alternate text" width="20" /> Marie-Antoine, Patissier Royale </summary>
-      <img src="./doc/item_overhaul/trade_union/marie.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/patrice.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/fine.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="If you are reading this, there is an error." width="20" /> Marie-Antoine, Patissier Royale </summary>
+      <img src="./doc/item_overhaul/trade_union/marie.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/patrice.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/fine.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Mark van der Mark, Breeder of Shepherd Dogs -->
-    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" alt="Alternate text" width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
-      <img src="./doc/item_overhaul/trade_union/mark.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/anthrax.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/savannah.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/domestic.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" alt="If you are reading this, there is an error." width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
+      <img src="./doc/item_overhaul/trade_union/mark.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/anthrax.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/savannah.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/domestic.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Maxime Graves, Delicatesseur Extraordinaire -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="Alternate text" width="20" /> Maxime Graves, Delicatesseur Extraordinaire </summary>
-      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="If you are reading this, there is an error." width="20" /> Maxime Graves, Delicatesseur Extraordinaire </summary>
+      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
 
       If "Cattle need to be butchered is active, "**Cattle**" is processed instead of "**Beef**"" and instead of "**Goulash**" "**Beef**" is granted as bonus .
-      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Mrs. Mayson, The Very Good Housekeeper -->
-    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" alt="Alternate text" width="20" /> Mrs. Mayson, The Very Good Housekeeper </summary>
-      <img src="./doc/item_overhaul/trade_union/mayson.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/michel.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" alt="If you are reading this, there is an error." width="20" /> Mrs. Mayson, The Very Good Housekeeper </summary>
+      <img src="./doc/item_overhaul/trade_union/mayson.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/michel.png" alt="If you are reading this, there is an error." />
 
       When a population consumes Jacob's "**Sardines**", "**Canned Food**" is exchanged for it.
-      <img src="./doc/item_overhaul/trade_union/michel_2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/michel_2.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Seraphim Papadikas, The Window Dresser -->
-    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_107.png" alt="Alternate text" width="20" /> Seraphim Papadikas, The Window Dresser </summary>
-      <img src="./doc/item_overhaul/trade_union/seraphim.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/morris.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_107.png" alt="If you are reading this, there is an error." width="20" /> Seraphim Papadikas, The Window Dresser </summary>
+      <img src="./doc/item_overhaul/trade_union/seraphim.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/morris.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Steven MacLeod, Geological Surveyor -->
-    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" alt="Alternate text" width="20" /> Steven MacLeod, Geological Surveyor </summary>
-      <img src="./doc/item_overhaul/trade_union/steven.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/grigor.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" alt="If you are reading this, there is an error." width="20" /> Steven MacLeod, Geological Surveyor </summary>
+      <img src="./doc/item_overhaul/trade_union/steven.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/grigor.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_coffee_specialist_800.png" alt="Alternate text" width="20" /> Susannah Brightwoman, A Glimmer In The Darkness </summary>
-      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/icon_coffee_specialist_800.png" alt="If you are reading this, there is an error." width="20" /> Susannah Brightwoman, A Glimmer In The Darkness </summary>
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Tlayolotl Savor, King of the Corn -->
-    <summary><img src="./doc/job_adertisements/food/icon_entertainer_508.png" alt="Alternate text" width="20" /> Tlayolotl Savor, King of the Corn </summary>
-      <img src="./doc/item_overhaul/trade_union/tlayolotl.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/kantyi_2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/mole.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/food/icon_entertainer_508.png" alt="If you are reading this, there is an error." width="20" /> Tlayolotl Savor, King of the Corn </summary>
+      <img src="./doc/item_overhaul/trade_union/tlayolotl.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/kantyi_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mole.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Ursula Green, Guardian of the Forests -->
-    <summary><img src="./doc/job_adertisements/forestry/icon_hunter_300.png" alt="Alternate text" width="20" /> Ursula Green, Guardian of the Forests </summary>
-      <img src="./doc/item_overhaul/trade_union/ursula.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/rodriguez.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/ranger.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/saw3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/saw2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/saw1.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/trap3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/trap2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/trap1.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/forestry/icon_hunter_300.png" alt="If you are reading this, there is an error." width="20" /> Ursula Green, Guardian of the Forests </summary>
+      <img src="./doc/item_overhaul/trade_union/ursula.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/rodriguez.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/ranger.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/saw3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/saw2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/saw1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/trap3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/trap2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/trap1.png" alt="If you are reading this, there is an error." />
 
       The following items will be removed from the game.
-      <img src="./doc/item_overhaul/trade_union/tools.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/trade_union/tools.png" alt="If you are reading this, there is an error." />
 
       I deliberately did not transfer the oil press to the other items, I think it no longer fits into the new concept and has enough bonuses from other items.
     </details>
 
   - <details><!-- Victor Perfecto, Cigar Daddy -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_torcedor_512.png" alt="Alternate text" width="20" /> Victor Perfecto, Cigar Daddy </summary>
-      <img src="./doc/item_overhaul/trade_union/victor.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/lucia.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/consumer/icon_torcedor_512.png" alt="If you are reading this, there is an error." width="20" /> Victor Perfecto, Cigar Daddy </summary>
+      <img src="./doc/item_overhaul/trade_union/victor.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/lucia.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
@@ -257,231 +257,285 @@
   <summary>Epic</summary>
 
   - <details><!-- Dario the Mechanical Engineer -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" alt="Alternate text" width="20" /> Dario the Mechanical Engineer </summary>
-      <img src="./doc/item_overhaul/trade_union/dario.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" alt="If you are reading this, there is an error." width="20" /> Dario the Mechanical Engineer </summary>
+      <img src="./doc/item_overhaul/trade_union/dario.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Johan the Inventor -->
-    <summary><img src="./doc/job_adertisements/luxus/icon_normal_dressed_202.png" alt="Alternate text" width="20" /> Johan the Inventor </summary>
-      <img src="./doc/item_overhaul/trade_union/johan.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/luxus/icon_normal_dressed_202.png" alt="If you are reading this, there is an error." width="20" /> Johan the Inventor </summary>
+      <img src="./doc/item_overhaul/trade_union/johan.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Lily the Fashion Designer -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" alt="Alternate text" width="20" /> Lily the Fashion Designer </summary>
-      <img src="./doc/item_overhaul/trade_union/lily.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" alt="If you are reading this, there is an error." width="20" /> Lily the Fashion Designer </summary>
+      <img src="./doc/item_overhaul/trade_union/lily.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Marie-Louise Careme, Chef de Cuisine -->
-    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_1.png" alt="Alternate text" width="20" /> Marie-Louise Careme, Chef de Cuisine </summary>
-      <img src="./doc/item_overhaul/trade_union/careme.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/sous.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_1.png" alt="If you are reading this, there is an error." width="20" /> Marie-Louise Careme, Chef de Cuisine </summary>
+      <img src="./doc/item_overhaul/trade_union/careme.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/sous.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Master Craftsman Franke -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_boris_franke.png" alt="Alternate text" width="20" /> Master Craftsman Franke </summary>
-      <img src="./doc/item_overhaul/trade_union/franke.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/constume.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/cloth/icon_boris_franke.png" alt="If you are reading this, there is an error." width="20" /> Master Craftsman Franke </summary>
+      <img src="./doc/item_overhaul/trade_union/franke.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/constume.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Sluggish Surge-Wheel -->
-    <summary><img src="./doc/item_overhaul/trade_union/item_pelton_wheel.png" alt="Alternate text" width="20" /> Sluggish Surge-Wheel </summary>
-      <img src="./doc/item_overhaul/trade_union/wheel.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/item_pelton_wheel.png" alt="If you are reading this, there is an error." width="20" /> Sluggish Surge-Wheel </summary>
+      <img src="./doc/item_overhaul/trade_union/wheel.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Wahenoor, the Paper Mill Pro -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" alt="Alternate text" width="20" /> Wahenoor, the Paper Mill Pro </summary>
-      <img src="./doc/item_overhaul/trade_union/wahenoor.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" alt="If you are reading this, there is an error." width="20" /> Wahenoor, the Paper Mill Pro </summary>
+      <img src="./doc/item_overhaul/trade_union/wahenoor.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Yebeba's Sturdy Greenhouse -->
-    <summary><img src="./doc/item_overhaul/trade_union/item_sturdy_greenhouse.png" alt="Alternate text" width="20" /> Yebeba's Sturdy Greenhouse </summary>
-      <img src="./doc/item_overhaul/trade_union/yebeba.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/item_sturdy_greenhouse.png" alt="If you are reading this, there is an error." width="20" /> Yebeba's Sturdy Greenhouse </summary>
+      <img src="./doc/item_overhaul/trade_union/yebeba.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Miraculous Steel Plough -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="Alternate text" width="20" /> Miraculous Steel Plough </summary>
-      <img src="./doc/item_overhaul/trade_union/plough3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/plough2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/plough1.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/seed.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
+      <img src="./doc/item_overhaul/trade_union/plough3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/plough2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/plough1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/seed.png" alt="If you are reading this, there is an error." />
 
       **Miraculous Steel Plough** is now part of the plough group, while **Steel Seed Drill** stands alone.
     </details>
 
   - <details><!-- Fabulous Feed Yard -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_feedlots_3.png" alt="Alternate text" width="20" /> Fabulous Feed Yard </summary>
-      <img src="./doc/item_overhaul/trade_union/yard3.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/yard2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/trade_union/yard1.png" alt="Alternate text" />
+    <summary><img src="./doc/item_overhaul/trade_union/icon_feedlots_3.png" alt="If you are reading this, there is an error." width="20" /> Fabulous Feed Yard </summary>
+      <img src="./doc/item_overhaul/trade_union/yard3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/yard2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/yard1.png" alt="If you are reading this, there is an error." />
     </details>
 
 - <details><!-- Rare -->
   <summary>Rare</summary>
 
   - <details><!-- Enbesan Bishop -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_2.png" alt="Alternate text" width="20" /> Enbesan Bishop  </summary>
-      <img src="./doc/item_overhaul/trade_union/bishop.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_2.png" alt="If you are reading this, there is an error." width="20" /> Enbesan Bishop  </summary>
+      <img src="./doc/item_overhaul/trade_union/bishop.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
 
   </details>
 
-## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Town Hall Rebalanced
+## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Town Hall Rebalanced
 
 - <details><!-- Legendary -->
   <summary>Legendary</summary>
 
   - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="Alternate text" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
-      <img src="./doc/item_overhaul/town_hall/aaden_2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/banquet_2.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="If you are reading this, there is an error." width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
+      <img src="./doc/item_overhaul/town_hall/aaden_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/banquet_2.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Aesop, the Fabled Storyteller -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_1.png" alt="Alternate text" width="20" /> Aesop, the Fabled Storyteller</summary>
-      <img src="./doc/item_overhaul/town_hall/aesop.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_1.png" alt="If you are reading this, there is an error." width="20" /> Aesop, the Fabled Storyteller</summary>
+      <img src="./doc/item_overhaul/town_hall/aesop.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Amadi Ilga, Ketema's Chief Civil Engineer -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_adventurer_700.png" alt="Alternate text" width="20" /> Amadi Ilga, Ketema's Chief Civil Engineer</summary>
-      <img src="./doc/item_overhaul/town_hall/amadi.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_adventurer_700.png" alt="If you are reading this, there is an error." width="20" /> Amadi Ilga, Ketema's Chief Civil Engineer</summary>
+      <img src="./doc/item_overhaul/town_hall/amadi.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Anne Kenyatta, Special Needs Teacher -->
-    <summary><img src="./doc/job_adertisements/puplic/icon_teacher_823.png" alt="Alternate text" width="20" /> Anne Kenyatta, Special Needs Teacher</summary>
-      <img src="./doc/item_overhaul/town_hall/kenyatta.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/ernest.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/headmistress.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/puplic/icon_teacher_823.png" alt="If you are reading this, there is an error." width="20" /> Anne Kenyatta, Special Needs Teacher</summary>
+      <img src="./doc/item_overhaul/town_hall/kenyatta.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/ernest.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/headmistress.png" alt="If you are reading this, there is an error." />
 
       **The following items will be removed.**
 
-      <img src="./doc/item_overhaul/town_hall/subvention.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/tuiton.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/subvention.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/tuiton.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Aristelia Bataille, of the "Novelty Store" -->
-    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_402.png" alt="Alternate text" width="20" /> Aristelia Bataille, of the "Novelty Store"</summary>
-      <img src="./doc/item_overhaul/town_hall/aristelia.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/gordon.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/clerk.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/peddler.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_402.png" alt="If you are reading this, there is an error." width="20" /> Aristelia Bataille, of the "Novelty Store"</summary>
+      <img src="./doc/item_overhaul/town_hall/aristelia.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/gordon.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/clerk.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/peddler.png" alt="If you are reading this, there is an error." />
 
       **"All marketplaces" are removed from the following items.**
 
-      <img src="./doc/item_overhaul/town_hall/investment.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/ursury.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/investment.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/ursury.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Chief George Doughty, Smouldering Hero -->
-    <summary><img src="./doc/job_adertisements/residence/icon_fireman_105.png" alt="Alternate text" width="20" /> Chief George Doughty, Smouldering Hero</summary>
-      <img src="./doc/item_overhaul/town_hall/georg.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/nicolas.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/mills.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/tamer.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/veteran.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/volunteer.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_fireman_105.png" alt="If you are reading this, there is an error." width="20" /> Chief George Doughty, Smouldering Hero</summary>
+      <img src="./doc/item_overhaul/town_hall/georg.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/nicolas.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/mills.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/tamer.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/veteran.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/volunteer.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Dean, the Dean of Deansville University -->
-    <summary><img src="./doc/job_adertisements/residence/icon_dean_2.png" alt="Alternate text" width="20" /> Dean, the Dean of Deansville University</summary>
-      <img src="./doc/item_overhaul/town_hall/dean.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/djimon.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/eshe.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_dean_2.png" alt="If you are reading this, there is an error." width="20" /> Dean, the Dean of Deansville University</summary>
+      <img src="./doc/item_overhaul/town_hall/dean.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/djimon.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/eshe.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/eshe.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Eduardo Bernal, the Father of Public Relations -->
-    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" alt="Alternate text" width="20" /> Eduardo Bernal, the Father of Public Relations</summary>
-      <img src="./doc/item_overhaul/town_hall/bernal.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/garrick.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_111.png" alt="If you are reading this, there is an error." width="20" /> Eduardo Bernal, the Father of Public Relations</summary>
+      <img src="./doc/item_overhaul/town_hall/bernal.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/garrick.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Fernando de Faro, Coffee-Lover and All-Round Cad -->
-    <summary><img src="./doc/item_overhaul/town_hall/icon_habour_master_700.png" alt="Alternate text" width="20" /> Fernando de Faro, Coffee-Lover and All-Round Cad</summary>
+    <summary><img src="./doc/item_overhaul/town_hall/icon_habour_master_700.png" alt="If you are reading this, there is an error." width="20" /> Fernando de Faro, Coffee-Lover and All-Round Cad</summary>
 
       **Changes are only triggered if Faro cannot be researched or purchased**
 
-      <img src="./doc/item_overhaul/town_hall/faro.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/faro.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Franck von Lewenstein, Warmest of Hosts -->
-    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_201.png" alt="Alternate text" width="20" /> Franck von Lewenstein, Warmest of Hosts</summary>
-      <img src="./doc/item_overhaul/town_hall/lewenstein.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/mertens.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/innkeeper.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/puplican.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_201.png" alt="If you are reading this, there is an error." width="20" /> Franck von Lewenstein, Warmest of Hosts</summary>
+      <img src="./doc/item_overhaul/town_hall/lewenstein.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/mertens.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/innkeeper.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/puplican.png" alt="If you are reading this, there is an error." />
 
       **"Pup" are removed from the following items.**
 
-      <img src="./doc/item_overhaul/town_hall/opening_authorization.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/curfew.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/wibble_soc_tarot.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/opening_authorization.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/curfew.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/wibble_soc_tarot.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Jakob Sokow, The Charitable Banker -->
-    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_110.png" alt="Alternate text" width="20" /> Jakob Sokow, The Charitable Banker</summary>
-      <img src="./doc/item_overhaul/town_hall/sokow.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/eduardo.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/postal.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/banker.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_110.png" alt="If you are reading this, there is an error." width="20" /> Jakob Sokow, The Charitable Banker</summary>
+      <img src="./doc/item_overhaul/town_hall/sokow.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/eduardo.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/postal.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/banker.png" alt="If you are reading this, there is an error." />
 
       **"Bank" are removed from the following items.**
 
-      <img src="./doc/item_overhaul/town_hall/investment.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/ursury.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/investment.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/ursury.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Joseph Beaumont, Historic Society Founder -->
-    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_103.png" alt="Alternate text" width="20" /> Joseph Beaumont, Historic Society Founder</summary>
-      <img src="./doc/item_overhaul/town_hall/beaumont.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/miles.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/steward.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_103.png" alt="If you are reading this, there is an error." width="20" /> Joseph Beaumont, Historic Society Founder</summary>
+      <img src="./doc/item_overhaul/town_hall/beaumont.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/miles.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/steward.png" alt="If you are reading this, there is an error." />
 
       **"Members Club" are removed from the following items.**
 
-      <img src="./doc/item_overhaul/town_hall/symposiums.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/budget.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/symposiums.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/budget.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Kaldi, Infuser Of Teas -->
-    <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="Alternate text" width="20" /> Kaldi, Infuser Of Teas</summary>
-      <img src="./doc/item_overhaul/town_hall/kaldi_2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/shayi_2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/drink_seller.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="If you are reading this, there is an error." width="20" /> Kaldi, Infuser Of Teas</summary>
+      <img src="./doc/item_overhaul/town_hall/kaldi_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/fashion_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/shayi_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/drink_seller.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Louis P. Hecate, Arm-Puncturing Pioneer -->
-    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_109.png" alt="Alternate text" width="20" /> Louis P. Hecate, Arm-Puncturing Pioneer</summary>
-      <img src="./doc/item_overhaul/town_hall/hecate.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/slim.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/salvador.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/physician.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/nurse.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/doctor.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_109.png" alt="If you are reading this, there is an error." width="20" /> Louis P. Hecate, Arm-Puncturing Pioneer</summary>
+      <img src="./doc/item_overhaul/town_hall/hecate.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/slim.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/salvador.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/physician.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/nurse.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/doctor.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Mulatu, the Musical Maestro -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_3.png" alt="Alternate text" width="20" /> Mulatu, the Musical Maestro</summary>
-      <img src="./doc/item_overhaul/town_hall/mulatu.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/drum2_1.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/drum1_1.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/krar.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_3.png" alt="If you are reading this, there is an error." width="20" /> Mulatu, the Musical Maestro</summary>
+      <img src="./doc/item_overhaul/town_hall/mulatu.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/drum2_1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/drum1_1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/krar.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Patriarch Matteos X -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_3.png" alt="Alternate text" width="20" /> Patriarch Matteos X</summary>
-      <img src="./doc/item_overhaul/town_hall/matteos.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/bishop.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/dekama.png" alt="Alternate text" />
+    <summary><img src="./doc/job_adertisements/enbesa/icon_ewahedo_faith_3.png" alt="If you are reading this, there is an error." width="20" /> Patriarch Matteos X</summary>
+      <img src="./doc/item_overhaul/town_hall/matteos.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/bishop.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/dekama.png" alt="If you are reading this, there is an error." />
 
       **"Monastery" are removed from the following items.**
 
-      <img src="./doc/item_overhaul/town_hall/drum2.png" alt="Alternate text" />
-      <img src="./doc/item_overhaul/town_hall/drum1.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/drum2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/drum1.png" alt="If you are reading this, there is an error." />
 
-      **If neither musicians' court nor monastery is on the Hollow-Tree Drum, the item is removed**
+      **If neither "Musicians' court" nor "monastery" is on the "Hollow-Tree Drum", the item is removed**
+    </details>
+
+  - <details><!-- Pietro Jonah Proud, The Philosopher of the Public Good -->
+    <summary><img src="./doc/job_adertisements/residence/icon_anarchist_proud.png" alt="If you are reading this, there is an error." width="20" /> Pietro Jonah Proud, The Philosopher of the Public Good</summary>
+      <img src="./doc/item_overhaul/town_hall/pietro.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Pope Lucius I, "The Rejuvenator" -->
+    <summary><img src="./doc/job_adertisements/residence/icon_priest_epic.png" alt="If you are reading this, there is an error." width="20" /> Pope Lucius I, "The Rejuvenator"</summary>
+      <img src="./doc/item_overhaul/town_hall/lucius.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/archibald.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/bishopess.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/priest.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/abbe.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Prof. Iwa Ebashi, Pioneer of the Radioactive -->
+    <summary><img src="./doc/job_adertisements/residence/icon_normal_dressed_405.png" alt="If you are reading this, there is an error." width="20" /> Prof. Iwa Ebashi, Pioneer of the Radioactive</summary>
+      <img src="./doc/item_overhaul/town_hall/ebashi.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/razzaq.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/lecturer.png" alt="If you are reading this, there is an error." />
+
+      **"University" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/symposiums.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/budget.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Saint D'Artois, Vision of the Valley -->
+    <summary><img src="./doc/job_adertisements/residence/icon_priest_legendary.png" alt="If you are reading this, there is an error." width="20" /> Saint D'Artois, Vision of the Valley</summary>
+      <img src="./doc/item_overhaul/town_hall/artois.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Sarah Bartok, The Golden Voice -->
+    <summary><img src="./doc/job_adertisements/puplic/icon_well_dressed_602.png" alt="If you are reading this, there is an error." width="20" /> Sarah Bartok, The Golden Voice</summary>
+      <img src="./doc/item_overhaul/town_hall/bartok.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/tragedian.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/actor.png" alt="If you are reading this, there is an error." />
+
+      **"Variety Theatre" and "Cinema" are removed from the following items.**
+
+      <img src="./doc/item_overhaul/town_hall/opening_authorization.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/curfew.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/wibble_soc_tarot.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/billiard.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Sir Charles Rafferty, Metropolitan Commissioner -->
+    <summary><img src="./doc/job_adertisements/puplic/icon_police_officer_legendary.png" alt="If you are reading this, there is an error." width="20" /> Sir Charles Rafferty, Metropolitan Commissioner</summary>
+      <img src="./doc/item_overhaul/town_hall/rafferty.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/clifford.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/superintendent.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
@@ -489,9 +543,105 @@
 - <details><!-- Epic -->
   <summary>Epic</summary>
 
+  - <details><!-- Amazing Fashion Designer -->
+    <summary><img src="./doc/job_adertisements/residence/icon_amazing_tailor.png" alt="If you are reading this, there is an error." width="20" /> Amazing Fashion Designer</summary>
+      <img src="./doc/item_overhaul/town_hall/fashion.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Blue Skies Delivery Service -->
+    <summary><img src="./doc/job_adertisements/residence/icon_specialist_delivery_service.png" alt="If you are reading this, there is an error." width="20" /> Blue Skies Delivery Service</summary>
+      <img src="./doc/item_overhaul/town_hall/delivery.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/maid.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Lineman -->
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_mason_720.png" alt="If you are reading this, there is an error." width="20" /> Lineman</summary>
+      <img src="./doc/item_overhaul/town_hall/lineman.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/relay.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/repeater.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Dennis Brammen, the Food Critic -->
+    <summary><img src="./doc/job_adertisements/residence/icon_influencer_br4mm3n.png" alt="If you are reading this, there is an error." width="20" /> Dennis Brammen, the Food Critic</summary>
+      <img src="./doc/item_overhaul/town_hall/brammen.png" alt="If you are reading this, there is an error." />
+    </details>
+
   </details>
 
 - <details><!-- Rare -->
-  <summary>Rare/Uncommon</summary>
+  <summary>Rare</summary>
+
+  - <details><!-- Elder Selassy'e -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_politician.png" alt="If you are reading this, there is an error." width="20" /> Elder Selassy'e</summary>
+      <img src="./doc/item_overhaul/town_hall/elder.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Industrious Embroidress -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_plants_adept_2.png" alt="If you are reading this, there is an error." width="20" /> Industrious Embroidress</summary>
+      <img src="./doc/item_overhaul/town_hall/embroidress.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Rabies Vaccine -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_plants_adept_2.png" alt="If you are reading this, there is an error." width="20" /> Rabies Vaccine</summary>
+
+      **"The higher the value of the item, the shorter it blocks the slot in the Town Hall after it has healed illness in the surrounding area.**
+
+      <img src="./doc/item_overhaul/town_hall/vaccine_3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/vaccine_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/vaccine_1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- CTC Extinguisher -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_plants_adept_2.png" alt="If you are reading this, there is an error." width="20" /> CTC Extinguisher</summary>
+
+      **"The higher the value of the item, the shorter it blocks the slot in the town hall after it has extinguished a fire in the surrounding area.**
+
+      <img src="./doc/item_overhaul/town_hall/extinguisher_3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/extinguisher_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/extinguisher_1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Huge Alcohol Crate -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_plants_adept_2.png" alt="If you are reading this, there is an error." width="20" /> CTC Extinguisher</summary>
+
+      **"The higher the value of the item, the shorter it blocks the slot in the town hall after it has calmed riots in the surrounding area.**
+
+      <img src="./doc/item_overhaul/town_hall/alcohol_3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/alcohol_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/town_hall/alcohol_1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
+- <details><!-- Item Groups -->
+  <summary>Item Groups</summary>
+
+  - <details><!-- Administration Act -->
+    <summary>Administration Act</summary>
+
+    - <details><!-- Street Maintenance Adjusted -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Street Maintenance</summary>
+        <img src="./doc/item_overhaul/town_hall/street3.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/town_hall/street2.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/town_hall/street1.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Street Maintenance -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Street Maintenance</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/stree_maintenance.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Reduced Opening Hours -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Opening Hours</summary>
+
+      **Will be removed, can be kept with Imya. (Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/opening_hours.png" alt="If you are reading this, there is an error.
+      </details>
+
+  </details>
 
   </details>
