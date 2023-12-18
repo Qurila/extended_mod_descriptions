@@ -586,7 +586,7 @@
     </details>
 
   - <details><!-- Rabies Vaccine -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_medicine_3.png" alt="If you are reading this, there is an error." width="20" /> Rabies Vaccine</summary>
+    <summary><img src="./doc/item_overhaul/icon_medicine_3.png" alt="If you are reading this, there is an error." width="20" /> Rabies Vaccine</summary>
 
       **"The higher the value of the item, the shorter it blocks the slot in the Town Hall after it has healed illness in the surrounding area.**
 
@@ -596,7 +596,7 @@
     </details>
 
   - <details><!-- CTC Extinguisher -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_fire_extinguisher_3.png" alt="If you are reading this, there is an error." width="20" /> CTC Extinguisher</summary>
+    <summary><img src="./doc/item_overhaul/icon_fire_extinguisher_3.png" alt="If you are reading this, there is an error." width="20" /> CTC Extinguisher</summary>
 
       **"The higher the value of the item, the shorter it blocks the slot in the town hall after it has extinguished a fire in the surrounding area.**
 
@@ -606,7 +606,7 @@
     </details>
 
   - <details><!-- Huge Alcohol Crate -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_alcohol_bag_3.png" alt="If you are reading this, there is an error." width="20" /> Huge Alcohol Crate</summary>
+    <summary><img src="./doc/item_overhaul/icon_alcohol_bag_3.png" alt="If you are reading this, there is an error." width="20" /> Huge Alcohol Crate</summary>
 
       **"The higher the value of the item, the shorter it blocks the slot in the town hall after it has calmed riots in the surrounding area.**
 
