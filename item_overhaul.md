@@ -498,6 +498,10 @@
       <img src="./doc/item_overhaul/town_hall/bishopess.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/town_hall/priest.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/town_hall/abbe.png" alt="If you are reading this, there is an error." />
+
+      **The following items will be removed.**
+
+      <img src="./doc/item_overhaul/town_hall/taxation.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Prof. Iwa Ebashi, Pioneer of the Radioactive -->
@@ -617,7 +621,7 @@
   <summary>Item Groups</summary>
 
   - <details><!-- Administration Act -->
-    <summary>Administration Act</summary>
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Administration Act</summary>
 
     - <details><!-- Street Maintenance Adjusted -->
       <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Street Maintenance Adjusted </summary>
@@ -637,19 +641,410 @@
     - <details><!-- Reduced Opening Hours -->
       <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Opening Hours</summary>
 
-      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+      **Will be removed, can be kept with Imya.**
 
         <img src="./doc/item_overhaul/town_hall/opening_hours.png" alt="If you are reading this, there is an error." />
       </details>
 
-    - <details><!-- Reduced Opening Hours -->
-      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Opening Hours</summary>
+    </details>
+
+  - <details><!-- Entertainment Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Entertainment Act</summary>
+
+    - <details><!-- Opening Authorization -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Opening Authorization</summary>
 
       **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
 
-        <img src="./doc/item_overhaul/town_hall/opening_hours.png" alt="If you are reading this, there is an error.
+        <img src="./doc/item_overhaul/town_hall/opening_authorization.png" alt="If you are reading this, there is an error." />
       </details>
 
-  </details>
+    - <details><!-- Curfew -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Curfew</summary>
+
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/curfew.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Wibble Soc. Sorcery Association Membership and Tarot Set -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_membership.png" alt="If you are reading this, there is an error." width="20" /> Wibble Soc. Sorcery Association Membership and Tarot Set</summary>
+
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/wibble_soc_tarot.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Research Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Research Act</summary>
+
+    - <details><!-- Subvention for Symposiums -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Subvention for Symposiums</summary>
+
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/symposiums.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Restriction on Research Budget -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Restriction on Research Budget</summary>
+
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/budget.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Economy Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Economy Act</summary>
+
+    - <details><!-- Financial Investment -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Financial Investment</summary>
+
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/investment.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Ursury Ban -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Ursury Ban</summary>
+
+      **Will be removed, can be kept with Imya.(Is removed independently of Imya when the item no longer affects any building)**
+
+        <img src="./doc/item_overhaul/town_hall/ursury.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Ordinance -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Ordinance</summary>
+
+    - <details><!-- Celebrations -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Celebrations</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/celebrations.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Public Health Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Public Health Act</summary>
+
+    - <details><!-- Waste Management -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Waste Management</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/waste.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Hygiene Taxes -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Hygiene Taxes</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/hygiene.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Fire Prevention Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Fire Prevention Act</summary>
+
+    - <details><!-- Anti Fire Measures -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Anti Fire Measures</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/fire.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Money Saving -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Money Saving</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/money.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Public Gathering Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Public Gathering Act</summary>
+
+    - <details><!-- Right to Peaceably Assemble -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Right to Peaceably Assemble</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/fire.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Gathering Prohibition -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Gathering Prohibition</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/money.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Child Rights Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Child Rights Act</summary>
+
+    - <details><!-- Minimum Working Age -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Minimum Working Age</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/working.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Minimum Schooling -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Minimum Schooling</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/schooling.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Human Rights Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Human Rights Act</summary>
+
+    - <details><!-- Freedom Act -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Freedom Act</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/freedom.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Censored Act -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Censored Act</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/censored.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Alcohol Restriction -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Alcohol Restriction</summary>
+
+    **Will be removed, can be kept with Imya.**
+
+      <img src="./doc/item_overhaul/town_hall/restriction.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Alcohol Taxes Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Alcohol Taxes Act</summary>
+
+    - <details><!-- Reduced Alcohol Taxes -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Alcohol Taxes</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/taxes_reduction.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Increased Alcohol Taxes -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Increased Alcohol Taxes</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/taxes_increase.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Secularization Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Secularization Act</summary>
+
+    - <details><!-- Secularization Act -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Secularization Act</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/secularization.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Inquisition Act -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Inquisition Act</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/inquisition.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Taxes Management Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Taxes Management Act</summary>
+
+    - <details><!-- Tax Increase  -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Tax Increase </summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/tax_increase.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Tax Reduction -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Tax Reduction</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/tax_reduce.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Working Conditions Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Working Conditions Act</summary>
+
+    - <details><!-- Vacation -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Vacation</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/vacation.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Working Extension-->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Working Extension</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/extension.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Amnesty Edict -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Amnesty Edict</summary>
+
+    **Will be removed, can be kept with Imya.**
+
+      <img src="./doc/item_overhaul/town_hall/amnesty.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Natality Regulation Edict -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Natality Regulation Edict</summary>
+
+    **Is not removed, can be removed with Imya**
+
+      <img src="./doc/item_overhaul/town_hall/natality.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Women Rights Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Women Rights Act</summary>
+
+    - <details><!-- Women Submission Act -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Women Submission Act</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/submission.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Women Rights Act -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Women Rights Act</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/rights.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Anarchist Courts -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_popular_court.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Courts</summary>
+
+    **Will be removed, can be kept with Imya.**
+
+      <img src="./doc/item_overhaul/town_hall/courts.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Anarchist Bombs -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_midnight_call_bomb_2.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Bombs</summary>
+
+    **Will be removed, can be kept with Imya.**
+
+      <img src="./doc/item_overhaul/town_hall/bombs.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Anarchist Newspapers -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_anarchist_newspaper_pack_1.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Newspapers</summary>
+
+    - <details><!-- Firebrand and the Free -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_anarchist_newspaper_03.png" alt="If you are reading this, there is an error." width="20" /> Firebrand and the Free</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/submission.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- The Art of Rule -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_antianarchist_newspaper_03.png" alt="If you are reading this, there is an error." width="20" /> The Art of Rule</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/rights.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details
+
+  - <details><!-- Anarchist Propaganda -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_anarchy_poster_03.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Propaganda</summary>
+
+    **Will be removed, can be kept with Imya.**
+
+      <img src="./doc/item_overhaul/town_hall/propaganda.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Economic Doctrine -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_agerian_book.png" alt="If you are reading this, there is an error." width="20" /> Economic Doctrine</summary>
+
+    - <details><!-- Captains Of Industry -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_capitalist_economic_doctrine_03.png" alt="If you are reading this, there is an error." width="20" /> Captains Of Industry</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/captain.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Patriarchy -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_anarchist_economic_doctrine_03.png" alt="If you are reading this, there is an error." width="20" /> Patriarchy</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/town_hall/patriarch.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details
+
+  - <details><!-- Anarchy Essay -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_anarchy_essay_03.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Propaganda</summary>
+
+    **Is not removed, can be removed with Imya**
+
+      <img src="./doc/item_overhaul/town_hall/anarchy.png" alt="If you are reading this, there is an error." />
+
+    </details>
 
   </details>
