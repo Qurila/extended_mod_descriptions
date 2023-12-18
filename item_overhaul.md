@@ -2,7 +2,7 @@
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Trade Union Rebalanced
 
-- <details>
+- <details><!-- Legendary -->
   <summary>Legendary</summary>
 
   - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
@@ -242,7 +242,7 @@
       The following items will be removed from the game.
       <img src="./doc/item_overhaul/trade_union/tools.png" alt="Alternate text" />
 
-      I deliberately did not transfer the oil press, I think it no longer fits into the new concept and has enough bonuses from other items.
+      I deliberately did not transfer the oil press to the other items, I think it no longer fits into the new concept and has enough bonuses from other items.
     </details>
 
   - <details><!-- Victor Perfecto, Cigar Daddy -->
@@ -253,7 +253,7 @@
 
   </details>
 
-- <details>
+- <details><!-- Epic -->
   <summary>Epic</summary>
 
   - <details><!-- Dario the Mechanical Engineer -->
@@ -315,7 +315,7 @@
       <img src="./doc/item_overhaul/trade_union/yard1.png" alt="Alternate text" />
     </details>
 
-- <details>
+- <details><!-- Rare -->
   <summary>Rare</summary>
 
   - <details><!-- Enbesan Bishop -->
@@ -329,17 +329,53 @@
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="Alternate text" width="30" /> Town Hall Rebalanced
 
-- <details>
+- <details><!-- Legendary -->
   <summary>Legendary</summary>
+
+  - <details><!-- Aaden Issack, World-Famous Enbesan Chef -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_enbesan_cook_3b.png" alt="Alternate text" width="20" /> Aaden Issack, World-Famous Enbesan Chef</summary>
+      <img src="./doc/item_overhaul/town_hall/aaden_2.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/banquet_2.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Aesop, the Fabled Storyteller -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_1.png" alt="Alternate text" width="20" /> Aesop, the Fabled Storyteller</summary>
+      <img src="./doc/item_overhaul/town_hall/aesop.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Amadi Ilga, Ketema's Chief Civil Engineer -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_adventurer_700.png" alt="Alternate text" width="20" /> Amadi Ilga, Ketema's Chief Civil Engineer</summary>
+      <img src="./doc/item_overhaul/town_hall/amadi.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Anne Kenyatta, Special Needs Teacher -->
+    <summary><img src="./doc/job_adertisements/puplic/icon_teacher_823.png" alt="Alternate text" width="20" /> Anne Kenyatta, Special Needs Teacher</summary>
+      <img src="./doc/item_overhaul/town_hall/kenyatta.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/ernest.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/headmistress.png" alt="Alternate text" />
+
+      The following items will be removed.
+      <img src="./doc/item_overhaul/town_hall/subvention.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/tuiton.png" alt="Alternate text" />
+    </details>
+
+  - <details><!-- Aristelia Bataille, of the "Novelty Store" -->
+    <summary><img src="./doc/job_adertisements/residence/icon_well_dressed_402.png" alt="Alternate text" width="20" /> Aristelia Bataille, of the "Novelty Store"</summary>
+      <img src="./doc/item_overhaul/town_hall/aristelia.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/gordon.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/clerk.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/peddler.png" alt="Alternate text" />
+      <img src="./doc/item_overhaul/town_hall/clerk.png" alt="Alternate text" />
+    </details>
 
   </details>
 
-- <details>
+- <details><!-- Epic -->
   <summary>Epic</summary>
 
   </details>
 
-- <details>
+- <details><!-- Rare -->
   <summary>Rare/Uncommon</summary>
 
   </details>
