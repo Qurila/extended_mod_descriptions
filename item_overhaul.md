@@ -355,6 +355,7 @@
       <img src="./doc/item_overhaul/town_hall/headmistress.png" alt="Alternate text" />
 
       The following items will be removed.
+
       <img src="./doc/item_overhaul/town_hall/subvention.png" alt="Alternate text" />
       <img src="./doc/item_overhaul/town_hall/tuiton.png" alt="Alternate text" />
     </details>
