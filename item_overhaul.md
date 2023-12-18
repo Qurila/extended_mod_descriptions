@@ -620,7 +620,7 @@
     <summary>Administration Act</summary>
 
     - <details><!-- Street Maintenance Adjusted -->
-      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Street Maintenance</summary>
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Street Maintenance Adjusted </summary>
         <img src="./doc/item_overhaul/town_hall/street3.png" alt="If you are reading this, there is an error." />
         <img src="./doc/item_overhaul/town_hall/street2.png" alt="If you are reading this, there is an error." />
         <img src="./doc/item_overhaul/town_hall/street1.png" alt="If you are reading this, there is an error." />
@@ -632,6 +632,14 @@
       **Is not removed, can be removed with Imya**
 
         <img src="./doc/item_overhaul/town_hall/stree_maintenance.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Reduced Opening Hours -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Reduced Opening Hours</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/town_hall/opening_hours.png" alt="If you are reading this, there is an error." />
       </details>
 
     - <details><!-- Reduced Opening Hours -->
