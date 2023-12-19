@@ -30,6 +30,8 @@
   - <details><!-- Belinda San Pedro, Head of Arcade Acquisitions -->
     <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" alt="If you are reading this, there is an error." width="20" /> Belinda San Pedro, Head of Arcade Acquisitions</summary>
       <img src="./doc/item_overhaul/trade_union/belinda.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/dresser.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/greeter.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Brother Hilarius, Purveyor of Monastic Mixtures -->
@@ -61,6 +63,10 @@
   - <details><!-- Calla Lily, Of The Desert Bloom -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" alt="If you are reading this, there is an error." width="20" /> Calla Lily, Of The Desert Bloom</summary>
       <img src="./doc/item_overhaul/trade_union/calla.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/water_pump.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Cosmo Castelli, Agronomic Trailblazer -->
@@ -588,7 +594,7 @@
   - <details><!-- Rabies Vaccine -->
     <summary><img src="./doc/item_overhaul/town_hall/icon_medicine_3.png" alt="If you are reading this, there is an error." width="20" /> Rabies Vaccine</summary>
 
-      **"The higher the value of the item, the shorter it blocks the slot in the Town Hall after it has healed illness in the surrounding area.**
+      **The higher the value of the item, the shorter it blocks the slot in the Town Hall after it has healed illness in the surrounding area.**
 
       <img src="./doc/item_overhaul/town_hall/vaccine_3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/town_hall/vaccine_2.png" alt="If you are reading this, there is an error." />
@@ -598,7 +604,7 @@
   - <details><!-- CTC Extinguisher -->
     <summary><img src="./doc/item_overhaul/town_hall/icon_fire_extinguisher_3.png" alt="If you are reading this, there is an error." width="20" /> CTC Extinguisher</summary>
 
-      **"The higher the value of the item, the shorter it blocks the slot in the town hall after it has extinguished a fire in the surrounding area.**
+      **The higher the value of the item, the shorter it blocks the slot in the town hall after it has extinguished a fire in the surrounding area.**
 
       <img src="./doc/item_overhaul/town_hall/extinguisher_3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/town_hall/extinguisher_2.png" alt="If you are reading this, there is an error." />
@@ -608,7 +614,7 @@
   - <details><!-- Huge Alcohol Crate -->
     <summary><img src="./doc/item_overhaul/town_hall/icon_alcohol_bag_3.png" alt="If you are reading this, there is an error." width="20" /> Huge Alcohol Crate</summary>
 
-      **"The higher the value of the item, the shorter it blocks the slot in the town hall after it has calmed riots in the surrounding area.**
+      **The higher the value of the item, the shorter it blocks the slot in the town hall after it has calmed riots in the surrounding area.**
 
       <img src="./doc/item_overhaul/town_hall/alcohol_3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/town_hall/alcohol_2.png" alt="If you are reading this, there is an error." />
