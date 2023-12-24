@@ -315,7 +315,7 @@
 
   - <details><!-- Optimised Automatic Loom -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_loom_2.png" alt="If you are reading this, there is an error." width="20" /> Optimised Automatic Loom </summary
-    **Is no longer researchable in the research institute (only if not already identified, then it is unfortunately still further researchable)**
+    **Is no longer researchable in the research institute. Only if not already identified, then it is unfortunately still further researchable**
 
       <img src="./doc/item_overhaul/trade_union/loom4.png" alt="If you are reading this, there is an error." />
     </details>
