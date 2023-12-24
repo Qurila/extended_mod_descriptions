@@ -185,16 +185,17 @@
   - <details><!-- Mark van der Mark, Breeder of Shepherd Dogs -->
     <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" alt="If you are reading this, there is an error." width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
       <img src="./doc/item_overhaul/trade_union/mark.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/anthrax.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/rodrigo.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/livestock.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/herdsman.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/savannah.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/domestic.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Maxime Graves, Delicatesseur Extraordinaire -->
     <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="If you are reading this, there is an error." width="20" /> Maxime Graves, Delicatesseur Extraordinaire </summary>
       <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
 
-      If "Cattle need to be butchered is active, "**Cattle**" is processed instead of "**Beef**"" and instead of "**Goulash**" "**Beef**" is granted as bonus .
+      If "Cattle need to be butchered is active, "**Cattle**" is processed instead of "**Beef**"" and instead of "**Goulash**","**Beef**" is granted as bonus .
       <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="If you are reading this, there is an error." />
@@ -219,6 +220,7 @@
     <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" alt="If you are reading this, there is an error." width="20" /> Steven MacLeod, Geological Surveyor </summary>
       <img src="./doc/item_overhaul/trade_union/steven.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/grigor.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mineralogist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
@@ -304,21 +306,32 @@
       <img src="./doc/item_overhaul/trade_union/yebeba.png" alt="If you are reading this, there is an error." />
     </details>
 
-  - <details><!-- Miraculous Steel Plough -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
-      <img src="./doc/item_overhaul/trade_union/plough3.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/plough2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/plough1.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/seed.png" alt="If you are reading this, there is an error." />
+  - <details><!-- Extremely Loud Bell -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell </summary>
+    Is no longer researchable in the research institute (only applies if not already identified, then it is unfortunately still further researchable)
 
-      **Miraculous Steel Plough** is now part of the plough group, while **Steel Seed Drill** stands alone.
+      <img src="./doc/item_overhaul/trade_union/bell4.png" alt="If you are reading this, there is an error." />
     </details>
 
-  - <details><!-- Fabulous Feed Yard -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_feedlots_3.png" alt="If you are reading this, there is an error." width="20" /> Fabulous Feed Yard </summary>
-      <img src="./doc/item_overhaul/trade_union/yard3.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/yard2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/yard1.png" alt="If you are reading this, there is an error." />
+  - <details><!-- Optimised Automatic Loom -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_loom_2.png" alt="If you are reading this, there is an error." width="20" /> Optimised Automatic Loom </summary
+    Is no longer researchable in the research institute (only applies if not already identified, then it is unfortunately still further researchable)
+
+      <img src="./doc/item_overhaul/trade_union/loom4.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Miraculous Steel Plough -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
+    Is no longer researchable in the research institute (only applies if not already identified, then it is unfortunately still further researchable)
+
+      <img src="./doc/item_overhaul/trade_union/plough4.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- A Remedy -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_bottle.png" alt="If you are reading this, there is an error." width="20" /> A Remedy </summary>
+    Is no longer researchable in the research institute (only applies if not already identified, then it is unfortunately still further researchable)
+
+      <img src="./doc/item_overhaul/trade_union/supplement4.png" alt="If you are reading this, there is an error." />
     </details>
 
 - <details><!-- Rare -->
@@ -330,6 +343,202 @@
     </details>
 
   </details>
+
+- <details><!-- Item Groups -->
+  <summary>Item Groups</summary>
+
+  - <details><!-- Bells -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_3.png" alt="If you are reading this, there is an error." width="20" /> Bells  </summary>
+    They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.
+
+      <img src="./doc/item_overhaul/trade_union/bell3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/bell2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/bell1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Melting Pots -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_calciner_3.png" alt="If you are reading this, there is an error." width="20" /> Melting Pots  </summary>
+      <img src="./doc/item_overhaul/trade_union/melting3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/melting2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/melting1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Planers -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_metall_planer_3.png" alt="If you are reading this, there is an error." width="20" /> Planers  </summary>
+      <img src="./doc/item_overhaul/trade_union/planner3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/planner2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/planner1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Mill Stones -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_millstone_3.png" alt="If you are reading this, there is an error." width="20" /> Mill Stones  </summary>
+      <img src="./doc/item_overhaul/trade_union/mill3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mill2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mill1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Thermometers -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_thermometer_3.png" alt="If you are reading this, there is an error." width="20" /> Thermometers  </summary>
+      <img src="./doc/item_overhaul/trade_union/thermometer3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/thermometer2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/thermometer1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Saws -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_dragsaw_3.png" alt="If you are reading this, there is an error." width="20" /> Saws  </summary>
+      <img src="./doc/item_overhaul/trade_union/saw3_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/saw2_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/saw3_2.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Traps -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_trap_3.png" alt="If you are reading this, there is an error." width="20" /> Traps  </summary>
+      <img src="./doc/item_overhaul/trade_union/trap3_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/trap2_2.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Forest Tools  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_pruning_material_3.png" alt="If you are reading this, there is an error." width="20" /> Forest Tools   </summary>
+      <img src="./doc/item_overhaul/trade_union/tool3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/tool2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/tool1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Supplements  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_vitamin_supplement_3.png" alt="If you are reading this, there is an error." width="20" /> Supplements   </summary>
+      <img src="./doc/item_overhaul/trade_union/supplement3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/supplement2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/supplement1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Feed Yards  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_feedlots_3.png" alt="If you are reading this, there is an error." width="20" /> Feed Yards   </summary>
+      <img src="./doc/item_overhaul/trade_union/yard3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/yard2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/yard1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Slurries  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_waste_management_3.png" alt="If you are reading this, there is an error." width="20" /> Slurries   </summary>
+      <img src="./doc/item_overhaul/trade_union/slurry3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/slurry2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/slurry1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Drills  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_drill_3.png" alt="If you are reading this, there is an error." width="20" /> Drills   </summary>
+      <img src="./doc/item_overhaul/trade_union/drill3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/drill2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/drill1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Looms  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_loom_3.png" alt="If you are reading this, there is an error." width="20" /> Looms   </summary>
+      <img src="./doc/item_overhaul/trade_union/loom3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/loom2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/loom1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Conveyors  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_conveyor_3.png" alt="If you are reading this, there is an error." width="20" /> Conveyors   </summary>
+      <img src="./doc/item_overhaul/trade_union/conveyor3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/conveyor2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/conveyor1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Ovens  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_stove_3.png" alt="If you are reading this, there is an error." width="20" /> Ovens   </summary>
+      <img src="./doc/item_overhaul/trade_union/oven3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/oven2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/oven1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Distillers  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_brewing_machine_3.png" alt="If you are reading this, there is an error." width="20" /> Distillers   </summary>
+      <img src="./doc/item_overhaul/trade_union/distiller3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/distiller2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/distiller1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Blowers  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_glass_working_3.png" alt="If you are reading this, there is an error." width="20" /> Blowers   </summary>
+      <img src="./doc/item_overhaul/trade_union/blower3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/blowerr2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/blower.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Circular Saws  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_circular_saw_3.png" alt="If you are reading this, there is an error." width="20" /> Circular Saws   </summary>
+      <img src="./doc/item_overhaul/trade_union/circular3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/circular2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/circular1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Moulds  -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_mould_3.png" alt="If you are reading this, there is an error." width="20" /> Moulds   </summary>
+      <img src="./doc/item_overhaul/trade_union/mould3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mould2.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Anarchist Halls -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_mutualism_management_hall.png" alt="If you are reading this, there is an error." width="20" /> Anarchist Halls</summary>
+
+    **Will be removed, can be kept with Imya.**
+
+      <img src="./doc/item_overhaul/trade_union/halls.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Factory Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Factory Act</summary>
+
+    - <details><!-- Factory Maintenance -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Factory Maintenance</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/trade_union/maintenance.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Fire Prevention -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Fire Prevention</summary>
+
+      **Will be removed, can be kept with Imya.**
+
+        <img src="./doc/item_overhaul/trade_union/preventation.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Clean Air Act -->
+    <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Clean Air Act</summary>
+
+    - <details><!-- Rentability Adjusted -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Rentability Adjusted </summary>
+        <img src="./doc/item_overhaul/trade_union/rentability.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Rentability -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Rentability</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/trade_union/rentability_2.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Pollution Adjusted -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Pollution Adjusted </summary>
+        <img src="./doc/item_overhaul/trade_union/pollution.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- Pollution -->
+      <summary><img src="./doc/item_overhaul/town_hall/icon_book_rare.png" alt="If you are reading this, there is an error." width="20" /> Pollution</summary>
+
+      **Is not removed, can be removed with Imya**
+
+        <img src="./doc/item_overhaul/trade_union/pollution_2.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
 
   </details>
 
