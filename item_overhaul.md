@@ -309,7 +309,7 @@
   - <details><!-- Extremely Loud Bell -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell </summary>
 
-    **Is no longer researchable in the research institute (only if not already identified, then it is unfortunately still further researchable)**
+    **Is no longer researchable in the research institute. Only if not already identified, then it is unfortunately still further researchable**
 
       <img src="./doc/item_overhaul/trade_union/bell4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -325,7 +325,7 @@
   - <details><!-- Miraculous Steel Plough -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
 
-    **Is no longer researchable in the research institute (only if not already identified, then it is unfortunately still further researchable)**
+    **Is no longer researchable in the research institute. Only if not already identified, then it is unfortunately still further researchable**
 
       <img src="./doc/item_overhaul/trade_union/plough4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -333,7 +333,7 @@
   - <details><!-- A Remedy -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_bottle.png" alt="If you are reading this, there is an error." width="20" /> A Remedy </summary>
 
-    **Is no longer researchable in the research institute (only if not already identified, then it is unfortunately still further researchable)**
+    **Is no longer researchable in the research institute. Only if not already identified, then it is unfortunately still further researchable**
 
       <img src="./doc/item_overhaul/trade_union/supplement4.png" alt="If you are reading this, there is an error." />
     </details>
