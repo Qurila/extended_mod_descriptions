@@ -463,8 +463,8 @@
   - <details><!-- Blowers  -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_glass_working_3.png" alt="If you are reading this, there is an error." width="20" /> Blowers   </summary>
       <img src="./doc/item_overhaul/trade_union/blower3.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/blowerr2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/blower.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/blower2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/blower1.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Circular Saws  -->
