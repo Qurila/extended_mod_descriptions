@@ -349,6 +349,7 @@
 
   - <details><!-- Bells -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_3.png" alt="If you are reading this, there is an error." width="20" /> Bells  </summary>
+
     They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.
 
       <img src="./doc/item_overhaul/trade_union/bell3.png" alt="If you are reading this, there is an error." />
@@ -388,7 +389,7 @@
     <summary><img src="./doc/item_overhaul/trade_union/icon_dragsaw_3.png" alt="If you are reading this, there is an error." width="20" /> Saws  </summary>
       <img src="./doc/item_overhaul/trade_union/saw3_2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/saw2_2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/saw3_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/saw1_2.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Traps -->
@@ -436,7 +437,6 @@
     <summary><img src="./doc/item_overhaul/trade_union/icon_loom_3.png" alt="If you are reading this, there is an error." width="20" /> Looms   </summary>
       <img src="./doc/item_overhaul/trade_union/loom3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/loom2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/loom1.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Conveyors  -->
