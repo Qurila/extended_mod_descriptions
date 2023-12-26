@@ -546,7 +546,7 @@
 
   </details>
 
-## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Town Hall Rebalanced
+## <img src="./doc/item_overhaul/town_hall/icon_townhall.png" alt="If you are reading this, there is an error." width="30" /> Town Hall Rebalanced
 
 - <details><!-- Legendary -->
   <summary>Legendary</summary>
