@@ -1270,40 +1270,45 @@
 
 ## <img src="./doc/item_overhaul/harbormaster/icon_harbour_kontor.png" alt="If you are reading this, there is an error." width="30" /> Harbourmaster Rebalanced
 
-- <details><!-- Captain Moby, Old Dog of the Sea -->
-  <summary><img src="./doc/job_adertisements/harbor/icon_navigator_102.png" alt="If you are reading this, there is an error." width="20" /> Captain Moby, Old Dog of the Sea</summary>
-    <img src="./doc/item_overhaul/harbormaster/moby.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/whaler.png" alt="If you are reading this, there is an error." />
+- <details><!-- Content-->
+  <summary>Content</summary>
 
-    New Item.
-    <img src="./doc/item_overhaul/harbormaster/biologist.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Captain Moby, Old Dog of the Sea -->
+    <summary><img src="./doc/job_adertisements/harbor/icon_navigator_102.png" alt="If you are reading this, there is an error." width="20" /> Captain Moby, Old Dog of the Sea</summary>
+      <img src="./doc/item_overhaul/harbormaster/moby.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/whaler.png" alt="If you are reading this, there is an error." />
 
-- <details><!-- Mother of Pearls -->
-  <summary><img src="./doc/job_adertisements/harbor/icon_worker_414.png" alt="If you are reading this, there is an error." width="20" /> Mother of Pearls</summary>
-    <img src="./doc/item_overhaul/harbormaster/pearl.png" alt="If you are reading this, there is an error." />
+      New Item.
+      <img src="./doc/item_overhaul/harbormaster/biologist.png" alt="If you are reading this, there is an error." />
+    </details>
 
-    New Item.
-    <img src="./doc/item_overhaul/harbormaster/algologist.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/diver.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Mother of Pearls -->
+    <summary><img src="./doc/job_adertisements/harbor/icon_worker_414.png" alt="If you are reading this, there is an error." width="20" /> Mother of Pearls</summary>
+      <img src="./doc/item_overhaul/harbormaster/pearl.png" alt="If you are reading this, there is an error." />
 
-- <details><!-- Seasoned Salter -->
-  <summary><img src="./doc/job_adertisements/enbesa/icon_sea_master_1.png" alt="If you are reading this, there is an error." width="20" /> Seasoned Salter</summary>
-    <img src="./doc/item_overhaul/harbormaster/salt.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/gate3_2.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/gate2_2.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/gate1_2.png" alt="If you are reading this, there is an error." />
-  </details>
+      New Item.
+      <img src="./doc/item_overhaul/harbormaster/algologist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/diver.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Fishing Nets -->
-  <summary><img src="./doc/item_overhaul/harbormaster/icon_fishernet_3.png" alt="If you are reading this, there is an error." width="20" /> Fishing Nets</summary>
-    <img src="./doc/item_overhaul/harbormaster/net3.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/net2.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Seasoned Salter -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_sea_master_1.png" alt="If you are reading this, there is an error." width="20" /> Seasoned Salter</summary>
+      <img src="./doc/item_overhaul/harbormaster/salt.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/gate3_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/gate2_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/gate1_2.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Captain Nineveh's Miraculous Lobster Trap -->
-  <summary><img src="./doc/item_overhaul/harbormaster/item_miraculous_lobster_trap.png" alt="If you are reading this, there is an error." width="20" /> Captain Nineveh's Miraculous Lobster Trap</summary>
-    <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
+  - <details><!-- Fishing Nets -->
+    <summary><img src="./doc/item_overhaul/harbormaster/icon_fishernet_3.png" alt="If you are reading this, there is an error." width="20" /> Fishing Nets</summary>
+      <img src="./doc/item_overhaul/harbormaster/net3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/net2.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Captain Nineveh's Miraculous Lobster Trap -->
+    <summary><img src="./doc/item_overhaul/harbormaster/item_miraculous_lobster_trap.png" alt="If you are reading this, there is an error." width="20" /> Captain Nineveh's Miraculous Lobster Trap</summary>
+      <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
+    </details>
+
   </details>
