@@ -1305,6 +1305,7 @@
     New Item
 
     <img src="./doc/item_overhaul/harbormaster/algologist.png" alt="If you are reading this, there is an error." />
+
     <img src="./doc/item_overhaul/harbormaster/diver.png" alt="If you are reading this, there is an error." />
   </details>
 
