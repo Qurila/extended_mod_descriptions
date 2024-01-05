@@ -225,6 +225,8 @@
       <img src="./doc/item_overhaul/trade_union/grigor.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/foreman.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/mineralogist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/quarryman.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/driller.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/sandra.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/martha.png" alt="If you are reading this, there is an error." />
     </details>
