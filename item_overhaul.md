@@ -1324,7 +1324,7 @@
 
 - <details><!-- Captain Nineveh's Miraculous Lobster Trap -->
   <summary><img src="./doc/item_overhaul/harbormaster/item_miraculous_lobster_trap.png" alt="If you are reading this, there is an error." width="20" /> Captain Nineveh's Miraculous Lobster Trap</summary>
-    <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/net_trap3.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
   </details>
 
