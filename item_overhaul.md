@@ -223,7 +223,10 @@
     <summary><img src="./doc/job_adertisements/mining/icon_well_dressed_204.png" alt="If you are reading this, there is an error." width="20" /> Steven MacLeod, Geological Surveyor </summary>
       <img src="./doc/item_overhaul/trade_union/steven.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/grigor.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/foreman.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/mineralogist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/sandra.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/martha.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
