@@ -1302,7 +1302,8 @@
   <summary><img src="./doc/job_adertisements/harbor/icon_worker_414.png" alt="If you are reading this, there is an error." width="20" /> Mother of Pearls</summary>
     <img src="./doc/item_overhaul/harbormaster/pearl.png" alt="If you are reading this, there is an error." />
 
-    New Item.
+    New Item
+
     <img src="./doc/item_overhaul/harbormaster/algologist.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/diver.png" alt="If you are reading this, there is an error." />
   </details>
