@@ -1293,7 +1293,8 @@
     <img src="./doc/item_overhaul/harbormaster/moby.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/whaler.png" alt="If you are reading this, there is an error." />
 
-    New Item.
+    New Item
+
     <img src="./doc/item_overhaul/harbormaster/biologist.png" alt="If you are reading this, there is an error." />
   </details>
 
