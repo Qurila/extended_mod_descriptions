@@ -1389,7 +1389,7 @@
 
   When "**Town Hall Rebalanced**" has removed all buildings except "**Canteen**", the table is switched to "**Lodge**".
 
-    <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/billiard_table_2.png" alt="If you are reading this, there is an error." />
   </details>
 
 </details
