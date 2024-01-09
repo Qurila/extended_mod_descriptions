@@ -1357,6 +1357,14 @@
     <img src="./doc/item_overhaul/lodge/supplements.png" alt="If you are reading this, there is an error." />
   </details>
 
+- <details><!-- Oil Lamp Factory -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_oil_lamps.png" alt="If you are reading this, there is an error." width="20" /> Oil Lamp Factory</summary>
+
+  The following items now affect Oil Lamp Factory, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/planers.png" alt="If you are reading this, there is an error." />
+  </details>
+
 - <details><!-- Deep Gold Mine -->
   <summary><img src="./doc/item_overhaul/lodge/icon_gold_ore.png" alt="If you are reading this, there is an error." width="20" /> Deep Gold Mine</summary>
 
@@ -1520,6 +1528,50 @@
     <img src="./doc/item_overhaul/lodge/sled.png" alt="If you are reading this, there is an error." />
     </details>
 
+  </details>
+
+- <details><!-- Fat Chunk Candle Maker -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_lamp_maker.png" alt="If you are reading this, there is an error." width="20" /> Fat Chunk Candle Maker</summary>
+  <img src="./doc/item_overhaul/lodge/candle.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Gritty Gas Extractor -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gas_extractor.png" alt="If you are reading this, there is an error." width="20" /> Gritty Gas Extractor</summary>
+  <img src="./doc/item_overhaul/lodge/gritty.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Aspirin Machine -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_aspirin_machine.png" alt="If you are reading this, there is an error." width="20" /> Aspirin Machine</summary>
+  <img src="./doc/item_overhaul/lodge/aspirin.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Music Box -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_music_box.png" alt="If you are reading this, there is an error." width="20" /> Music Box</summary>
+  <img src="./doc/item_overhaul/lodge/heater.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Gløgg Splurger -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_berries_press.png" alt="If you are reading this, there is an error." width="20" /> Gløgg Splurger</summary>
+  <img src="./doc/item_overhaul/lodge/splurger.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Zappy Battery -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_electric_battery.png" alt="If you are reading this, there is an error." width="20" /> Zappy Battery</summary>
+  <img src="./doc/item_overhaul/lodge/battery.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Radiator -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_radiator.png" alt="If you are reading this, there is an error." width="20" /> Radiator</summary>
+  <img src="./doc/item_overhaul/lodge/radiator.png" alt="If you are reading this, there is an error." />
+
+    If the Sleeping Bags are removed from "**Arnarunn the Seamless**", they are added to the "**Radiator**".
+
+  <img src="./doc/item_overhaul/lodge/radiator_2.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Pocket Cannery -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_canning_machine.png" alt="If you are reading this, there is an error." width="20" /> Pocket Cannery</summary>
+  <img src="./doc/item_overhaul/lodge/cannery.png" alt="If you are reading this, there is an error." />
   </details>
 
 </details
