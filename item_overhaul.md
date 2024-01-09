@@ -1353,9 +1353,9 @@
 
   The following items now affect Arctic Animal Farms, therefore they can now be used in all socket buildings.
 
-    <img src="./doc/item_overhaul/lodge/remedy.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/lodge/supplements.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/lodge/yards.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/supplements.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/remedy.png" alt="If you are reading this, there is an error." />
   </details>
 
 </details>
