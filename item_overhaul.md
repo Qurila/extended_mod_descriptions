@@ -1401,7 +1401,7 @@
 - <details><!-- Post Office -->
   <summary><img src="./doc/item_overhaul/lodge/icon_post_office.png" alt="If you are reading this, there is an error." width="20" /> Post Office</summary>
 
-  The following items now affect Post Office, therefore they can now be used in all socket buildings.
+    The following items now affect Post Office, therefore they can now be used in all socket buildings.
 
     <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
@@ -1417,23 +1417,23 @@
     If "**Husky Sled Revision**" is active, its bonus on the range of public services is reduced to 30%.
   </details>
 
-  - <details><!-- Sewing Items -->
-    <summary><img src="./doc/item_overhaul/lodge/sewing.png" alt="If you are reading this, there is an error." width="20" /> Sewing Items</summary>
+- <details><!-- Sewing Items -->
+  <summary><img src="./doc/item_overhaul/lodge/sewing.png" alt="If you are reading this, there is an error." width="20" /> Sewing Items</summary>
 
-    - <details><!-- Tools -->
-      <summary><img src="./doc/item_overhaul/lodge/icon_leather_tool_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
-      <img src="./doc/item_overhaul/lodge/sewing3.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/lodge/sewing2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/lodge/sewing1.png" alt="If you are reading this, there is an error." />
-      </details>
-
-    - <details><!-- Specialists -->
-      <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_905.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
-        <img src="./doc/item_overhaul/lodge/arnarunn.png" alt="If you are reading this, there is an error." />
-        <img src="./doc/item_overhaul/lodge/practised_seamster.png" alt="If you are reading this, there is an error." />
-        <img src="./doc/item_overhaul/lodge/seamster.png" alt="If you are reading this, there is an error." />
-      </details>
-
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_leather_tool_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/sewing3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/sewing2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/sewing1.png" alt="If you are reading this, there is an error." />
     </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_905.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/arnarunn.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/practised_seamster.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/seamster.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
 
 </details
