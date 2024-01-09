@@ -1474,4 +1474,32 @@
 
   </details>
 
+- <details><!-- Hunting Items -->
+  <summary><img src="./doc/item_overhaul/lodge/hunting.png" alt="If you are reading this, there is an error." width="20" /> Hunting Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_fishing_boat_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/bow3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/bow2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/bow1.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/boat3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/boat2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/boat1.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/hoklo.png" alt="If you are reading this, there is an error." />
+
+    The following items will be removed.
+
+    <img src="./doc/item_overhaul/lodge/speers.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_1005_b.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/toklo.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/artful_hunter.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/hunter.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
 </details
