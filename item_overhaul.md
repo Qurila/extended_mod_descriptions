@@ -1455,4 +1455,23 @@
 
   </details>
 
+- <details><!-- Cooking Items -->
+  <summary><img src="./doc/item_overhaul/lodge/cooking.png" alt="If you are reading this, there is an error." width="20" /> Cooking Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_cookng_stove_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/kudlik3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/kudlik2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/kudlik1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_1004.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/sandro.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/rugged_cook.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/cook.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
 </details
