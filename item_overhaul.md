@@ -1336,7 +1336,7 @@
 <summary>List of Changes</summary>
 
 - <details><!-- Arctic Lumberjack/Charcoal Kiln -->
-  <summary><img src="./doc/job_adertisements/lodge/icon_coal_wood.png" alt="If you are reading this, there is an error." width="20" /> Arctic Lumberjack/Charcoal Kiln</summary>
+  <summary><img src="./doc/item_overhaul/lodge/icon_coal_wood.png" alt="If you are reading this, there is an error." width="20" /> Arctic Lumberjack/Charcoal Kiln</summary>
 
   Arctic Lumberjack will be removed from the following Items
 
