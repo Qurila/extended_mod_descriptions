@@ -1386,10 +1386,13 @@
     <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/lodge/billiard_table.png" alt="If you are reading this, there is an error." />
+
     If "**Item Sockets**" is active, the "**Canteen**" is removed again from the following items.
+
     <img src="./doc/item_overhaul/lodge/financial_investment.png" alt="If you are reading this, there is an error." />
 
     <img src="./doc/item_overhaul/lodge/billiard_table_2.png" alt="If you are reading this, there is an error." />
+
     When "**Town Hall Rebalanced**" has removed all buildings except "**Canteen**", the table is switched to "**Lodge**".
   </details>
 
