@@ -1436,4 +1436,23 @@
 
   </details>
 
+- <details><!-- Animal Farm Items -->
+  <summary><img src="./doc/item_overhaul/lodge/animal.png" alt="If you are reading this, there is an error." width="20" /> Animal Farm Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_snow_goggle_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/iggaak3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/iggaak2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/iggaak1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_901b.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/taliriktug.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/astute_breeder.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/breeder.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
 </details
