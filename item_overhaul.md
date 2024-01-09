@@ -1329,3 +1329,23 @@
   </details>
 
 </details>
+
+## <img src="./doc/item_overhaul/lodge/icon_community_lodge.png" alt="If you are reading this, there is an error." width="30" /> Lodge Rebalanced
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
+
+- <details><!-- Arctic Lumberjack/Charcoal Kiln -->
+  <summary><img src="./doc/job_adertisements/lodge/icon_coal_wood.png" alt="If you are reading this, there is an error." width="20" /> Arctic Lumberjack/Charcoal Kiln</summary>
+
+  Arctic Lumberjack will be removed from the following Items
+
+    <img src="./doc/item_overhaul/lodge/adzes.png" alt="If you are reading this, there is an error." />
+
+  The following items now affect Arctic Lumberjack Huts and Charcoal Kilns, and can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/forest_tools.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/saws.png" alt="If you are reading this, there is an error." />
+  </details>
+
+</details>
