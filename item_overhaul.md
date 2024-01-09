@@ -1357,4 +1357,15 @@
     <img src="./doc/item_overhaul/lodge/supplements.png" alt="If you are reading this, there is an error." />
   </details>
 
+- <details><!-- Deep Gold Mine -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gold_ore.png" alt="If you are reading this, there is an error." width="20" /> Deep Gold Mine</summary>
+
+  The following items now affect Deep Gold Mine, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/elevators.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/extractors.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/dynamite.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/phosphor.png" alt="If you are reading this, there is an error." />
+  </details>
+
 </details>
