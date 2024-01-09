@@ -1378,4 +1378,18 @@
     <img src="./doc/item_overhaul/lodge/detector.png" alt="If you are reading this, there is an error." />
   </details>
 
+- <details><!-- Canteen -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gas_red.png" alt="If you are reading this, there is an error." width="20" /> Canteen</summary>
+
+  The following items now affect Canteen, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/billiard_table.png" alt="If you are reading this, there is an error." />
+
+  When "**Town Hall Rebalanced**" has removed all buildings except "**Canteen**", the table is switched to "**Lodge**".
+
+    <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
+  </details>
+
 </details
