@@ -1348,4 +1348,14 @@
     <img src="./doc/item_overhaul/lodge/saws.png" alt="If you are reading this, there is an error." />
   </details>
 
+- <details><!-- Arctic Animal Farms -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_coal_wood.png" alt="If you are reading this, there is an error." width="20" /> Arctic Animal Farms</summary>
+
+  The following items now affect Arctic Animal Farms, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/remedy.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/supplements.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/yards.png" alt="If you are reading this, there is an error." />
+  </details>
+
 </details>
