@@ -1368,4 +1368,14 @@
     <img src="./doc/item_overhaul/lodge/phosphor.png" alt="If you are reading this, there is an error." />
   </details>
 
-</details>
+- <details><!-- Arctic Gas Mine -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gas_red.png" alt="If you are reading this, there is an error." width="20" /> Arctic Gas Mine</summary>
+
+  The following items now affect Arctic Gas Mine, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/clean_air.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/drills.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/detector.png" alt="If you are reading this, there is an error." />
+  </details>
+
+</details
