@@ -1502,4 +1502,24 @@
 
   </details>
 
+- <details><!-- Woodworking Items -->
+  <summary><img src="./doc/item_overhaul/lodge/woodworking.png" alt="If you are reading this, there is an error." width="20" /> Woodworking Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_axe_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/adze3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/adze2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/adze1.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_904.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/naaqtuuq.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/sharp_sled.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/sled.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
 </details
