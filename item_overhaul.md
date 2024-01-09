@@ -1574,4 +1574,12 @@
   <img src="./doc/item_overhaul/lodge/cannery.png" alt="If you are reading this, there is an error." />
   </details>
 
+- <details><!-- Arctic Flu Item -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_ranger_station.png" alt="If you are reading this, there is an error." width="20" /> Arctic Flu Item</summary>
+
+    The reduced change for Arctic Flu will be removed from the following items.
+
+  <img src="./doc/item_overhaul/lodge/arctic_flu.png" alt="If you are reading this, there is an error." />
+  </details>
+
 </details
