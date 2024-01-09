@@ -1387,13 +1387,34 @@
     <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/lodge/billiard_table.png" alt="If you are reading this, there is an error." />
 
-    When "**Town Hall Rebalanced**" has removed all buildings except "**Canteen**", the table is switched to "**Lodge**".
+    When "**Town Hall Rebalanced**" has removed all buildings except "**Canteen**", the Table is switched to "**Lodge**".
 
     <img src="./doc/item_overhaul/lodge/billiard_table_2.png" alt="If you are reading this, there is an error." />
 
     If "**Item Sockets**" is active, the "**Canteen**" is removed again from the following items.
 
     <img src="./doc/item_overhaul/lodge/financial_investment.png" alt="If you are reading this, there is an error." />
+
+    If "**Husky Sled Revision**" is active, its bonus on the range of public services is reduced to 30%.
+  </details>
+
+- <details><!-- Post Office -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_canteen.png" alt="If you are reading this, there is an error." width="20" /> Post Office</summary>
+
+  The following items now affect Post Office, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
+
+    "Arctic Science Reporter" now increases the range of "**Post Office**"
+
+    <img src="./doc/item_overhaul/lodge/science.png" alt="If you are reading this, there is an error." />
+
+    If "**Item Sockets**" is active, the "**Post Office**" is removed again from the following items.
+
+    <img src="./doc/item_overhaul/lodge/subvention.png" alt="If you are reading this, there is an error." />
+
+    If "**Husky Sled Revision**" is active, its bonus on the range of public services is reduced to 30%.
   </details>
 
 </details
