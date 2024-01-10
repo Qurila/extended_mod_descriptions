@@ -147,6 +147,13 @@
       <img src="./doc/item_overhaul/trade_union/horologist.png" alt="If you are reading this, there is an error." />
     </details>
 
+  - <details><!-- Henri Zanchi, Man of Steel -->
+    <summary><img src="./doc/job_adertisements/foundry/icon_well_dressed_111.png" alt="If you are reading this, there is an error." width="20" /> Henri Zanchi, Man of Steel </summary>
+      <img src="./doc/item_overhaul/trade_union/henri.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/forges.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/steelsmith.png" alt="If you are reading this, there is an error." />
+    </details>
+
   - <details><!-- Herve Savonne, Suppressor of Grime -->
     <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" alt="If you are reading this, there is an error." width="20" /> Herve Savonne, Suppressor of Grime </summary>
       <img src="./doc/item_overhaul/trade_union/herve.png" alt="If you are reading this, there is an error." />
