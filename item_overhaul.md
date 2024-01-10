@@ -186,7 +186,7 @@
     </details>
 
   - <details><!-- Mark van der Mark, Breeder of Shepherd Dogs -->
-    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" alt="If you are reading this, there is an error." width="20" /> Mark van der Mark, Breeder of Shepherd Dogs </summary>
+    <summary><img src="./doc/job_adertisements/agriculture/icon_normal_dressed_207.png" alt="If you are reading this, there is an error." width="20" /> Mark van der Mark, Breeder of Shepherd Dogs</summary>
       <img src="./doc/item_overhaul/trade_union/mark.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/rodrigo.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/livestock.png" alt="If you are reading this, there is an error." />
@@ -195,7 +195,7 @@
     </details>
 
   - <details><!-- Maxime Graves, Delicatesseur Extraordinaire -->
-    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="If you are reading this, there is an error." width="20" /> Maxime Graves, Delicatesseur Extraordinaire </summary>
+    <summary><img src="./doc/job_adertisements/food/icon_baker_102.png" alt="If you are reading this, there is an error." width="20" /> Maxime Graves, Delicatesseur Extraordinaire</summary>
       <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
 
       If "Cattle need to be butchered is active, "**Cattle**" is processed instead of "**Beef**"" and instead of "**Goulash**","**Beef**" is granted as bonus .
@@ -205,7 +205,7 @@
     </details>
 
   - <details><!-- Mrs. Mayson, The Very Good Housekeeper -->
-    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" alt="If you are reading this, there is an error." width="20" /> Mrs. Mayson, The Very Good Housekeeper </summary>
+    <summary><img src="./doc/job_adertisements/food/icon_well_dressed_401.png" alt="If you are reading this, there is an error." width="20" /> Mrs. Mayson, The Very Good Housekeeper</summary>
       <img src="./doc/item_overhaul/trade_union/mayson.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/michel.png" alt="If you are reading this, there is an error." />
 
@@ -213,8 +213,15 @@
       <img src="./doc/item_overhaul/trade_union/michel_2.png" alt="If you are reading this, there is an error." />
     </details>
 
+  - <details><!-- Prof. Ram Devi, The Bundle of Energy -->
+    <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_102.png" alt="If you are reading this, there is an error." width="20" /> Prof. Ram Devi, The Bundle of Energy</summary>
+      <img src="./doc/item_overhaul/trade_union/devi.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/johan.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/science.png" alt="If you are reading this, there is an error." />
+    </details>
+
   - <details><!-- Seraphim Papadikas, The Window Dresser -->
-    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_107.png" alt="If you are reading this, there is an error." width="20" /> Seraphim Papadikas, The Window Dresser </summary>
+    <summary><img src="./doc/job_adertisements/material/icon_well_dressed_107.png" alt="If you are reading this, there is an error." width="20" /> Seraphim Papadikas, The Window Dresser</summary>
       <img src="./doc/item_overhaul/trade_union/seraphim.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/morris.png" alt="If you are reading this, there is an error." />
     </details>
@@ -275,11 +282,6 @@
   - <details><!-- Dario the Mechanical Engineer -->
     <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" alt="If you are reading this, there is an error." width="20" /> Dario the Mechanical Engineer </summary>
       <img src="./doc/item_overhaul/trade_union/dario.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Johan the Inventor -->
-    <summary><img src="./doc/job_adertisements/luxus/icon_normal_dressed_202.png" alt="If you are reading this, there is an error." width="20" /> Johan the Inventor </summary>
-      <img src="./doc/item_overhaul/trade_union/johan.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Lily the Fashion Designer -->
