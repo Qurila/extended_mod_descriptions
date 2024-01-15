@@ -65,11 +65,12 @@
 
   - <details><!-- Calla Lily, Of The Desert Bloom -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_horticulturist_2.png" alt="If you are reading this, there is an error." width="20" /> Calla Lily, Of The Desert Bloom</summary>
+
+      The Apiary is now included as default in "**All Enbesan Crop Farms**".
       <img src="./doc/item_overhaul/trade_union/calla.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/gate3.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/gate2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/gate1.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/water_pump.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/yebeba.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/mosquito.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/birdhouse.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Cosmo Castelli, Agronomic Trailblazer -->
@@ -368,8 +369,19 @@
 - <details><!-- Item Groups -->
   <summary>Item Groups</summary>
 
+  - <details><!-- Warer Gates -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_3.png" alt="If you are reading this, there is an error." width="20" /> Warer Gates</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
+      <img src="./doc/item_overhaul/trade_union/calla_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate1.png" alt="If you are reading this, there is an error." />
+    </details>
+
   - <details><!-- Bells -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_3.png" alt="If you are reading this, there is an error." width="20" /> Bells  </summary>
+    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_3.png" alt="If you are reading this, there is an error." width="20" /> Bells</summary>
 
     **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
 
