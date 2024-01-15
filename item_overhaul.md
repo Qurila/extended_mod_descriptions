@@ -78,6 +78,7 @@
       <img src="./doc/item_overhaul/trade_union/cosmo.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/yvonne.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/planter.png" alt="If you are reading this, there is an error." />
+
     The following items will be removed.
 
       <img src="./doc/item_overhaul/trade_union/farm_items_ow.png" alt="If you are reading this, there is an error." />
@@ -97,6 +98,7 @@
       <img src="./doc/item_overhaul/trade_union/ali.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/brown.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/pedologist.png" alt="If you are reading this, there is an error." />
+
     The following items will be removed.
 
       <img src="./doc/item_overhaul/trade_union/farm_items_nw.png" alt="If you are reading this, there is an error." />
