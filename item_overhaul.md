@@ -76,11 +76,11 @@
   - <details><!-- Cosmo Castelli, Agronomic Trailblazer -->
     <summary><img src="./doc/job_adertisements/agriculture/icon_well_dressed_107.png" alt="If you are reading this, there is an error." width="20" /> Cosmo Castelli, Agronomic Trailblazer</summary>
       <img src="./doc/item_overhaul/trade_union/cosmo.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/alexander.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/medal.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/planter.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/yvonne.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/homesteader.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/planter.png" alt="If you are reading this, there is an error." />
+    The following items will be removed.
+
+      <img src="./doc/item_overhaul/trade_union/farm_items_ow.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Cristobal Taffeta, The Trendsetter -->
@@ -95,10 +95,11 @@
   - <details><!-- Dr. Ali Al-Zahir, the Botanical Director -->
     <summary><img src="./doc/job_adertisements/agriculture/icon_farmer_102_b.png" alt="If you are reading this, there is an error." width="20" /> Dr. Ali Al-Zahir, the Botanical Director</summary>
       <img src="./doc/item_overhaul/trade_union/ali.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/hermann.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/arborist.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/brown.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/pedologist.png" alt="If you are reading this, there is an error." />
+    The following items will be removed.
+
+      <img src="./doc/item_overhaul/trade_union/farm_items_nw.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Francois Strindberg, Crown Jeweller -->
