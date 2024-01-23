@@ -61,6 +61,8 @@
   - <details><!-- Bumm Brimmell, the Original Dandy -->
     <summary><img src="./doc/job_adertisements/cloth/icon_tailor_3.png" alt="If you are reading this, there is an error." width="20" /> Bumm Brimmell, the Original Dandy</summary>
       <img src="./doc/item_overhaul/trade_union/bumm.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/paul.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/bespoke.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Calla Lily, Of The Desert Bloom -->
@@ -91,7 +93,7 @@
       <img src="./doc/item_overhaul/trade_union/cristobal.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/mariana.png" alt="If you are reading this, there is an error." />
 
-      When a population consumes Jacob's "**Suits**", "**Tailored Suits**" are exchanged for them.
+      When a population consumes Jacob's "**Suits**", "**Work Clothes**" are exchanged for them.
       <img src="./doc/item_overhaul/trade_union/mariana_2.png" alt="If you are reading this, there is an error." />
     </details>
 
@@ -178,6 +180,10 @@
   - <details><!-- Lady Jane Smythe, Queen of Haute Couture -->
     <summary><img src="./doc/job_adertisements/cloth/icon_normaldress_810.png" alt="If you are reading this, there is an error." width="20" /> Lady Jane Smythe, Queen of Haute Couture </summary>
       <img src="./doc/item_overhaul/trade_union/jane.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/lily.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/couturier.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/franke.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/constume.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Marcel Forcas, Celebrity Chef -->
@@ -214,7 +220,8 @@
       <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
 
       If "Cattle need to be butchered is active, "**Cattle**" is processed instead of "**Beef**"" and instead of "**Goulash**","**Beef**" is granted as bonus .
-      <img src="./doc/item_overhaul/trade_union/maxime.png" alt="If you are reading this, there is an error." />
+
+      <img src="./doc/item_overhaul/trade_union/maxime_2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/chantelle.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/charcutier.png" alt="If you are reading this, there is an error." />
     </details>
@@ -289,31 +296,47 @@
       <img src="./doc/item_overhaul/trade_union/lucia.png" alt="If you are reading this, there is an error." />
     </details>
 
+  - <details><!-- Extremely Loud Bell -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell </summary>
+
+    **The research time can no longer be shortened, and each research costs more points.**
+
+      <img src="./doc/item_overhaul/trade_union/bell4.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Optimised Automatic Loom -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_loom_2.png" alt="If you are reading this, there is an error." width="20" /> Optimised Automatic Loom </summary
+
+    **The research time can no longer be shortened, and each research costs more points.**
+
+      <img src="./doc/item_overhaul/trade_union/loom4.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Miraculous Steel Plough -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
+
+    **The research time can no longer be shortened, and each research costs more points.**
+
+      <img src="./doc/item_overhaul/trade_union/plough4.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- A Remedy -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_bottle.png" alt="If you are reading this, there is an error." width="20" /> A Remedy </summary>
+
+    **The research time can no longer be shortened, and each research costs more points.**
+
+      <img src="./doc/item_overhaul/trade_union/supplement4.png" alt="If you are reading this, there is an error." />
+    </details>
+
   </details>
 
 - <details><!-- Epic -->
   <summary>Epic</summary>
 
-  - <details><!-- Dario the Mechanical Engineer -->
-    <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_202.png" alt="If you are reading this, there is an error." width="20" /> Dario the Mechanical Engineer </summary>
-      <img src="./doc/item_overhaul/trade_union/dario.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Lily the Fashion Designer -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_well_dressed_401.png" alt="If you are reading this, there is an error." width="20" /> Lily the Fashion Designer </summary>
-      <img src="./doc/item_overhaul/trade_union/lily.png" alt="If you are reading this, there is an error." />
-    </details>
-
   - <details><!-- Marie-Louise Careme, Chef de Cuisine -->
     <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_1.png" alt="If you are reading this, there is an error." width="20" /> Marie-Louise Careme, Chef de Cuisine </summary>
       <img src="./doc/item_overhaul/trade_union/careme.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/sous.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Master Craftsman Franke -->
-    <summary><img src="./doc/job_adertisements/cloth/icon_boris_franke.png" alt="If you are reading this, there is an error." width="20" /> Master Craftsman Franke </summary>
-      <img src="./doc/item_overhaul/trade_union/franke.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/constume.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Sluggish Surge-Wheel -->
@@ -324,43 +347,6 @@
   - <details><!-- Wahenoor, the Paper Mill Pro -->
     <summary><img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" alt="If you are reading this, there is an error." width="20" /> Wahenoor, the Paper Mill Pro </summary>
       <img src="./doc/item_overhaul/trade_union/wahenoor.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Yebeba's Sturdy Greenhouse -->
-    <summary><img src="./doc/item_overhaul/trade_union/item_sturdy_greenhouse.png" alt="If you are reading this, there is an error." width="20" /> Yebeba's Sturdy Greenhouse </summary>
-      <img src="./doc/item_overhaul/trade_union/yebeba.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Extremely Loud Bell -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell </summary>
-
-    **Is no longer researchable. Only work if not already identified, then it is unfortunately still further researchable**
-
-      <img src="./doc/item_overhaul/trade_union/bell4.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Optimised Automatic Loom -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_loom_2.png" alt="If you are reading this, there is an error." width="20" /> Optimised Automatic Loom </summary
-
-    **Is no longer researchable. Only work if not already identified, then it is unfortunately still further researchable**
-
-      <img src="./doc/item_overhaul/trade_union/loom4.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Miraculous Steel Plough -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
-
-    **Is no longer researchable. Only work if not already identified, then it is unfortunately still further researchable**
-
-      <img src="./doc/item_overhaul/trade_union/plough4.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- A Remedy -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_bottle.png" alt="If you are reading this, there is an error." width="20" /> A Remedy </summary>
-
-    **Is no longer researchable. Only work if not already identified, then it is unfortunately still further researchable**
-
-      <img src="./doc/item_overhaul/trade_union/supplement4.png" alt="If you are reading this, there is an error." />
     </details>
 
 - <details><!-- Rare -->
@@ -377,14 +363,24 @@
   <summary>Item Groups</summary>
 
   - <details><!-- Warer Gates -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_3.png" alt="If you are reading this, there is an error." width="20" /> Warer Gates</summary>
-
-    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+    <summary><img src="./doc/item_overhaul/trade_union/item_flood_gate.png" alt="If you are reading this, there is an error." width="20" /> Warer Gates</summary>
 
       <img src="./doc/item_overhaul/trade_union/calla_2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/gate3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/gate2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/gate1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Leather Tools -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_leather_knives.png" alt="If you are reading this, there is an error." width="20" /> Leather Tools</summary>
+
+      <img src="./doc/item_overhaul/trade_union/leather_tool3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/leather_tool2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/leather_tool1.png" alt="If you are reading this, there is an error." />
+
+    The following items no longer affect the Ball Manufactory
+
+      <img src="./doc/item_overhaul/trade_union/fusing_machine.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Bells -->
