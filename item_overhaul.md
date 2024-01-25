@@ -15,6 +15,18 @@
       <img src="./doc/item_overhaul/trade_union/cook.png" alt="If you are reading this, there is an error." />
     </details>
 
+  - <details><!-- Aesop, the Fabled Storyteller -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_keeper_of_tradition_1.png" alt="If you are reading this, there is an error." width="20" /> Aesop, the Fabled Storyteller</summary>
+      <img src="./doc/item_overhaul/trade_union/aesop.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/elder.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Amadi Ilga, Ketema's Chief Civil Engineer -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_adventurer_700.png" alt="If you are reading this, there is an error." width="20" /> Amadi Ilga, Ketema's Chief Civil Engineer</summary>
+      <img src="./doc/item_overhaul/trade_union/amadi.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/embroidress.png" alt="If you are reading this, there is an error." />
+    </details>
+
   - <details><!-- Kaldi, Infuser Of Teas -->
     <summary><img src="./doc/job_adertisements/residence/icon_herder_3a.png" alt="If you are reading this, there is an error." width="20" /> Kaldi, Infuser Of Teas</summary>
       <img src="./doc/item_overhaul/trade_union/kaldi.png" alt="If you are reading this, there is an error." />
@@ -54,8 +66,10 @@
   - <details><!-- Bruno Ironbright, Engineering Giant -->
     <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_205.png" alt="If you are reading this, there is an error." width="20" /> Bruno Ironbright, Engineering Giant</summary>
       <img src="./doc/item_overhaul/trade_union/bruno.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/dario.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/susannah.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/engineer.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/machinist.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Bumm Brimmell, the Original Dandy -->
@@ -92,6 +106,7 @@
     <summary><img src="./doc/job_adertisements/cloth/icon_teacher_515.png" alt="If you are reading this, there is an error." width="20" /> Cristobal Taffeta, The Trendsetter</summary>
       <img src="./doc/item_overhaul/trade_union/cristobal.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/mariana.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/milliner.png" alt="If you are reading this, there is an error." />
 
       When a population consumes Jacob's "**Suits**", "**Work Clothes**" are exchanged for them.
       <img src="./doc/item_overhaul/trade_union/mariana_2.png" alt="If you are reading this, there is an error." />
@@ -113,14 +128,18 @@
   - <details><!-- Francois Strindberg, Crown Jeweller -->
     <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" alt="If you are reading this, there is an error." width="20" /> Francois Strindberg, Crown Jeweller</summary>
       <img src="./doc/item_overhaul/trade_union/strindberg.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/gilbert.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/gemologist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
+
+    **If Susannah Brightwoman can be researched or purchased, the exta Goldore is removed**
+
     </details>
 
   - <details><!-- Francois Thorne, The Industrial Reinforcer -->
     <summary><img src="./doc/job_adertisements/material/icon_well_dressed_103.png" alt="If you are reading this, there is an error." width="20" /> Francois Thorne, The Industrial Reinforcer </summary>
       <img src="./doc/item_overhaul/trade_union/thorne.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/ferhat.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/general.png" alt="If you are reading this, there is an error." />
     </details>
 
@@ -134,8 +153,10 @@
   - <details><!-- Fried Plantain Kitchen Items -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_fried_bananas.png" alt="If you are reading this, there is an error." width="20" /> Fried Plantain Kitchen Items </summary>
       <img src="./doc/item_overhaul/trade_union/icnoyotl.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/kantyi.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/confectionier.png" alt="If you are reading this, there is an error." />
+
+    The following items now affect the Fried Plantain Kitchen
+
+      <img src="./doc/item_overhaul/trade_union/fried_plantain_items.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Gerhard Fuchs, of the Patent Eyeglass -->
@@ -152,9 +173,12 @@
   - <details><!-- Hans Klein, Old Grandfather Time -->
     <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_108.png" alt="If you are reading this, there is an error." width="20" /> Hans Klein, Old Grandfather Time </summary>
       <img src="./doc/item_overhaul/trade_union/hans.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/chiara.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/horologist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
+
+    **If Susannah Brightwoman can be researched or purchased, the exta Goldore is removed**
+
     </details>
 
   - <details><!-- Henri Zanchi, Man of Steel -->
@@ -168,6 +192,7 @@
     <summary><img src="./doc/job_adertisements/consumer/icon_well_dressed_206.png" alt="If you are reading this, there is an error." width="20" /> Herve Savonne, Suppressor of Grime </summary>
       <img src="./doc/item_overhaul/trade_union/herve.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/prunella.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/herbal.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Jörg von Malching, Augur of the Auric -->
@@ -240,6 +265,8 @@
       <img src="./doc/item_overhaul/trade_union/devi.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/johan.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/science.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/physicist.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/sparky.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Seraphim Papadikas, The Window Dresser -->
@@ -263,12 +290,15 @@
   - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_coffee_specialist_800.png" alt="If you are reading this, there is an error." width="20" /> Susannah Brightwoman, A Glimmer In The Darkness </summary>
       <img src="./doc/item_overhaul/trade_union/brigthwoman.png" alt="If you are reading this, there is an error." />
+
+    **If Susannah Brightwoman can be researched or purchased, the exta Goldore is removed**
+
     </details>
 
   - <details><!-- Tlayolotl Savor, King of the Corn -->
     <summary><img src="./doc/job_adertisements/food/icon_entertainer_508.png" alt="If you are reading this, there is an error." width="20" /> Tlayolotl Savor, King of the Corn </summary>
       <img src="./doc/item_overhaul/trade_union/tlayolotl.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/kantyi_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/kantyi.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/mole.png" alt="If you are reading this, there is an error." />
     </details>
 
@@ -299,7 +329,8 @@
   - <details><!-- Extremely Loud Bell -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell </summary>
 
-    **The research time can no longer be shortened, and each research costs more points.**
+    **The research time can no longer be shortened, and each research costs more points. Can now also be obtained via rescue missions and the World Fair**
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together with other bell items in the same building.**
 
       <img src="./doc/item_overhaul/trade_union/bell4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -307,7 +338,7 @@
   - <details><!-- Optimised Automatic Loom -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_loom_2.png" alt="If you are reading this, there is an error." width="20" /> Optimised Automatic Loom </summary
 
-    **The research time can no longer be shortened, and each research costs more points.**
+    **The research time can no longer be shortened, and each research costs more points. Can now also be obtained via rescue missions and the World Fair**
 
       <img src="./doc/item_overhaul/trade_union/loom4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -315,7 +346,7 @@
   - <details><!-- Miraculous Steel Plough -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough </summary>
 
-    **The research time can no longer be shortened, and each research costs more points.**
+    **The research time can no longer be shortened, and each research costs more points. Can now also be obtained via rescue missions and the World Fair**
 
       <img src="./doc/item_overhaul/trade_union/plough4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -323,9 +354,32 @@
   - <details><!-- A Remedy -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_bottle.png" alt="If you are reading this, there is an error." width="20" /> A Remedy </summary>
 
-    **The research time can no longer be shortened, and each research costs more points.**
+    **The research time can no longer be shortened, and each research costs more points. Can now also be obtained via rescue missions and the World Fair.**
 
       <img src="./doc/item_overhaul/trade_union/supplement4.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Spice Master -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_plants_adept_1.png" alt="If you are reading this, there is an error." width="20" /> Spice Master </summary>
+      <img src="./doc/item_overhaul/trade_union/spice.png" alt="If you are reading this, there is an error." />
+
+    **The fertility for spices is added to the "Mosquito Net".**
+
+      <img src="./doc/item_overhaul/trade_union/mosquito_2.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Wahenoor, the Paper Mill Pro -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" alt="If you are reading this, there is an error." width="20" /> Wahenoor, the Paper Mill Pro </summary>
+      <img src="./doc/item_overhaul/trade_union/wahenoor.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Sluggish Surge-Wheel -->
+    <summary><img src="./doc/item_overhaul/trade_union/item_pelton_wheel.png" alt="If you are reading this, there is an error." width="20" /> Sluggish Surge-Wheel </summary>
+      <img src="./doc/item_overhaul/trade_union/wheel2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/wheel1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/gate1.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
@@ -337,16 +391,13 @@
     <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_chef_1.png" alt="If you are reading this, there is an error." width="20" /> Marie-Louise Careme, Chef de Cuisine </summary>
       <img src="./doc/item_overhaul/trade_union/careme.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/sous.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/entremetier.png" alt="If you are reading this, there is an error." />
     </details>
 
-  - <details><!-- Sluggish Surge-Wheel -->
-    <summary><img src="./doc/item_overhaul/trade_union/item_pelton_wheel.png" alt="If you are reading this, there is an error." width="20" /> Sluggish Surge-Wheel </summary>
-      <img src="./doc/item_overhaul/trade_union/wheel.png" alt="If you are reading this, there is an error." />
-    </details>
-
-  - <details><!-- Wahenoor, the Paper Mill Pro -->
-    <summary><img src="./doc/job_adertisements/enbesa/icon_water_use_expert_1.png" alt="If you are reading this, there is an error." width="20" /> Wahenoor, the Paper Mill Pro </summary>
-      <img src="./doc/item_overhaul/trade_union/wahenoor.png" alt="If you are reading this, there is an error." />
+  - <details><!-- Magan, the Master Craftsman -->
+    <summary><img src="./doc/job_adertisements/enbesa/icon_traditional_handcraft_3b.png" alt="If you are reading this, there is an error." width="20" /> Magan, the Master Craftsman </summary>
+      <img src="./doc/item_overhaul/trade_union/magan.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/careful.png" alt="If you are reading this, there is an error." />
     </details>
 
 - <details><!-- Rare -->
@@ -360,16 +411,7 @@
   </details>
 
 - <details><!-- Item Groups -->
-  <summary>Item Groups</summary>
-
-  - <details><!-- Warer Gates -->
-    <summary><img src="./doc/item_overhaul/trade_union/item_flood_gate.png" alt="If you are reading this, there is an error." width="20" /> Warer Gates</summary>
-
-      <img src="./doc/item_overhaul/trade_union/calla_2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/gate3.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/gate2.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/gate1.png" alt="If you are reading this, there is an error." />
-    </details>
+  <summary>Item Groups</summary>>
 
   - <details><!-- Leather Tools -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_leather_knives.png" alt="If you are reading this, there is an error." width="20" /> Leather Tools</summary>
