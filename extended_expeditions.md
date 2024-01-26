@@ -177,7 +177,7 @@
 </details>
 
 <details>
-  <summary><img src="./doc/expeditions/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" /><img src="./doc/expeditions/icon_session_sunken_treasure.png" alt="If you are reading this, there is an error." width="20" /> Old World </summary>
+  <summary><img src="./doc/expeditions/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" /><img src="./doc/expeditions/icon_session_sunken_treasure.png" alt="If you are reading this, there is an error." width="20" /> Old World</summary>
 
 - <img src="./doc/zoological/icon_journal_zoological.png" alt="If you are reading this, there is an error." width="20" /> "Zoological Research Report of the Old World: Uncommon Animals"
 
