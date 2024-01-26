@@ -334,9 +334,12 @@
   - <details><!-- Extremely Loud Bell -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell</summary>
 
-    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**  
-    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**  
+    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**
+  
+    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**
+  
     **They now belong to an ExclusiveGroup. You can therefore no longer socket them together with other bell items in the same building.**
+  
       <img src="./doc/item_overhaul/trade_union/bell4.png" alt="If you are reading this, there is an error." />
     </details>
 
@@ -344,8 +347,10 @@
   - <details><!-- Optimised Automatic Loom -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_loom_2.png" alt="If you are reading this, there is an error." width="20" /> Optimised Automatic Loom </summary
 
-    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**  
-    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**  
+    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**
+  
+    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**
+  
 
       <img src="./doc/item_overhaul/trade_union/loom4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -353,8 +358,10 @@
   - <details><!-- Miraculous Steel Plough -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_plough_1.png" alt="If you are reading this, there is an error." width="20" /> Miraculous Steel Plough</summary>
 
-    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**  
-    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**  
+    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**
+  
+    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**
+  
 
       <img src="./doc/item_overhaul/trade_union/plough4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -423,19 +430,22 @@
 
   - <details><!-- The "Country Bumpkin" Cigar Roller -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_cigars_roller.png" alt="If you are reading this, there is an error." width="20" /> The "Country Bumpkin" Cigar Roller</summary>  
-    **The following items will be removed.**  
+    **The following items will be removed.**
+  
       <img src="./doc/item_overhaul/trade_union/cigar.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Golden Harvester From The Future -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_electric_potato_harvester.png" alt="If you are reading this, there is an error." width="20" /> Golden Harvester From The Future</summary>  
-    **The following items will be removed.**  
+    <summary><img src="./doc/item_overhaul/trade_union/icon_electric_potato_harvester.png" alt="If you are reading this, there is an error." width="20" /> Golden Harvester From The Future</summary>
+    **The following items will be removed.**
+  
       <img src="./doc/item_overhaul/trade_union/harvester.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Generators -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_handmade_generator_3.png" alt="If you are reading this, there is an error." width="20" /> Generators</summary>  
-    **The following items will be removed.**  
+    **The following items will be removed.**
+  
       <img src="./doc/item_overhaul/trade_union/generators.png" alt="If you are reading this, there is an error." />
     </details>
 
