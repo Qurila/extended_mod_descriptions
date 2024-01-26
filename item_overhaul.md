@@ -430,6 +430,7 @@
 
   - <details><!-- The "Country Bumpkin" Cigar Roller -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_cigars_roller.png" alt="If you are reading this, there is an error." width="20" /> The "Country Bumpkin" Cigar Roller</summary>
+  
     **The following items will be removed.**
   
       <img src="./doc/item_overhaul/trade_union/cigar.png" alt="If you are reading this, there is an error." />
@@ -437,6 +438,7 @@
 
   - <details><!-- Golden Harvester From The Future -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_electric_potato_harvester.png" alt="If you are reading this, there is an error." width="20" /> Golden Harvester From The Future</summary>
+  
     **The following items will be removed.**
   
       <img src="./doc/item_overhaul/trade_union/harvester.png" alt="If you are reading this, there is an error." />
