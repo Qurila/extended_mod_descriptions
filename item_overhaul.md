@@ -446,8 +446,8 @@
 
   - <details><!-- Generators -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_handmade_generator_3.png" alt="If you are reading this, there is an error." width="20" /> Generators</summary>
-    **The following items will be removed.**
   
+    **The following items will be removed.**
       <img src="./doc/item_overhaul/trade_union/generators.png" alt="If you are reading this, there is an error." />
     </details>
 
