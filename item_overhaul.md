@@ -429,7 +429,7 @@
   <summary>Crafting</summary>
 
   - <details><!-- The "Country Bumpkin" Cigar Roller -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_cigars_roller.png" alt="If you are reading this, there is an error." width="20" /> The "Country Bumpkin" Cigar Roller</summary>  
+    <summary><img src="./doc/item_overhaul/trade_union/icon_cigars_roller.png" alt="If you are reading this, there is an error." width="20" /> The "Country Bumpkin" Cigar Roller</summary>
     **The following items will be removed.**
   
       <img src="./doc/item_overhaul/trade_union/cigar.png" alt="If you are reading this, there is an error." />
@@ -443,7 +443,7 @@
     </details>
 
   - <details><!-- Generators -->
-    <summary><img src="./doc/item_overhaul/trade_union/icon_handmade_generator_3.png" alt="If you are reading this, there is an error." width="20" /> Generators</summary>  
+    <summary><img src="./doc/item_overhaul/trade_union/icon_handmade_generator_3.png" alt="If you are reading this, there is an error." width="20" /> Generators</summary>
     **The following items will be removed.**
   
       <img src="./doc/item_overhaul/trade_union/generators.png" alt="If you are reading this, there is an error." />
