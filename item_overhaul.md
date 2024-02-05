@@ -268,6 +268,9 @@
     <summary><img src="./doc/job_adertisements/consumer/icon_normal_dressed_102.png" alt="If you are reading this, there is an error." width="20" /> Prof. Ram Devi, The Bundle of Energy</summary>
       <img src="./doc/item_overhaul/trade_union/devi.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/johan.png" alt="If you are reading this, there is an error." />
+
+    **The changed Input amount only affects factories that have this input, no extra inputs are added.**
+
       <img src="./doc/item_overhaul/trade_union/science.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/physicist.png" alt="If you are reading this, there is an error." />
     </details>
@@ -331,6 +334,20 @@
       <img src="./doc/item_overhaul/trade_union/lucia.png" alt="If you are reading this, there is an error." />
     </details>
 
+  - <details><!-- Feras Alsarami, the Persuader  -->
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_influencer_realferas_2.png" alt="If you are reading this, there is an error." width="20" /> Feras Alsarami, the Persuader</summary>
+
+    **Is no longer available from traders.**
+
+    **The research costs have been greatly increased and the time can only reduced to 30 minutes.**
+
+      <img src="./doc/item_overhaul/trade_union/feras.png" alt="If you are reading this, there is an error." />
+
+    **The following items will be removed.**
+
+      <img src="./doc/item_overhaul/trade_union/bekonin_press.png" alt="If you are reading this, there is an error." />
+    </details>
+
   - <details><!-- Extremely Loud Bell -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_factory_bell_2.png" alt="If you are reading this, there is an error." width="20" /> Extremely Loud Bell</summary>
 
@@ -366,7 +383,9 @@
   - <details><!-- A Remedy -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_bottle.png" alt="If you are reading this, there is an error." width="20" /> A Remedy</summary>
 
-    **The research time can no longer be shortened, and each research costs more points. Can now also be obtained via rescue missions and the World Fair.**
+    **Can no longer be identified in the research institute, but can now be obtained via rescue missions and the World Fair.**
+
+    **If it has already been identified, the research costs have been greatly increased and the time can no longer be reduced.**
 
       <img src="./doc/item_overhaul/trade_union/supplement4.png" alt="If you are reading this, there is an error." />
     </details>
@@ -428,7 +447,7 @@
   - <details><!-- The "Country Bumpkin" Cigar Roller -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_cigars_roller.png" alt="If you are reading this, there is an error." width="20" /> The "Country Bumpkin" Cigar Roller</summary>
 
-    **The following items will be removed.**
+    **The following item will be removed.**
 
       <img src="./doc/item_overhaul/trade_union/cigar.png" alt="If you are reading this, there is an error." />
     </details>
@@ -436,9 +455,14 @@
   - <details><!-- Golden Harvester From The Future -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_electric_potato_harvester.png" alt="If you are reading this, there is an error." width="20" /> Golden Harvester From The Future</summary>
 
-    **The following items will be removed.**
+    **The following item will be removed.**
 
       <img src="./doc/item_overhaul/trade_union/harvester.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- The Bizarro-Balloono-Magn8 -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_ballon_radar.png" alt="If you are reading this, there is an error." width="20" /> The Bizarro-Balloono-Magn8</summary>
+      <img src="./doc/item_overhaul/trade_union/baloon.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Generators -->
@@ -452,6 +476,16 @@
   - <details><!-- Cola Mola Wola Machine -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_cola_mola_machine.png" alt="If you are reading this, there is an error." width="20" /> Cola Mola Wola Machine</summary>
       <img src="./doc/item_overhaul/trade_union/softdrink.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Forklifts -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_forklift_truck_3.png" alt="If you are reading this, there is an error." width="20" /> Forklifts</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
+      <img src="./doc/item_overhaul/trade_union/lift3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/lift2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/lift1.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Robots -->
@@ -473,6 +507,13 @@
       <img src="./doc/item_overhaul/trade_union/pump3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/pump2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/pump1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Panners -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" /> Panners</summary>
+      <img src="./doc/item_overhaul/trade_union/panner3.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/panner2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/panner1.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
@@ -1459,6 +1500,36 @@
   <summary><img src="./doc/item_overhaul/harbormaster/item_miraculous_lobster_trap.png" alt="If you are reading this, there is an error." width="20" /> Captain Nineveh's Miraculous Lobster Trap</summary>
     <img src="./doc/item_overhaul/harbormaster/net_trap3.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/net_trap2.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Rohit Bhargava, the Naval Architect -->
+  <summary><img src="./doc/job_adertisements/harbor/icon_architect_501.png" alt="If you are reading this, there is an error." width="20" /> Rohit Bhargava, the Naval Architect</summary>
+    <img src="./doc/item_overhaul/harbormaster/rohit.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/swell.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/architect.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/builder.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Harbor Cranes -->
+  <summary><img src="./doc/item_overhaul/harbormaster/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" /> Harbor Cranes</summary>
+    <img src="./doc/item_overhaul/harbormaster/crane4.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/crane3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/crane2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/crane1.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Excavators -->
+  <summary><img src="./doc/item_overhaul/harbormaster/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" /> Excavators</summary>
+    <img src="./doc/item_overhaul/harbormaster/excavator3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/excavator2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/excavator1.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Harbor Generators -->
+  <summary><img src="./doc/item_overhaul/harbormaster/icon_hydraulic_network_3.png" alt="If you are reading this, there is an error." width="20" /> Harbor Generators</summary>
+    <img src="./doc/item_overhaul/harbormaster/generator3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/generator2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/harbormaster/generator1.png" alt="If you are reading this, there is an error." />
   </details>
 
 </details>
