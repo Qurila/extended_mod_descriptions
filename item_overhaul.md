@@ -289,10 +289,12 @@
       <img src="./doc/item_overhaul/trade_union/grigor.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/foreman.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/mineralogist.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/quarryman.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/driller.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/sandra.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/martha.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/dredger.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/digger.png" alt="If you are reading this, there is an error." />
+
+    **The following item will be removed.**
+
+      <img src="./doc/item_overhaul/trade_union/driller_quarryman.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
@@ -787,6 +789,21 @@
         <img src="./doc/item_overhaul/trade_union/pollution_2.png" alt="If you are reading this, there is an error." />
       </details>
 
+    </details>
+
+  </details>
+
+- <details><!-- Pit / Mine Item Distinction -->
+  <summary>Pit / Mine Item Distinction</summary>
+
+  - <details><!-- Orchard Items -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_plantation.png" alt="If you are reading this, there is an error." width="20" /> Orchard Items</summary>
+      <img src="./doc/item_overhaul/trade_union/pollination.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/interspecies.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/pruning.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/polyculture.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/pesticides.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/2nd_class.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
