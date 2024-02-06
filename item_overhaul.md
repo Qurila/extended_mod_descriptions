@@ -34,6 +34,21 @@
     <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" alt="If you are reading this, there is an error." width="20" /> Belinda San Pedro, Head of Arcade Acquisitions</summary>
       <img src="./doc/item_overhaul/general/belinda.png" alt="If you are reading this, there is an error." />
     </details>
+
+  - <details><!-- Francois Strindberg, Crown Jeweller -->
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" alt="If you are reading this, there is an error." width="20" /> Francois Strindberg, Crown Jeweller</summary>
+      <img src="./doc/item_overhaul/general/strindberg.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Mad Mary, Dynamite Enthusiast -->
+    <summary><img src="./doc/item_overhaul/general/icon_explosive_expert.png" alt="If you are reading this, there is an error." width="20" /> Mad Mary, Dynamite Enthusiast</summary>
+      <img src="./doc/item_overhaul/general/mary.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Enbesan Envoy -->
+    <summary><img src="./doc/item_overhaul/general/icon_doctor_518.png" alt="If you are reading this, there is an error." width="20" /> Enbesan Envoy</summary>
+      <img src="./doc/item_overhaul/general/envoy.png" alt="If you are reading this, there is an error." />
+    </details>
   </details>
 
 </details>
