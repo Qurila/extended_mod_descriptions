@@ -795,9 +795,9 @@
 - <details><!-- Pit / Mine Item Distinction -->
   <summary>Pit / Mine Item Distinction</summary>
 
-      The following items no longer affect Bauxit Mine, Helium Extractor and Limestone Quarry.
+  **The following items no longer affect Bauxit Mine, Helium Extractor and Limestone Quarry.**
 
-      <img src="./doc/item_overhaul/trade_union/pit_mine_1.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/trade_union/pit_mine_1.png" alt="If you are reading this, there is an error." />
   </details>
 
 </details>
