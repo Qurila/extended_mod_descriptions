@@ -5,16 +5,6 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- <details><!-- Item Pools -->
-  <summary>Item Pools</summary>
-
-  - This mod contains the "Shared Pools" sub mod. This means that some buildings that were previously listed individually at the items are now combined into a pool.
-    - Rum Distillery, Advanced Rum Distillery and Hacienda Rum Distillery were merged into **Rum Distillery**.
-    - Schnapps Distillery and Hacienda Schnaps Distillery were merged into **Schnaps Distillery**.
-    - and so on ....
-    - Farms and their Hacienda versions are no longer listed individually. It will only say ...farm, so both versions will be affected.
-  </details>
-
 - <details><!-- Range Distinction -->
   <summary>Range Distinction</summary>
 
@@ -43,14 +33,14 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- <details><!-- Pit / Mine Item Distinction -->
-  <summary>Pit / Mine Item Distinction</summary>
+- <details><!-- Item Pools -->
+  <summary>Item Pools</summary>
 
-  **The following items no longer affect Bauxit Mine, Helium Extractor and Limestone Quarry.**
-
-    <img src="./doc/item_overhaul/trade_union/pit_mine_1.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/trade_union/pit_mine_2.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/trade_union/pit_mine_3.png" alt="If you are reading this, there is an error." />
+  - This mod contains the "Shared Pools" sub mod. This means that some buildings that were previously listed individually at the items are now combined into a pool.
+    - Rum Distillery, Advanced Rum Distillery and Hacienda Rum Distillery were merged into **Rum Distillery**.
+    - Schnapps Distillery and Hacienda Schnaps Distillery were merged into **Schnaps Distillery**.
+    - and so on ....
+    - Farms and their Hacienda versions are no longer listed individually. It will only say ...farm, so both versions will be affected.
   </details>
 
 </details>
