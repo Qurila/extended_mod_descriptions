@@ -24,18 +24,6 @@
     - The coloured  indicators on the street have been slightly altered to differentiate between Factories and Public Services (necessary for some mod buildings).
   </details>
 
-- <details><!-- Input Amount Tooltip -->
-  <summary>Input Amount Tooltip</summary>
-
-  - This mod contains the "Shared Multi InputAmountUpgrade" and "Shared TooltipBugFixes" sub mod. This means that the display in some tooltips has been changed to show a more accurate display of the changes.
-  - Examples are listed below. The function of the items has not been changed, only the display.
-
-  - <details><!-- Belinda San Pedro, Head of Arcade Acquisitions -->
-    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" alt="If you are reading this, there is an error." width="20" /> Belinda San Pedro, Head of Arcade Acquisitions</summary>
-      <img src="./doc/item_overhaul/general/belinda.png" alt="If you are reading this, there is an error." />
-    </details>
-  </details>
-
 </details
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Trade Union Rebalanced
