@@ -1,5 +1,58 @@
 # Item Overhaul
 
+## <img src="./doc/item_overhaul/general/icon_residence_permit.png" alt="If you are reading this, there is an error." width="30" /> General Changes
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
+
+- <details><!-- Item Pools -->
+  <summary>Item Pools</summary>
+
+  - This mod contains the "Shared Pools" sub mod. This means that some buildings that were previously listed individually at the items are now combined into a pool.
+    - Rum Distillery, Advanced Rum Distillery and Hacienda Rum Distillery were merged into **Rum Distillery**.
+    - Schnapps Distillery and Hacienda Schnaps Distillery were merged into **Schnaps Distillery**.
+    - and so on ....
+    - Farms and their Hacienda versions are no longer listed individually. It will only say ...farm, so both versions will be affected.
+  </details>
+
+- <details><!-- Range Distinction -->
+  <summary>Range Distinction</summary>
+
+  - This mod contains the "Shared Range Distinction" sub mod. This means that the display of "Range" for items and buffs has been adjusted to distinguish which range is increased.
+    - The "**Range**" for the range of Emergency Services (fire/police/doctors) is now called "**Range of Emergency Forces**"
+    - The "**Range**" for the range of Public Services (pub/school/powerplant/etc) and that of the Arctic Heater is now called "**Range of Public Services**"
+    - The coloured  indicators on the street have been slightly altered to differentiate between Factories and Public Services (necessary for some mod buildings).
+  </details>
+
+- <details><!-- Tooltips -->
+  <summary>Tooltips</summary>
+
+  - This mod contains the "Shared Multi InputAmountUpgrade" and "Shared TooltipBugFixes" sub mod. This means that the display in some tooltips has been changed to show a more accurate display.
+  - Examples are listed below. The function of the items has not been changed, only the display.
+
+  - <details><!-- Belinda San Pedro, Head of Arcade Acquisitions -->
+    <summary><img src="./doc/job_adertisements/infrastructure/icon_specialist_mall_01.png" alt="If you are reading this, there is an error." width="20" /> Belinda San Pedro, Head of Arcade Acquisitions</summary>
+      <img src="./doc/item_overhaul/general/belinda.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Francois Strindberg, Crown Jeweller -->
+    <summary><img src="./doc/job_adertisements/luxus/icon_well_dressed_106.png" alt="If you are reading this, there is an error." width="20" /> Francois Strindberg, Crown Jeweller</summary>
+      <img src="./doc/item_overhaul/general/strindberg.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Mad Mary, Dynamite Enthusiast -->
+    <summary><img src="./doc/item_overhaul/general/icon_explosive_expert.png" alt="If you are reading this, there is an error." width="20" /> Mad Mary, Dynamite Enthusiast</summary>
+      <img src="./doc/item_overhaul/general/mary.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Enbesan Envoy -->
+    <summary><img src="./doc/item_overhaul/general/icon_doctor_518.png" alt="If you are reading this, there is an error." width="20" /> Enbesan Envoy</summary>
+      <img src="./doc/item_overhaul/general/envoy.png" alt="If you are reading this, there is an error." />
+    </details>
+  </details>
+
+</details>
+
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Trade Union Rebalanced
 
 <details><!-- List of Changes-->
