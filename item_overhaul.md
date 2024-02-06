@@ -292,7 +292,7 @@
       <img src="./doc/item_overhaul/trade_union/dredger.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/digger.png" alt="If you are reading this, there is an error." />
 
-    **The following item will be removed.**
+    **The following items will be removed.**
 
       <img src="./doc/item_overhaul/trade_union/driller_quarryman.png" alt="If you are reading this, there is an error." />
     </details>
@@ -798,12 +798,11 @@
 
   - <details><!-- Orchard Items -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_plantation.png" alt="If you are reading this, there is an error." width="20" /> Orchard Items</summary>
-      <img src="./doc/item_overhaul/trade_union/pollination.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/interspecies.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/pruning.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/polyculture.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/pesticides.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/trade_union/2nd_class.png" alt="If you are reading this, there is an error." />
+
+  **The following items no longer affect Bauxit Mine, Helium Extractor and Limestone Quarry.**
+
+      <img src="./doc/item_overhaul/trade_union/pit_mine_1.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/pit_mine_2.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
@@ -1629,11 +1628,11 @@
 - <details><!-- Arctic Lumberjack/Charcoal Kiln -->
   <summary><img src="./doc/item_overhaul/lodge/icon_coal_wood.png" alt="If you are reading this, there is an error." width="20" /> Arctic Lumberjack/Charcoal Kiln</summary>
 
-  The following items no longer affect the Arctic Lumberjack Huts
+  **The following items no longer affect the Arctic Lumberjack Huts**
 
     <img src="./doc/item_overhaul/lodge/adzes.png" alt="If you are reading this, there is an error." />
 
-  The following items now affect Arctic Lumberjack Huts and Charcoal Kilns, therefore they can now be used in all socket buildings.
+  **The following items now affect Arctic Lumberjack Huts and Charcoal Kilns, therefore they can now be used in all socket buildings.**
 
     <img src="./doc/item_overhaul/lodge/forest_tools.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/lodge/saws.png" alt="If you are reading this, there is an error." />
