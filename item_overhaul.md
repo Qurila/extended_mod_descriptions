@@ -5,25 +5,6 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- <details><!-- Item Pools -->
-  <summary>Item Pools</summary>
-
-  - This mod contains the "Shared Pools" sub mod. This means that some buildings that were previously listed individually at the items are now combined into a pool.
-    - Rum Distillery, Advanced Rum Distillery and Hacienda Rum Distillery were merged into **Rum Distillery**.
-    - Schnapps Distillery and Hacienda Schnaps Distillery were merged into **Schnaps Distillery**.
-    - and so on ....
-    - Farms and their Hacienda versions are no longer listed individually. It will only say ...farm, so both versions will be affected.
-  </details>
-
-- <details><!-- Range Distinction -->
-  <summary>Range Distinction</summary>
-
-  - This mod contains the "Shared Range Distinction" sub mod. This means that the display of "Range" for items and buffs has been adjusted to distinguish which range is increased.
-    - The "**Range**" for the range of Emergency Services (fire/police/doctors) is now called "**Range of Emergency Forces**"
-    - The "**Range**" for the range of Public Services (pub/school/powerplant/etc) and that of the Arctic Heater is now called "**Range of Public Services**"
-    - The coloured  indicators on the street have been slightly altered to differentiate between Factories and Public Services (necessary for some mod buildings).
-  </details>
-
 </details
 
 ## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Trade Union Rebalanced
