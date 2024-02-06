@@ -497,6 +497,9 @@
 
   - <details><!-- Extractors -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" /> Extractors</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
       <img src="./doc/item_overhaul/trade_union/extractor3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/extractor2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/extractor1.png" alt="If you are reading this, there is an error." />
@@ -504,6 +507,10 @@
 
   - <details><!-- Suckers -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_oil_extractor_1.png" alt="If you are reading this, there is an error." width="20" /> Suckers</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
+
       <img src="./doc/item_overhaul/trade_union/pump3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/pump2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/pump1.png" alt="If you are reading this, there is an error." />
@@ -511,6 +518,9 @@
 
   - <details><!-- Panners -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" /> Panners</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
       <img src="./doc/item_overhaul/trade_union/panner3.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/panner2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/panner1.png" alt="If you are reading this, there is an error." />
@@ -518,8 +528,61 @@
 
   </details>
 
+- <details><!-- Books -->
+  <summary>Books</summary>
+
+  - <details><!-- Orchard Items -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_plantation.png" alt="If you are reading this, there is an error." width="20" /> Orchard Items</summary>
+      <img src="./doc/item_overhaul/trade_union/pollination.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/interspecies.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/pruning.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/polyculture.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/pesticides.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/2nd_class.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Multifactory Items -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_manufactory.png" alt="If you are reading this, there is an error." width="20" /> Multifactory Items</summary>
+      <img src="./doc/item_overhaul/trade_union/optimised_processes.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/fail_safe.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/night_shift.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Re-Rendering -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_chemical_plant_item_2.png" alt="If you are reading this, there is an error." width="20" /> Re-Rendering</summary>
+      <img src="./doc/item_overhaul/trade_union/rendering.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Get Rich Quick Vol VII: Automation Nation -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_assembly_line_item_new_2.png" alt="If you are reading this, there is an error." width="20" /> Get Rich Quick Vol VII: Automation Nation</summary>
+      <img src="./doc/item_overhaul/trade_union/supervisor.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Get Rich Quick Vol IX: Paid To Perform -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_multifactory_general_item_2.png" alt="If you are reading this, there is an error." width="20" /> Get Rich Quick Vol IX: Paid To Perform</summary>
+      <img src="./doc/item_overhaul/trade_union/evaluator.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Get Rich Quick Vol IV: The Wasteland -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_chemical_plant_item_1.png" alt="If you are reading this, there is an error." width="20" /> Get Rich Quick Vol IV: The Wasteland</summary>
+
+    **The following item will be removed.**
+
+      <img src="./doc/item_overhaul/trade_union/get_rich_lv.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Get Rich Quick Vol V: The Geppetto Gambit -->
+    <summary><img src="./doc/item_overhaul/trade_union/icon_manufactory_item_3.png" alt="If you are reading this, there is an error." width="20" /> Get Rich Quick Vol V: The Geppetto Gambit</summary>
+
+    **The following item will be removed.**
+
+      <img src="./doc/item_overhaul/trade_union/get_rich_v.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
 - <details><!-- Item Groups -->
-  <summary>Item Groups</summary>>
+  <summary>Item Groups</summary>
 
   - <details><!-- Leather Tools -->
     <summary><img src="./doc/item_overhaul/trade_union/icon_leather_knives.png" alt="If you are reading this, there is an error." width="20" /> Leather Tools</summary>
@@ -528,7 +591,7 @@
       <img src="./doc/item_overhaul/trade_union/leather_tool2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/leather_tool1.png" alt="If you are reading this, there is an error." />
 
-    The following items no longer affect the Ball Manufactory
+    **The following items no longer affect the Ball Manufactory**
 
       <img src="./doc/item_overhaul/trade_union/fusing_machine.png" alt="If you are reading this, there is an error." />
     </details>
@@ -1520,6 +1583,10 @@
 
 - <details><!-- Excavators -->
   <summary><img src="./doc/item_overhaul/harbormaster/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" /> Excavators</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
+
     <img src="./doc/item_overhaul/harbormaster/excavator3.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/excavator2.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/excavator1.png" alt="If you are reading this, there is an error." />
@@ -1527,6 +1594,9 @@
 
 - <details><!-- Harbor Generators -->
   <summary><img src="./doc/item_overhaul/harbormaster/icon_hydraulic_network_3.png" alt="If you are reading this, there is an error." width="20" /> Harbor Generators</summary>
+
+    **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
+
     <img src="./doc/item_overhaul/harbormaster/generator3.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/generator2.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/generator1.png" alt="If you are reading this, there is an error." />
