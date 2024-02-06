@@ -1,6 +1,6 @@
 # Item Overhaul
 
-## <img src="./doc/item_overhaul/trade_union/icon_guildhouse.png" alt="If you are reading this, there is an error." width="30" /> Trade Union Rebalanced Test
+## <img src="./doc/item_overhaul/general/icon_residence_permit.png" alt="If you are reading this, there is an error." width="30" /> General Changes
 
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
