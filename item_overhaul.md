@@ -53,69 +53,74 @@
 
 </details>
 
-## <img src="./doc/item_overhaul/harbormaster/icon_harbour_kontor.png" alt="If you are reading this, there is an error." width="30" /> Cultural Sets Rebalanced
+## <img src="./doc/item_overhaul/cultural/icon_buff_culture_gold.png" alt="If you are reading this, there is an error." width="30" /> Cultural Sets Rebalanced
 
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- <details><!-- Taiga Forest -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_moose.png" alt="If you are reading this, there is an error." width="20" /> Taiga Forest</summary>
-    <img src="./doc/item_overhaul/cultural/taiga.png" alt="If you are reading this, there is an error." />
-  </details>
+- <details><!-- Zoo -->
+  <summary><img src="./doc/item_overhaul/cultural/icon_zoo.png" alt="If you are reading this, there is an error." width="20" />Zoo</summary>
 
-- <details><!-- Ocean Predators -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_swordfish.png" alt="If you are reading this, there is an error." width="20" /> Ocean Predators</summary>
-    <img src="./doc/item_overhaul/cultural/predators.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Taiga Forest -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_moose.png" alt="If you are reading this, there is an error." width="20" /> Taiga Forest</summary>
+      <img src="./doc/item_overhaul/cultural/taiga.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Rainforest -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_puerto_rican_amazon.png" alt="If you are reading this, there is an error." width="20" /> Rainforest</summary>
-    <img src="./doc/item_overhaul/cultural/rainforest.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Ocean Predators -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_swordfish.png" alt="If you are reading this, there is an error." width="20" /> Ocean Predators</summary>
+      <img src="./doc/item_overhaul/cultural/predators.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Eastern Junge -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_tiger.png" alt="If you are reading this, there is an error." width="20" /> Eastern Junge</summary>
-    <img src="./doc/item_overhaul/cultural/jungle.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Rainforest -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_puerto_rican_amazon.png" alt="If you are reading this, there is an error." width="20" /> Rainforest</summary>
+      <img src="./doc/item_overhaul/cultural/rainforest.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Domestic Animals -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_sheep.png" alt="If you are reading this, there is an error." width="20" /> Domestic Animals</summary>
-    <img src="./doc/item_overhaul/cultural/animals.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Eastern Junge -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_tiger.png" alt="If you are reading this, there is an error." width="20" /> Eastern Junge</summary>
+      <img src="./doc/item_overhaul/cultural/jungle.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Great Coral Reef -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_lionfish.png" alt="If you are reading this, there is an error." width="20" /> Great Coral Reef</summary>
-    <img src="./doc/item_overhaul/cultural/coral.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Domestic Animals -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_sheep.png" alt="If you are reading this, there is an error." width="20" /> Domestic Animals</summary>
+      <img src="./doc/item_overhaul/cultural/animals.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Snow Flakes -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_albinos_fennec.png" alt="If you are reading this, there is an error." width="20" /> Snow Flakes</summary>
-    <img src="./doc/item_overhaul/cultural/snowflakes.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Great Coral Reef -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_lionfish.png" alt="If you are reading this, there is an error." width="20" /> Great Coral Reef</summary>
+      <img src="./doc/item_overhaul/cultural/coral.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Luminaries -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_glowfish_03.png" alt="If you are reading this, there is an error." width="20" /> Luminaries</summary>
-    <img src="./doc/item_overhaul/cultural/luminaries.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Snow Flakes -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_albinos_fennec.png" alt="If you are reading this, there is an error." width="20" /> Snow Flakes</summary>
+      <img src="./doc/item_overhaul/cultural/snowflakes.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Polar Circle -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_polar_bear.png" alt="If you are reading this, there is an error." width="20" /> Polar Circle</summary>
-    <img src="./doc/item_overhaul/cultural/polar.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Luminaries -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_glowfish_03.png" alt="If you are reading this, there is an error." width="20" /> Luminaries</summary>
+      <img src="./doc/item_overhaul/cultural/luminaries.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Arctic Tundra -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_reindeer.png" alt="If you are reading this, there is an error." width="20" /> Arctic Tundra</summary>
-    <img src="./doc/item_overhaul/cultural/tundra.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Polar Circle -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_polar_bear.png" alt="If you are reading this, there is an error." width="20" /> Polar Circle</summary>
+      <img src="./doc/item_overhaul/cultural/polar.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Teeming Lakes -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_flamingo.png" alt="If you are reading this, there is an error." width="20" /> Teeming Lakes</summary>
-    <img src="./doc/item_overhaul/cultural/lakes.png" alt="If you are reading this, there is an error." />
-  </details>
+  - <details><!-- Arctic Tundra -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_reindeer.png" alt="If you are reading this, there is an error." width="20" /> Arctic Tundra</summary>
+      <img src="./doc/item_overhaul/cultural/tundra.png" alt="If you are reading this, there is an error." />
+    </details>
 
-- <details><!-- Savannah -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_lion.png" alt="If you are reading this, there is an error." width="20" /> Savannah</summary>
-    <img src="./doc/item_overhaul/cultural/savannah.png" alt="If you are reading this, there is an error." />
+  - <details><!-- Teeming Lakes -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_flamingo.png" alt="If you are reading this, there is an error." width="20" /> Teeming Lakes</summary>
+      <img src="./doc/item_overhaul/cultural/lakes.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Savannah -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_lion.png" alt="If you are reading this, there is an error." width="20" /> Savannah</summary>
+      <img src="./doc/item_overhaul/cultural/savannah.png" alt="If you are reading this, there is an error." />
+    </details>
+
   </details>
 
 </details>
