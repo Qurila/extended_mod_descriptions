@@ -215,11 +215,6 @@
 
 ## <img src="./doc/item_overhaul/lodge/icon_community_lodge.png" alt="If you are reading this, there is an error." width="30" /> Lodge Rebalanced
 
-<details><!-- List of Changes-->
-<summary>List of Changes</summary>
-
-</details
-
 ## <img src="./doc/item_overhaul/town_hall/icon_townhall.png" alt="If you are reading this, there is an error." width="30" /> Town Hall Rebalanced
 
 <details><!-- List of Changes-->
