@@ -215,6 +215,258 @@
 
 ## <img src="./doc/item_overhaul/lodge/icon_community_lodge.png" alt="If you are reading this, there is an error." width="30" /> Lodge Rebalanced
 
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
+
+- <details><!-- Arctic Lumberjack/Charcoal Kiln -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_coal_wood.png" alt="If you are reading this, there is an error." width="20" /> Arctic Lumberjack/Charcoal Kiln</summary>
+
+  **The following items no longer affect the Arctic Lumberjack Huts**
+
+    <img src="./doc/item_overhaul/lodge/adzes.png" alt="If you are reading this, there is an error." />
+
+  **The following items now affect Arctic Lumberjack Huts and Charcoal Kilns, therefore they can now be used in all socket buildings.**
+
+    <img src="./doc/item_overhaul/lodge/forest_tools.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/saws.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Arctic Animal Farms -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_goose_husky.png" alt="If you are reading this, there is an error." width="20" /> Arctic Animal Farms</summary>
+
+  The following items now affect Arctic Animal Farms, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/yards.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/supplements.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Oil Lamp Factory -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_oil_lamps.png" alt="If you are reading this, there is an error." width="20" /> Oil Lamp Factory</summary>
+
+  The following items now affect Oil Lamp Factory, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/planers.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Deep Gold Mine -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gold_ore.png" alt="If you are reading this, there is an error." width="20" /> Deep Gold Mine</summary>
+
+  The following items now affect Deep Gold Mine, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/elevators.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/extractors.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/dynamite.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/phosphor.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Arctic Gas Mine -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gas_red.png" alt="If you are reading this, there is an error." width="20" /> Arctic Gas Mine</summary>
+
+  The following items now affect Arctic Gas Mine, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/clean_air.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/drills.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/detector.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Canteen -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_canteen.png" alt="If you are reading this, there is an error." width="20" /> Canteen</summary>
+
+  The following items now affect Canteen, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/billiard_table.png" alt="If you are reading this, there is an error." />
+
+    When "**Town Hall Rebalanced**" has removed all buildings except "**Canteen**", the Table is switched to "**Lodge**".
+
+    <img src="./doc/item_overhaul/lodge/billiard_table_2.png" alt="If you are reading this, there is an error." />
+
+    If "**Item Sockets**" is active, the "**Canteen**" is removed again from the following items.
+
+    <img src="./doc/item_overhaul/lodge/financial_investment.png" alt="If you are reading this, there is an error." />
+
+    If "**Husky Sled Revision**" is active, its bonus on the range of public services is reduced to 30%.
+  </details>
+
+- <details><!-- Post Office -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_post_office.png" alt="If you are reading this, there is an error." width="20" /> Post Office</summary>
+
+    The following items now affect Post Office, therefore they can now be used in all socket buildings.
+
+    <img src="./doc/item_overhaul/lodge/street_maintenance.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/opening_hours.png" alt="If you are reading this, there is an error." />
+
+    "Arctic Science Reporter" now increases the range of "**Post Office**"
+
+    <img src="./doc/item_overhaul/lodge/science.png" alt="If you are reading this, there is an error." />
+
+    If "**Item Sockets**" is active, the "**Post Office**" is removed again from the following items.
+
+    <img src="./doc/item_overhaul/lodge/subvention.png" alt="If you are reading this, there is an error." />
+
+    If "**Husky Sled Revision**" is active, its bonus on the range of public services is reduced to 30%.
+  </details>
+
+- <details><!-- Sewing Items -->
+  <summary><img src="./doc/item_overhaul/lodge/sewing.png" alt="If you are reading this, there is an error." width="20" /> Sewing Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_leather_tool_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/sewing3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/sewing2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/sewing1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_905.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/arnarunn.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/practised_seamster.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/seamster.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
+- <details><!-- Animal Farm Items -->
+  <summary><img src="./doc/item_overhaul/lodge/animal.png" alt="If you are reading this, there is an error." width="20" /> Animal Farm Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_snow_goggle_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/iggaak3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/iggaak2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/iggaak1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_901b.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/taliriktug.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/astute_breeder.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/breeder.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
+- <details><!-- Cooking Items -->
+  <summary><img src="./doc/item_overhaul/lodge/cooking.png" alt="If you are reading this, there is an error." width="20" /> Cooking Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_cookng_stove_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/kudlik3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/kudlik2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/kudlik1.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_1004.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/sandro.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/rugged_cook.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/cook.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
+- <details><!-- Hunting Items -->
+  <summary><img src="./doc/item_overhaul/lodge/hunting.png" alt="If you are reading this, there is an error." width="20" /> Hunting Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_fishing_boat_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/bow3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/bow2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/bow1.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/boat3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/boat2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/boat1.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/hoklo.png" alt="If you are reading this, there is an error." />
+
+    The following items will be removed.
+
+    <img src="./doc/item_overhaul/lodge/speers.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_1005_b.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+      <img src="./doc/item_overhaul/lodge/toklo.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/artful_hunter.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/lodge/hunter.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
+- <details><!-- Woodworking Items -->
+  <summary><img src="./doc/item_overhaul/lodge/woodworking.png" alt="If you are reading this, there is an error." width="20" /> Woodworking Items</summary>
+
+  - <details><!-- Tools -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_axe_3.png" alt="If you are reading this, there is an error." width="20" /> Tools</summary>
+    <img src="./doc/item_overhaul/lodge/adze3.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/adze2.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/adze1.png" alt="If you are reading this, there is an error." />
+
+    </details>
+
+  - <details><!-- Specialists -->
+    <summary><img src="./doc/item_overhaul/lodge/icon_inuit_specialist_904.png" alt="If you are reading this, there is an error." width="20" /> Specialists</summary>
+    <img src="./doc/item_overhaul/lodge/naaqtuuq.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/sharp_sled.png" alt="If you are reading this, there is an error." />
+    <img src="./doc/item_overhaul/lodge/sled.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  </details>
+
+- <details><!-- Fat Chunk Candle Maker -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_lamp_maker.png" alt="If you are reading this, there is an error." width="20" /> Fat Chunk Candle Maker</summary>
+  <img src="./doc/item_overhaul/lodge/candle.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Gritty Gas Extractor -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_gas_extractor.png" alt="If you are reading this, there is an error." width="20" /> Gritty Gas Extractor</summary>
+  <img src="./doc/item_overhaul/lodge/gritty.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Aspirin Machine -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_aspirin_machine.png" alt="If you are reading this, there is an error." width="20" /> Aspirin Machine</summary>
+  <img src="./doc/item_overhaul/lodge/aspirin.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Music Box -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_music_box.png" alt="If you are reading this, there is an error." width="20" /> Music Box</summary>
+  <img src="./doc/item_overhaul/lodge/heater.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Gløgg Splurger -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_berries_press.png" alt="If you are reading this, there is an error." width="20" /> Gløgg Splurger</summary>
+  <img src="./doc/item_overhaul/lodge/splurger.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Zappy Battery -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_electric_battery.png" alt="If you are reading this, there is an error." width="20" /> Zappy Battery</summary>
+  <img src="./doc/item_overhaul/lodge/battery.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Radiator -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_radiator.png" alt="If you are reading this, there is an error." width="20" /> Radiator</summary>
+  <img src="./doc/item_overhaul/lodge/radiator.png" alt="If you are reading this, there is an error." />
+
+    If the Sleeping Bags are removed from "**Arnarunn the Seamless**", they are added to the "**Radiator**".
+
+  <img src="./doc/item_overhaul/lodge/radiator_2.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Pocket Cannery -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_canning_machine.png" alt="If you are reading this, there is an error." width="20" /> Pocket Cannery</summary>
+  <img src="./doc/item_overhaul/lodge/cannery.png" alt="If you are reading this, there is an error." />
+  </details>
+
+- <details><!-- Arctic Flu Item -->
+  <summary><img src="./doc/item_overhaul/lodge/icon_ranger_station.png" alt="If you are reading this, there is an error." width="20" /> Arctic Flu Item</summary>
+
+    The reduced change for Arctic Flu will be removed from the following items.
+
+  <img src="./doc/item_overhaul/lodge/arctic_flu.png" alt="If you are reading this, there is an error." />
+  </details>
+
+</details>
+
 ## <img src="./doc/item_overhaul/town_hall/icon_townhall.png" alt="If you are reading this, there is an error." width="30" /> Town Hall Rebalanced
 
 <details><!-- List of Changes-->
