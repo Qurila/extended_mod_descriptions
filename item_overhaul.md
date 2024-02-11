@@ -62,7 +62,7 @@
   <summary><img src="./doc/item_overhaul/cultural/icon_zoo.png" alt="If you are reading this, there is an error." width="20" />Zoo</summary>
 
   - <details><!-- Cordillera-->
-    <summary><img src="./doc/item_overhaul/cultural/icon_vulture_ver2.png" alt="If you are reading this, there is an error." width="20" />Taiga Forest</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_vulture_ver2.png" alt="If you are reading this, there is an error." width="20" />Cordillera</summary>
       <img src="./doc/item_overhaul/cultural/cordillera.png" alt="If you are reading this, there is an error." />
     </details>
 
@@ -89,6 +89,8 @@
   - <details><!-- Eastern Junge -->
     <summary><img src="./doc/item_overhaul/cultural/icon_tiger.png" alt="If you are reading this, there is an error." width="20" />Eastern Junge</summary>
       <img src="./doc/item_overhaul/cultural/jungle.png" alt="If you are reading this, there is an error." />
+
+    **5 tonnes is the minimum amount. It can go up to 20 tonnes.**
     </details>
 
   - <details><!-- Domestic Animals -->
@@ -106,7 +108,6 @@
       <img src="./doc/item_overhaul/cultural/luminaries.png" alt="If you are reading this, there is an error." />
 
     **If "Faster Constructions" or "Harbourmaster Rebalanced" have added reduced construction time for ships to the special ship architect items, this will be removed.**
-
     </details>
 
   - <details><!-- Arctic Tundra -->
@@ -137,7 +138,7 @@
   </details>
 
 - <details><!-- Museum -->
-  <summary><img src="./doc/item_overhaul/cultural/icon_zoo.png" alt="If you are reading this, there is an error." width="20" />Zoo</summary>
+  <summary><img src="./doc/item_overhaul/cultural/icon_museum.png" alt="If you are reading this, there is an error." width="20" />Museum</summary>
 
   - <details><!-- Empire of the Eagle -->
     <summary><img src="./doc/item_overhaul/cultural/icon_coin_common.png" alt="If you are reading this, there is an error." width="20" />Empire of the Eagle</summary>
@@ -182,11 +183,27 @@
   - <details><!-- Heierlooms of the Gold-Realm -->
     <summary><img src="./doc/item_overhaul/cultural/icon_mansa_musas_souvenir.png" alt="If you are reading this, there is an error." width="20" />Heierlooms of the Gold-Realm</summary>
       <img src="./doc/item_overhaul/cultural/heierlooms.png" alt="If you are reading this, there is an error." />
+
+    **The influence granted now scales with the cost of the Trade Union.**
+    - For 20 influence building costs of the Trade Union, 10 influence is returned
+    - For 15 influence building costs of the Trade Union, 7 influence is returned
+    - For 10 influence building costs of the Trade Union, 5 influence is returned
+    - For 0 influence building costs of the Trade Union, 0 influence is returned
+    </details>
+
+  - <details><!-- Gods of the Delta -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_hor_statue.png" alt="If you are reading this, there is an error." width="20" />Gods of the Delta</summary>
+    **5 tonnes is the minimum amount. It can go up to 20 tonnes.**
     </details>
 
   - <details><!-- Lost Tribes -->
     <summary><img src="./doc/item_overhaul/cultural/icon_nuk_terracota_figure.png" alt="If you are reading this, there is an error." width="20" />Lost Tribes</summary>
       <img src="./doc/item_overhaul/cultural/tribes.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Roots of Enbesa -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_lion_of_judah.png" alt="If you are reading this, there is an error." width="20" />Lost Tribes</summary>
+      <img src="./doc/item_overhaul/cultural/roots.png" alt="If you are reading this, there is an error." />
     </details>
 
   </details>
