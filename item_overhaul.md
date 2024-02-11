@@ -183,17 +183,17 @@
   - <details><!-- Heierlooms of the Gold-Realm -->
     <summary><img src="./doc/item_overhaul/cultural/icon_mansa_musas_souvenir.png" alt="If you are reading this, there is an error." width="20" />Heierlooms of the Gold-Realm</summary>
       <img src="./doc/item_overhaul/cultural/heierlooms.png" alt="If you are reading this, there is an error." />
-
-    **The influence granted now scales with the cost of the Trade Union.**
-    - For 20 influence building costs of the Trade Union, 10 influence is returned
-    - For 15 influence building costs of the Trade Union, 7 influence is returned
-    - For 10 influence building costs of the Trade Union, 5 influence is returned
-    - For 0 influence building costs of the Trade Union, 0 influence is returned
+    **5 tonnes is the minimum amount. It can go up to 20 tonnes.**
     </details>
 
   - <details><!-- Gods of the Delta -->
     <summary><img src="./doc/item_overhaul/cultural/icon_hor_statue.png" alt="If you are reading this, there is an error." width="20" />Gods of the Delta</summary>
-    **5 tonnes is the minimum amount. It can go up to 20 tonnes.**
+
+    **The influence granted now scales with the cost of the Trade Union.**
+    - For **20** influence building costs of the Trade Union, **10** influence is returned
+    - For **15** influence building costs of the Trade Union, **7** influence is returned
+    - For **10** influence building costs of the Trade Union, **5** influence is returned
+    - For **0** influence building costs of the Trade Union, **0** influence is returned
     </details>
 
   - <details><!-- Lost Tribes -->
