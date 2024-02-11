@@ -188,6 +188,7 @@
 
   - <details><!-- Gods of the Delta -->
     <summary><img src="./doc/item_overhaul/cultural/icon_hor_statue.png" alt="If you are reading this, there is an error." width="20" />Gods of the Delta</summary>
+      <img src="./doc/item_overhaul/cultural/delta.png" alt="If you are reading this, there is an error." />
 
     **The influence granted now scales with the cost of the Trade Union.**
     - For **20** influence building costs of the Trade Union, **10** influence is returned
