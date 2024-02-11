@@ -202,7 +202,7 @@
     </details>
 
   - <details><!-- Roots of Enbesa -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_lion_of_judah.png" alt="If you are reading this, there is an error." width="20" />Lost Tribes</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_lion_of_judah.png" alt="If you are reading this, there is an error." width="20" />Roots of Enbesa</summary>
       <img src="./doc/item_overhaul/cultural/roots.png" alt="If you are reading this, there is an error." />
     </details>
 
