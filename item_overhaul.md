@@ -69,6 +69,8 @@
   - <details><!-- Taiga Forest -->
     <summary><img src="./doc/item_overhaul/cultural/icon_moose.png" alt="If you are reading this, there is an error." width="20" />Taiga Forest</summary>
       <img src="./doc/item_overhaul/cultural/taiga.png" alt="If you are reading this, there is an error." />
+
+    **If "Zoo, Museum and Botanical Garden in Enbesa" is active, Dried Meat <img src="./doc/item_overhaul/cultural/icon_dried_meat.png" alt="If you are reading this, there is an error." width="20" /> are added**
     </details>
 
   - <details><!-- Ocean Predators -->
@@ -113,11 +115,38 @@
   - <details><!-- Arctic Tundra -->
     <summary><img src="./doc/item_overhaul/cultural/icon_reindeer.png" alt="If you are reading this, there is an error." width="20" />Arctic Tundra</summary>
       <img src="./doc/item_overhaul/cultural/tundra.png" alt="If you are reading this, there is an error." />
+
+    - <details><!-- If "Arctic Zoo" is active, its buffs is overwritten-->
+      <summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />**If "Arctic Zoo" is active, its buffs is overwritten**</summary>
+
+       **Arctic Buff**
+
+        <img src="./doc/item_overhaul/cultural/tundra_2.png" alt="If you are reading this, there is an error." />
+
+       **New/Old World Buff**
+
+        <img src="./doc/item_overhaul/cultural/tundra_3.png" alt="If you are reading this, there is an error." />
+      </details>
+
     </details>
 
   - <details><!-- Polar Circle -->
     <summary><img src="./doc/item_overhaul/cultural/icon_polar_bear.png" alt="If you are reading this, there is an error." width="20" />Polar Circle</summary>
       <img src="./doc/item_overhaul/cultural/polar.png" alt="If you are reading this, there is an error." />
+
+    **If "Zoo, Museum and Botanical Garden in Enbesa" is active, Embroider is added (No Tapestry Looms)**
+
+    - <details><!-- If "Arctic Zoo" is active, its buffs is overwritten-->
+      <summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />**If "Arctic Zoo" is active, its buffs is overwritten**</summary>
+
+       **Arctic Buff**
+
+        <img src="./doc/item_overhaul/cultural/polar2.png" alt="If you are reading this, there is an error." />
+
+       **New/Old World Buff**
+
+        <img src="./doc/item_overhaul/cultural/polar_3.png" alt="If you are reading this, there is an error." />
+      </details>
     </details>
 
   - <details><!-- Teeming Lakes -->
@@ -143,6 +172,9 @@
   - <details><!-- Empire of the Eagle -->
     <summary><img src="./doc/item_overhaul/cultural/icon_coin_common.png" alt="If you are reading this, there is an error." width="20" />Empire of the Eagle</summary>
       <img src="./doc/item_overhaul/cultural/eagle.png" alt="If you are reading this, there is an error." />
+
+    **If "Zoo, Museum and Botanical Garden in Enbesa" AND "Safari to Old Enbesa" is active, Extended Famaly Resicendes will be affected**
+    </details>
     </details>
 
   - <details><!-- Origin of Mankind-->
