@@ -117,7 +117,7 @@
       <img src="./doc/item_overhaul/cultural/tundra.png" alt="If you are reading this, there is an error." />
 
     - <details><!-- If "Arctic Zoo" is active, its buffs is overwritten-->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />**If "Arctic Zoo" is active, its buffs is overwritten**</summary>
+      **<summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />If "Arctic Zoo" is active, its buffs is overwritten</summary>**
 
        **Arctic Buff**
 
@@ -137,7 +137,7 @@
     **If "Zoo, Museum and Botanical Garden in Enbesa" is active, Embroider is added (No Tapestry Looms)**
 
     - <details><!-- If "Arctic Zoo" is active, its buffs is overwritten-->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />**If "Arctic Zoo" is active, its buffs is overwritten**</summary>
+      **<summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />If "Arctic Zoo" is active, its buffs is overwritten</summary>**
 
        **Arctic Buff**
 
