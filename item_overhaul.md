@@ -334,12 +334,11 @@
       **If the reduced Chance of Illnes has been transferred from the marshland set, it will be adjusted.**
 
       <img src="./doc/item_overhaul/cultural/medicinal_2.png" alt="If you are reading this, there is an error." />
-      </details>
 
     </details>
 
   - <details><!-- Amazonas -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_museum_viking_valkyrie_helmet.png" alt="If you are reading this, there is an error." width="20" />Amazonas</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_lianas.png" alt="If you are reading this, there is an error." width="20" />Amazonas</summary>
 
     - <details><!-- Old World -->
       <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
@@ -359,7 +358,7 @@
     </details>
 
   - <details><!-- Sargasso Sea -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_museum_t_rex.png" alt="If you are reading this, there is an error." width="20" />Sargasso Sea</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_great_star_coral.png" alt="If you are reading this, there is an error." width="20" />Sargasso Sea</summary>
 
     - <details><!-- Old World -->
       <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
@@ -379,7 +378,7 @@
     </details>
 
   - <details><!-- Sacred -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_celtic_stonehenge.png" alt="If you are reading this, there is an error." width="20" />Sacred</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_sacred_lotus.png" alt="If you are reading this, there is an error." width="20" />Sacred</summary>
 
       **All Sessions**
 
@@ -388,7 +387,7 @@
     </details>
 
   - <details><!-- Near East -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_museum_mammoth.png" alt="If you are reading this, there is an error." width="20" />Near East</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_blue_lotus.png" alt="If you are reading this, there is an error." width="20" />Near East</summary>
 
     - <details><!-- Old World -->
       <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
@@ -408,7 +407,7 @@
     </details>
 
   - <details><!-- Enchanted -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_mansa_musas_souvenir.png" alt="If you are reading this, there is an error." width="20" />Enchanted</summary>
+    <summary><img src="./doc/item_overhaul/cultural/icon_jujube.png" alt="If you are reading this, there is an error." width="20" />Enchanted</summary>
 
     - <details><!-- Old World -->
       <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
