@@ -112,40 +112,52 @@
     **If "Faster Constructions" or "Harbourmaster Rebalanced" have added reduced construction time for ships to the special ship architect items, this will be removed.**
     </details>
 
-  - <details><!-- Arctic Tundra -->
-    <summary><img src="./doc/item_overhaul/cultural/icon_reindeer.png" alt="If you are reading this, there is an error." width="20" />Arctic Tundra</summary>
-      <img src="./doc/item_overhaul/cultural/tundra.png" alt="If you are reading this, there is an error." />
-
-    - <details><!-- If "Arctic Zoo" is active, its buffs is overwritten-->
-      **<summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />If "Arctic Zoo" is active, its buffs is overwritten</summary>**
-
-       **Arctic Buff**
-
-        <img src="./doc/item_overhaul/cultural/tundra_2.png" alt="If you are reading this, there is an error." />
-
-       **New/Old World Buff**
-
-        <img src="./doc/item_overhaul/cultural/tundra_3.png" alt="If you are reading this, there is an error." />
-      </details>
-
-    </details>
-
   - <details><!-- Polar Circle -->
     <summary><img src="./doc/item_overhaul/cultural/icon_polar_bear.png" alt="If you are reading this, there is an error." width="20" />Polar Circle</summary>
       <img src="./doc/item_overhaul/cultural/polar.png" alt="If you are reading this, there is an error." />
 
     **If "Zoo, Museum and Botanical Garden in Enbesa" is active, Embroider is added (No Tapestry Looms)**
 
-    - <details><!-- If "Arctic Zoo" is active, its buffs is overwritten-->
-      **<summary><img src="./doc/item_overhaul/cultural/icon_session_passage.png" alt="If you are reading this, there is an error." width="20" />If "Arctic Zoo" is active, its buffs is overwritten</summary>**
+    **If "Arctic Zoo" is active, its buffs are overwritten.**
 
-       **Arctic Buff**
+    - <details><!-- Arctic Buff -->
+      <summary>Arctic Buff</summary>
 
-        <img src="./doc/item_overhaul/cultural/polar2.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/cultural/polar_2.png" alt="If you are reading this, there is an error." />
 
-       **New/Old World Buff**
+       **The bonuses for the hangar are transferred to a new item that can be crafted by Nate in the Arctic.**
 
-        <img src="./doc/item_overhaul/cultural/polar_3.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/cultural/plans_1.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- New/Old World Buff -->
+      <summary>New/Old World Buff</summary>
+
+        <img src="./doc/item_overhaul/cultural/polar_2.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    </details>
+
+  - <details><!-- Arctic Tundra -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_reindeer.png" alt="If you are reading this, there is an error." width="20" />Arctic Tundra</summary>
+      <img src="./doc/item_overhaul/cultural/tundra.png" alt="If you are reading this, there is an error." />
+
+    **If "Arctic Zoo" is active, its buffs are overwritten.**
+
+    - <details><!-- Arctic Buff -->
+      <summary>Arctic Buff</summary>
+
+        <img src="./doc/item_overhaul/cultural/tundra_2.png" alt="If you are reading this, there is an error." />
+
+       **The bonuses for the hangar are transferred to a new item that can be crafted by Nate in the Arctic.**
+
+        <img src="./doc/item_overhaul/cultural/plans_2.png" alt="If you are reading this, there is an error." />
+      </details>
+
+    - <details><!-- New/Old World Buff -->
+      <summary>New/Old World Buff</summary>
+
+        <img src="./doc/item_overhaul/cultural/tundra_2.png" alt="If you are reading this, there is an error." />
       </details>
 
     </details>
