@@ -133,7 +133,7 @@
     - <details><!-- New/Old World Buff -->
       <summary>New/Old World Buff</summary>
 
-        <img src="./doc/item_overhaul/cultural/polar_2.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/cultural/polar_3.png" alt="If you are reading this, there is an error." />
       </details>
 
     </details>
@@ -157,7 +157,7 @@
     - <details><!-- New/Old World Buff -->
       <summary>New/Old World Buff</summary>
 
-        <img src="./doc/item_overhaul/cultural/tundra_2.png" alt="If you are reading this, there is an error." />
+        <img src="./doc/item_overhaul/cultural/tundra_3.png" alt="If you are reading this, there is an error." />
       </details>
 
     </details>
