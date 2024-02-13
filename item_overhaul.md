@@ -262,65 +262,54 @@
   - <details><!-- Andean -->
     <summary><img src="./doc/item_overhaul/cultural/icon_frailejones.png" alt="If you are reading this, there is an error." width="20" />Andean</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/andean_ow.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/andean_nw.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/andean_ow.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/andean_en.png" alt="If you are reading this, there is an error." />
+      **New World**
 
-      **If "Enbesa Spectacles Production" is active, the Enbesa Sand Mine is also affected.**
-      </details>
+      <img src="./doc/item_overhaul/cultural/andean_nw.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/andean_en.png" alt="If you are reading this, there is an error." />
 
     </details>
 
   - <details><!-- Subalpine -->
     <summary><img src="./doc/item_overhaul/cultural/icon_rocky_mountain_fir.png" alt="If you are reading this, there is an error." width="20" />Subalpine</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/subalpine_ow.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/subalpine_nw.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/subalpine_ow.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/subalpine_en.png" alt="If you are reading this, there is an error." />
-      </details>
+      **New World**
+
+      <img src="./doc/item_overhaul/cultural/subalpine_nw.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/subalpine_en.png" alt="If you are reading this, there is an error." />
 
     </details>
 
   - <details><!-- Marshland -->
     <summary><img src="./doc/item_overhaul/cultural/icon_lilies.png" alt="If you are reading this, there is an error." width="20" />Marshland</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/marshland_ow.png" alt="If you are reading this, there is an error." />
-        <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/marshland_nw.png" alt="If you are reading this, there is an error." />
-        <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/marshland_ow.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/marshland_en.png" alt="If you are reading this, there is an error." />
-        <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
-      </details>
+      **New World**
+
+      <img src="./doc/item_overhaul/cultural/marshland_nw.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/marshland_en.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
 
     </details>
 
@@ -340,40 +329,34 @@
   - <details><!-- Amazonas -->
     <summary><img src="./doc/item_overhaul/cultural/icon_lianas.png" alt="If you are reading this, there is an error." width="20" />Amazonas</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/amazonas_ow.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/amazonas_nw.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/amazonas_ow.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/amazonas_en.png" alt="If you are reading this, there is an error." />
-      </details>
+      **New World**
+
+      <img src="./doc/item_overhaul/cultural/amazonas_nw.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/amazonas_en.png" alt="If you are reading this, there is an error." />
 
     </details>
 
   - <details><!-- Sargasso Sea -->
     <summary><img src="./doc/item_overhaul/cultural/icon_great_star_coral.png" alt="If you are reading this, there is an error." width="20" />Sargasso Sea</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/sargasso_ow.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/sargasso_nw.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/sargasso_ow.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/sargasso_en.png" alt="If you are reading this, there is an error." />
-      </details>
+      **New World**
+
+      <img src="./doc/item_overhaul/cultural/sargasso_nw.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/sargasso_en.png" alt="If you are reading this, there is an error." />
 
     </details>
 
@@ -389,40 +372,34 @@
   - <details><!-- Near East -->
     <summary><img src="./doc/item_overhaul/cultural/icon_blue_lotus.png" alt="If you are reading this, there is an error." width="20" />Near East</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/near_east_ow.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/near_east_nw.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/near_east_ow.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/near_east_en.png" alt="If you are reading this, there is an error." />
-      </details>
+      **New World**
+
+      <img src="./doc/item_overhaul/cultural/near_east_nw.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/near_east_en.png" alt="If you are reading this, there is an error." />
 
     </details>
 
   - <details><!-- Enchanted -->
     <summary><img src="./doc/item_overhaul/cultural/icon_jujube.png" alt="If you are reading this, there is an error." width="20" />Enchanted</summary>
 
-    - <details><!-- Old World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_moderate.png" alt="If you are reading this, there is an error." width="20" />Old World</summary>
-        <img src="./doc/item_overhaul/cultural/enchanted_ow.png" alt="If you are reading this, there is an error." />
-      </details>
+      **Old World**
 
-    - <details><!-- New World -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_southamerica.png" alt="If you are reading this, there is an error." width="20" />New World</summary>
-        <img src="./doc/item_overhaul/cultural/enchanted_nw.png" alt="If you are reading this, there is an error." />
-      </details>
+      <img src="./doc/item_overhaul/cultural/enchanted_ow.png" alt="If you are reading this, there is an error." />
 
-    - <details><!-- Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa" -->
-      <summary><img src="./doc/item_overhaul/cultural/icon_session_landoflions.png" alt="If you are reading this, there is an error." width="20" />Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"</summary>
-        <img src="./doc/item_overhaul/cultural/enchanted_en.png" alt="If you are reading this, there is an error." />
-      </details>
+      **New World**
+
+      <img src="./doc/item_overhaul/cultural/enchanted_nw.png" alt="If you are reading this, there is an error." />
+
+      **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
+
+      <img src="./doc/item_overhaul/cultural/enchanted_en.png" alt="If you are reading this, there is an error." />
 
     </details>
 
