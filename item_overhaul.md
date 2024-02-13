@@ -147,6 +147,7 @@
 
         <img src="./doc/item_overhaul/cultural/polar_3.png" alt="If you are reading this, there is an error." />
       </details>
+
     </details>
 
   - <details><!-- Teeming Lakes -->
@@ -174,7 +175,6 @@
       <img src="./doc/item_overhaul/cultural/eagle.png" alt="If you are reading this, there is an error." />
 
     **If "Zoo, Museum and Botanical Garden in Enbesa" AND "Safari to Old Enbesa" is active, Extended Famaly Resicendes will be affected**
-    </details>
     </details>
 
   - <details><!-- Origin of Mankind-->
