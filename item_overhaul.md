@@ -202,7 +202,7 @@
     <summary><img src="./doc/item_overhaul/cultural/icon_nuk_terracota_figure.png" alt="If you are reading this, there is an error." width="20" />Lost Tribes</summary>
       <img src="./doc/item_overhaul/cultural/tribes.png" alt="If you are reading this, there is an error." />
 
-    **If "Zoo, Museum and Botanical Garden in Enbesa" is active, fineries <img src="./doc/item_overhaul/cultural/icon_nuk_terracota_figure.png" alt="If you are reading this, there is an error." width="5" /> are added instead of clay pipes**
+    **If "Zoo, Museum and Botanical Garden in Enbesa" is active, fineries <img src="./doc/item_overhaul/cultural/icon_traditional_clothing.png" alt="If you are reading this, there is an error." width="10" /> are added instead of clay pipes <img src="./doc/item_overhaul/cultural/icon_tobacco_pipes.png" alt="If you are reading this, there is an error." width="10" />**
     </details>
 
   - <details><!-- Roots of Enbesa -->
