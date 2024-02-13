@@ -287,6 +287,10 @@
 
       <img src="./doc/item_overhaul/cultural/subalpine_nw.png" alt="If you are reading this, there is an error." />
 
+      **New World with "Colossus of the New World, Finding Mayabeque".The fur abundance does not work for the aguar Hunting Cabins. The reduced area does.**
+
+      <img src="./doc/item_overhaul/cultural/subalpine_nw_2.png" alt="If you are reading this, there is an error." />
+
       **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
 
       <img src="./doc/item_overhaul/cultural/subalpine_en.png" alt="If you are reading this, there is an error." />
