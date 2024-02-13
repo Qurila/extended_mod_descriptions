@@ -202,7 +202,7 @@
     <summary><img src="./doc/item_overhaul/cultural/icon_nuk_terracota_figure.png" alt="If you are reading this, there is an error." width="20" />Lost Tribes</summary>
       <img src="./doc/item_overhaul/cultural/tribes.png" alt="If you are reading this, there is an error." />
 
-    **If "Zoo, Museum and Botanical Garden in Enbesa" is active, Fineries <img src="./doc/item_overhaul/cultural/icon_traditional_clothing.png" alt="If you are reading this, there is an error." width="15" /> are added instead of Clay Pipes <img src="./doc/item_overhaul/cultural/icon_tobacco_pipes.png" alt="If you are reading this, there is an error." width="15" />**
+    **If "Zoo, Museum and Botanical Garden in Enbesa" is active, Fineries <img src="./doc/item_overhaul/cultural/icon_traditional_clothing.png" alt="If you are reading this, there is an error." width="20" /> are added instead of Clay Pipes <img src="./doc/item_overhaul/cultural/icon_tobacco_pipes.png" alt="If you are reading this, there is an error." width="20" />**
     </details>
 
   - <details><!-- Roots of Enbesa -->
@@ -273,7 +273,7 @@
   </details>
 
 - <details><!-- Harbor Cranes -->
-  <summary><img src="./doc/item_overhaul/harbormaster/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" />Harbor Cranes</summary>
+  <summary><img src="./doc/item_overhaul/harbormaster/icon_repair_crane_3.png" alt="If you are reading this, there is an error." width="20" />Harbor Cranes</summary>
     <img src="./doc/item_overhaul/harbormaster/crane4.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/crane3.png" alt="If you are reading this, there is an error." />
     <img src="./doc/item_overhaul/harbormaster/crane2.png" alt="If you are reading this, there is an error." />
@@ -281,7 +281,7 @@
   </details>
 
 - <details><!-- Excavators -->
-  <summary><img src="./doc/item_overhaul/harbormaster/icon_gold_ore_finder_1.png" alt="If you are reading this, there is an error." width="20" />Excavators</summary>
+  <summary><img src="./doc/item_overhaul/harbormaster/icon_power_shovel_3.png" alt="If you are reading this, there is an error." width="20" />Excavators</summary>
 
     **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
 
