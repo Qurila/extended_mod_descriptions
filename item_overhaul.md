@@ -189,9 +189,22 @@
     **If "Zoo, Museum and Botanical Garden in Enbesa" AND "Safari to Old Enbesa" is active, Extended Famaly Resicendes will be affected**
     </details>
 
-  - <details><!-- Origin of Mankind-->
+  - <details><!-- New World Huaca -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_mummy_nazcan.png" alt="If you are reading this, there is an error." width="20" />New World Huaca</summary>
+      <img src="./doc/item_overhaul/cultural/huaca.png" alt="If you are reading this, there is an error." />
+
+    **The specialist pool that activates on the visitor pier when the set is full has been removed. But can be reactivated with Imya.**
+    </details>
+
+  - <details><!-- Origin of Mankind -->
     <summary><img src="./doc/item_overhaul/cultural/icon_museum_neanderthaler.png" alt="If you are reading this, there is an error." width="20" />Origin of Mankind</summary>
       <img src="./doc/item_overhaul/cultural/mankind.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Skull and Bones -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_museum_sword_pirate_epic.png" alt="If you are reading this, there is an error." width="20" />Skull and Bones</summary>
+      <img src="./doc/item_overhaul/cultural/skull.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/cultural/trelawney3.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Aegan Cultures -->
@@ -217,6 +230,15 @@
   - <details><!-- Bronze Age -->
     <summary><img src="./doc/item_overhaul/cultural/icon_celtic_stonehenge.png" alt="If you are reading this, there is an error." width="20" />Bronze Age</summary>
       <img src="./doc/item_overhaul/cultural/bronze.png" alt="If you are reading this, there is an error." />
+    </details>
+
+  - <details><!-- Battle of Trelawney -->
+    <summary><img src="./doc/item_overhaul/cultural/icon_nadaskys_sword.png" alt="If you are reading this, there is an error." width="20" />Battle of Trelawney</summary>
+      <img src="./doc/item_overhaul/cultural/trelawney.png" alt="If you are reading this, there is an error." />
+
+      **If the vehicle upgrades has been transferred from the Skull and Bones set, it will be adjusted.**
+
+      <img src="./doc/item_overhaul/cultural/trelawney2.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Icebound -->
@@ -288,7 +310,7 @@
       <img src="./doc/item_overhaul/cultural/subalpine_nw.png" alt="If you are reading this, there is an error." />
 
       **New World with "Colossus of the New World, Finding Mayabeque".**  
-      The fur abundance does not work for the aguar Hunting Cabins. The reduced area does.
+      The fur abundance does not work for the Jaguar Hunting Cabins. The reduced area does.
 
       <img src="./doc/item_overhaul/cultural/subalpine_nw_2.png" alt="If you are reading this, there is an error." />
 
@@ -327,7 +349,7 @@
 
       **If the reduced Chance of Illnes has been transferred from the marshland set, it will be adjusted.**
 
-      <img src="./doc/item_overhaul/cultural/medicinal_2.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/cultural/medicinal_3.png" alt="If you are reading this, there is an error." />
 
     </details>
 
