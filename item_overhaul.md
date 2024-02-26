@@ -236,7 +236,7 @@
     <summary><img src="./doc/item_overhaul/cultural/icon_nadaskys_sword.png" alt="If you are reading this, there is an error." width="20" />Battle of Trelawney</summary>
       <img src="./doc/item_overhaul/cultural/trelawney.png" alt="If you are reading this, there is an error." />
 
-      **If the vehicle upgrades has been transferred from the Skull and Bones set, it will be adjusted.**
+      **If the vehicle upgrades has been transferred from the Skull and Bones set, they will be adjusted.**
 
       <img src="./doc/item_overhaul/cultural/trelawney2.png" alt="If you are reading this, there is an error." />
     </details>
@@ -326,17 +326,14 @@
       **Old World**
 
       <img src="./doc/item_overhaul/cultural/marshland_ow.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
 
       **New World**
 
       <img src="./doc/item_overhaul/cultural/marshland_nw.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
 
       **Enbesa. Only with "Zoo, Museum and Botanical Garden in Enbesa"**
 
       <img src="./doc/item_overhaul/cultural/marshland_en.png" alt="If you are reading this, there is an error." />
-      <img src="./doc/item_overhaul/cultural/medicinal_1.png" alt="If you are reading this, there is an error." />
 
     </details>
 
@@ -346,10 +343,6 @@
       **All Sessions**
 
       <img src="./doc/item_overhaul/cultural/medicinal_2.png" alt="If you are reading this, there is an error." />
-
-      **If the reduced Chance of Illnes has been transferred from the marshland set, it will be adjusted.**
-
-      <img src="./doc/item_overhaul/cultural/medicinal_3.png" alt="If you are reading this, there is an error." />
 
     </details>
 
