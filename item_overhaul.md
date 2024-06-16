@@ -455,9 +455,6 @@
 - <details><!-- Seasoned Salter -->
   <summary><img src="./doc/job_adertisements/enbesa/icon_sea_master_1.png" alt="If you are reading this, there is an error." width="20" />Seasoned Salter</summary>
     <img src="./doc/item_overhaul/harbormaster/salt.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/gate3_2.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/gate2_2.png" alt="If you are reading this, there is an error." />
-    <img src="./doc/item_overhaul/harbormaster/gate1_2.png" alt="If you are reading this, there is an error." />
   </details>
 
 - <details><!-- Fishing Nets -->
@@ -723,6 +720,10 @@
 - <details><!-- Gritty Gas Extractor -->
   <summary><img src="./doc/item_overhaul/lodge/icon_gas_extractor.png" alt="If you are reading this, there is an error." width="20" />Gritty Gas Extractor</summary>
   <img src="./doc/item_overhaul/lodge/gritty.png" alt="If you are reading this, there is an error." />
+
+      **When the Sulfur mod is activ, Sulfur is added as output"**
+
+  <img src="./doc/item_overhaul/lodge/gritty_2.png" alt="If you are reading this, there is an error." />
   </details>
 
 - <details><!-- Aspirin Machine -->
@@ -1787,10 +1788,8 @@
       <img src="./doc/item_overhaul/trade_union/mineralogist.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/dredger.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/digger.png" alt="If you are reading this, there is an error." />
-
-    **The following items will be removed.**
-
-      <img src="./doc/item_overhaul/trade_union/driller_quarryman.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/linda.png" alt="If you are reading this, there is an error." />
+      <img src="./doc/item_overhaul/trade_union/explorer.png" alt="If you are reading this, there is an error." />
     </details>
 
   - <details><!-- Susannah Brightwoman, A Glimmer In The Darkness -->
@@ -1937,6 +1936,11 @@
       <img src="./doc/item_overhaul/trade_union/bishop.png" alt="If you are reading this, there is an error." />
     </details>
 
+  - <details><!-- Refiner -->
+    <summary><img src="./doc/job_adertisements/mining/icon_worker_411.png" alt="If you are reading this, there is an error." width="20" />Refiner</summary>
+      <img src="./doc/item_overhaul/trade_union/refiner.png" alt="If you are reading this, there is an error." />
+    </details>
+
   </details>
 
 - <details><!-- Crafting -->
@@ -1999,6 +2003,10 @@
     **They now belong to an ExclusiveGroup. You can therefore no longer socket them together in the same building.**
 
       <img src="./doc/item_overhaul/trade_union/extractor3.png" alt="If you are reading this, there is an error." />
+
+    **If the Chrome Mine mod is activ, Chrome is added as cost and output.**
+
+      <img src="./doc/item_overhaul/trade_union/extractor3_2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/extractor2.png" alt="If you are reading this, there is an error." />
       <img src="./doc/item_overhaul/trade_union/extractor1.png" alt="If you are reading this, there is an error." />
     </details>
