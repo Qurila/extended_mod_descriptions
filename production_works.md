@@ -177,6 +177,7 @@
 
   - <details><!-- Futterplätze -->
     <summary>Futterplätze</summary>
+
     - Fabelhafter Futterplatz:
       - Erhöht die Produktivität um +40%.
       - Erhöht die Wartunskosten um +25%.
