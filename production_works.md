@@ -2,6 +2,9 @@
 
 ## <img src="./doc/production_works/icon_ornamental_category_agriculture.png" alt="If you are reading this, there is an error." width="30" />Agriculture Works
 
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
+
 - <details><!-- Es werden einige Items für die Landwirtschafft angepasst. -->
   <summary>Es werden einige Items für die Landwirtschafft angepasst.</summary>
 
@@ -211,6 +214,8 @@
       - Erhöht die Produktivität um +25%.
       - Erhöht die Wartunskosten um +10%.
     </details>
+
+  </details>
 
 </details>
 
