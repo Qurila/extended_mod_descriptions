@@ -5,7 +5,9 @@
 - <details><!-- Es werden einige Items für die Landwirtschafft angepasst. -->
   <summary>Es werden einige Items für die Landwirtschafft angepasst.</summary>
 
-  - Alte Welt Pflanzen Spezialisten
+  - <details><!-- Alte Welt Pflanzen Spezialisten -->
+    <summary>Alte Welt Pflanzen Spezialisten</summary>
+
     - Cosmo Castelli, Wegbereiter der Agrarwissenschaft:
       - Hat ein neues Icon.
       - Erhöht die Produktivität nur noch um +50%.
@@ -45,8 +47,11 @@
       - Landwirt.
       - Winzerin.
       - Ackermann.
+    </details>
 
-  - Neue Welt Pflanzen Spezialisten
+  - <details><!-- Neue Welt Pflanzen Spezialisten -->
+    <summary>Neue Welt Pflanzen Spezialisten</summary>
+
     - Dr. Ali Al-​Zahir, Botanischer Direktor:
       - Erhöht die Produktivität nur noch um +50%.
       - Erhöht die benötigte Arbeitskraft um +50%.
@@ -82,8 +87,11 @@
       - Baumpflegerin.
       - Baumchirurg.
       - Pflückerin.
+    </details>
 
-  - Enbesa Pflanzen Spezialisten
+  - <details><!-- Enbesa Pflanzen Spezialisten -->
+    <summary>Enbesa Pflanzen Spezialisten</summary>
+
     - Calla Lily aus der blühenden Wüste:
       - Erhöht die Produktivität um +50%.
       - Erhöht die benötigte Arbeitskraft um +50%.
@@ -106,8 +114,11 @@
       - Erhöht die benötigte Arbeitskraft um +10%.
       - Reduziert die benötigte Anzahl von Modulen um -5%.
       - Stellt Teff-Fruchtbarkeit bereit.
+    </details>
 
-  - Tier Spezialisten
+  - <details><!-- Tier Spezialisten -->
+    <summary>Tier Spezialisten</summary>
+
     - Mark van der Mark, Züchter von Schäferhunden:
       - Erhöht die Produktivität nur noch um +50%.
       - Erhöht die benötigte Arbeitskraft um +50%.
@@ -126,8 +137,11 @@
     - Viehhirt:
       - Erhöht die Produktivität um +20%.
       - Reduziert die Arbeitskräfte  um -20%.
+    </details>
 
-  - Enbesa Tier Spezialisten
+  - <details><!-- Landwirtschaffsmaschinen -->
+    <summary>Enbesa Tier Spezialisten</summary>
+
     - Liebevoller Viehhirte:
       - Erhöht die Produktivität um +30%.
       - Reduziert die benötigte Anzahl von Modulen um -25%.
@@ -137,8 +151,11 @@
       - Erhöht die Produktivität um +20%.
       - Reduziert dieArbeitskäfte um -20%.
       - Stellt keine zusätzliches Ziegenmilch her.
+    </details>
 
-  - Landwirtschaffsmaschinen
+  - <details><!-- Landwirtschaffsmaschinen -->
+    <summary>Landwirtschaffsmaschinen</summary>
+
     - Die goldene Erntemaschine der Zukunft:
       - Heißt jetzt = Fortschrittliche Erntemaschine.
       - Erhöht die Produktivität um +50%.
@@ -155,8 +172,11 @@
     - Scharpflug:
       - Hat ein neues Icon.
       - Reduziert dieArbeitskäfte um -10%.
+    </details>
 
-  - Tiermedizin
+  - <details><!-- Tiermedizin -->
+    <summary>Tiermedizin</summary>
+
     - Eine Abhilfe:
       - Ist jetzt Legendär.
       - Wird jetzt bei Nate in der Arktis hergestellt.
@@ -174,6 +194,7 @@
       - Hat ein neues Icon.
       - Erhöht die Produktivität um +25%.
       - Reduziert die Wartunskosten um -10%.
+    </details>
 
   - <details><!-- Futterplätze -->
     <summary>Futterplätze</summary>
