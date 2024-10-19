@@ -337,7 +337,10 @@
 
 </details>
 
-## Cheese Works
+## <img src="./doc/production_works/icon_sheep_cheese.png" alt="If you are reading this, there is an error." width="30" />Cheese Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Käse" benötigt jetzt "Salz" zur Produktion.
   - Es gibt ein alternatives Rezept das zusätzlich Kräuter verbraucht.
@@ -357,7 +360,12 @@
     - Sie erhöhrt den Input an Milch um + 2/1.
     - Sie erzeugt +2/1 Käse zusätzlich.
 
-## Chemical Works
+</details>
+
+## <img src="./doc/production_works/icon_multifactory_chemistry_sa.png" alt="If you are reading this, there is an error." width="30" />Chemical Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Lacke und Farben" benotigen jetzt Harz + Ethanol + Pigmente für die herstellung.
   - Pigmente werden jetzt direkt in der Erzmine hergestellt ( Erze werden nicht mehr im Spiel benötigt).
@@ -421,7 +429,12 @@
     - Schneller reich werden, Band IV: Kein Mist
     - Schneller reich werden, Band IX: Leistung zahlt sich aus
 
-## Chocolate Works
+</details>
+
+## <img src="./doc/production_works/icon_chocolate.png" alt="If you are reading this, there is an error." width="30" />Chocolate Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Investoren benötigen jetzt "Pralinen" an stelle von "Schokolade"
   - "Pralinen" werden aus "Schokolade" + "Konfitüre" + "Honigwaben" (ehemals "Bienenwachs") + "Rum" hergestellt.
@@ -454,7 +467,12 @@
     - Tauscht keine Inputs mehr aus.
     - Produziert keine Waren mehr zusätzlich.
 
-## Cloth Works
+</details>
+
+## <img src="./doc/production_works/icon_cloth.png" alt="If you are reading this, there is an error." width="30" />Cloth Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Neues Produkt "Wollstoff", wird aus Wolle/Alpakawolle hergestellt.
   - "Wollstoff" ist jetzt für die herstellung von diversen Produkten nötig.
@@ -540,6 +558,8 @@
     - Tauscht jetzt "Baumwollstoff" gegen "Wollstoff".
     - Tauscht jetzt "Felle" gegen "Robbenfelle".
     - Erzeugt jetzt "Schlafsäcke", "Parkas" und "Pelzmäntel" mit 1/4.
+
+</details>
 
 ## Coffee Works
 
