@@ -561,7 +561,10 @@
 
 </details>
 
-## Coffee Works
+## <img src="./doc/production_works/icon_coffe_cup.png" alt="If you are reading this, there is an error." width="30" />Coffee Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Es gibt jetzt 2 unterschiedliche sorten Kaffee.
   - "Kaffee (Leichte Röstung)" wird in der Neuen Welt geröstet. Sie wird von der dortigen Bevölkerung verbraucht.
@@ -594,7 +597,12 @@
   - Cola Mola Wola Maschine:
     - Es wird jetzt 1/5 Limonade anstelle von Kaffee erzeugt.
 
-## Drink Works 1
+</details>
+
+## <img src="./doc/production_works/icon_beer_2.png" alt="If you are reading this, there is an error." width="30" />Drink Works 1
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Eine Industrielle Schnapsbrennerei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
   - Die normale Schnapsbrennerei kann nicht mehr von Strom profitieren.
@@ -656,7 +664,12 @@
   - Enbesanischer Gesandter:
     - Beinflusst Hacienda Bierbrauereien anstatt Mezcal-Ausschank.
 
-## Drink Works 2
+</details>
+
+## <img src="./doc/production_works/icon_flotsam.png" alt="If you are reading this, there is an error." width="30" />Drink Works 2
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Rum, Sekt und Cognac benötigen jetzt Fässer zu herstellung.
 - Küfereien sind für die Alte und Neue Welt hinzugefügt worden.
@@ -684,7 +697,12 @@
     - Steigert die Produktivität um +30%.
     - Reduziert die Arbeitskräfte  um -30%.
 
-## Fertiliser Works
+</details>
+
+## <img src="./doc/production_works/icon_fertilizer_good.png" alt="If you are reading this, there is an error." width="30" />Fertiliser Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Dünger" benötigt jetzt zusätzlich "Pottasche" zur herstellung.
   - Potasche wird aus Holz in einerm Aschehaus hergestellt.
@@ -710,14 +728,22 @@
     - Heißt jetzt = Einfacher Dünger.
     - Hat ein neues Icon.
 
-## Forestry Works
+</details>
+
+## <img src="./doc/production_works/icon_fertile_lands.png" alt="If you are reading this, there is an error." width="30" />Forestry Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Rentierfleisch" heißt jetzt = "Wildfleisch"
 - "Bärenfelle" heißen jetzt = "Exotische Felle"
 
-- Es werden einige Item für die Forstwirtschafft angepasst.
+- <details><!-- Es werden einige Items für die Landwirtschafft angepasst. -->
+  <summary>Es werden einige Item für die Forstwirtschafft angepasst.</summary>
 
-  - Holzfäller / Köhler Items
+  - <details><!-- Holzfäller / Köhler Items -->
+    <summary>Holzfäller / Köhler Items</summary>
+
     - Ursula Green, Hüterin der Wälder:
       - Reduziert keine Waldflächte mehr.
       - Beinflusst keine Jagdhütte mehr.
@@ -744,8 +770,11 @@
       - Bogensäge:
         - Reduziert die benötigte Waldfläche um -10%
         - Beinflusst jetzt zusätzlich alle Köhlereien.
+    </details>
 
-  - Jaghütten Items
+  - <details><!-- Jaghütten Items -->
+    <summary>Jaghütten Items</summary>
+
     - Steen, der wilde Grenzer:
       - Ist jetzt Legendär.
       - Steigert die Produktivität um +50%.
@@ -781,8 +810,11 @@
 
       - Falle:
         - Reduziert die benötigte Waldfläche um -10%
+    </details>
 
-  - Baumschulen Items
+  - <details><!-- Baumschulen Items -->
+    <summary>Baumschulen Items</summary>
+
     - Bestäubungsmethode:
       - Steigert die Produktivität um +50%.
       - Steigert die Arbeitskräfte  um +50%.
@@ -817,23 +849,30 @@
         - Steigert die Produktivität um +25%
         - Reduziert die benötigte Waldfläche um -10%
         - Beeinflusst jetzt alle Baumschulen.
+    </details>
 
-- Es werden einige Buffs des Zoos / Museums angepasst.
+  - <details><!-- Zoo / Museum Buffs -->
+    <summary>Zoo / Museum Buffs.</summary>
 
-  - Park: Miombo-Wälder:
-    - Beinflusst nur noch alle Holzällerhütten und alle Köhlereien.
+    - Park: Miombo-Wälder:
+      - Beinflusst nur noch alle Holzällerhütten und alle Köhlereien.
 
-  - Park: Regenwald:
-    - Beinflusst nur noch alle Holzällerhütten und alle Köhlereien.
-    - Reduziert die benötigte Waldfläche um -10%.
+    - Park: Regenwald:
+      - Beinflusst nur noch alle Holzällerhütten und alle Köhlereien.
+      - Reduziert die benötigte Waldfläche um -10%.
 
-  - Ausstellung: Ursprung der Menschheit:
-    - Beinflusst nur noch alle Fischreien, alle Jagdhütten und alle Baumschulen.
-    - Reduziert die benötigte Waldfläche um -10%.
+    - Ausstellung: Ursprung der Menschheit:
+      - Beinflusst nur noch alle Fischreien, alle Jagdhütten und alle Baumschulen.
+      - Reduziert die benötigte Waldfläche um -10%.
 
-  - Ausstellung: Bronzezeit:
-    - Beinflusst nur noch alle Steinbrüche und alle Baumschulen.
-    - Reduziert die benötigte Waldfläche um -10%.
+    - Ausstellung: Bronzezeit:
+      - Beinflusst nur noch alle Steinbrüche und alle Baumschulen.
+      - Reduziert die benötigte Waldfläche um -10%.
+      </details>
+
+  </details>
+
+</details>
 
 ## Glas Works
 
