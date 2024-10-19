@@ -5,214 +5,214 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- <details><!-- Es werden einige Items für die Landwirtschafft angepasst. -->
-  <summary>Es werden einige Items für die Landwirtschafft angepasst.</summary>
+- <details><!-- Some items for agriculture will be adapted. -->
+  <summary>Some items for agriculture will be adapted.</summary>
 
-  - <details><!-- Alte Welt Pflanzen Spezialisten -->
-    <summary>Alte Welt Pflanzen Spezialisten</summary>
+  - <details><!-- Old world plant specialists -->
+    <summary>Old world plant specialists</summary>
 
-    - Cosmo Castelli, Wegbereiter der Agrarwissenschaft:
-      - Hat ein neues Icon.
-      - Erhöht die Produktivität nur noch um +50%.
-      - Erhöht die benötigte Arbeitskraft um +50%.
-      - Reduziert die benötigte Anzahl von Modulen um -25%.
-      - Stellt Kartoffel-Fruchtbarkeit bereit.
+    - Cosmo Castelli, pioneer of agricultural science:
+      - Has a new icon.
+      - Only increases productivity by +50%.
+      - Increases the required labour force by +50%.
+      - Reduces the required number of modules by -25%.
+      - Provides potato fertility.
 
-    - Yvonne die Freisassin:
-      - Erhöht die benötigte Arbeitskraft um +30%.
-      - Reduziert die benötigte Anzahl von Modulen um -15%.
-      - Stellt Trauben-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Alten Welt.
+    - Yvonne the Freedwoman:
+      - Increases the required labour by +30%.
+      - Reduces the required number of modules by -15%.
+      - Provides grape fertility.
+      - Affects all Old World crop farms.
 
-    - Erfahrerner Pflanzer:
-      - Erhöht die Produktivität nur noch um +30%.
-      - Erhöht die benötigte Arbeitskraft um +20%.
-      - Reduziert die benötigte Anzahl von Modulen um -10%.
-      - Stellt Hopfen-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Alten Welt.
+    - Experienced planter:
+      - Only increases productivity by +30%.
+      - Increases the required labour force by +20%.
+      - Reduces the required number of modules by -10%.
+      - Provides hop fertility.
+      - Affects all Old World crop farms.
 
-    - Gemüsezüchterin:
-      - Erhöht die Produktivität um +20%.
-      - Erhöht die benötigte Arbeitskraft um +10%.
-      - Reduziert die benötigte Anzahl von Modulen um -5%.
-      - Stellt Paprika-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Alten Welt.
+    - Vegetable Farmer:
+      - Increases productivity by +20%.
+      - Increases the required labour force by +10%.
+      - Reduces the required number of modules by -5%.
+      - Provides pepper fertility.
+      - Affects all Old World crop farms.
 
-    - Anbauerin:
-      - Stellt Getreide-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Alten Welt.
+    - Cultivator:
+      - Provides grain fertility.
+      - Affects all useful plant farms in the Old World.
 
-    - Folgende Items werden entfernt:
-      - Alexander Hancock, Vater der Kartoffel.
-      - Preisgekrönter Produzent.
-      - Sonnige Siedlerin.
-      - Weinbauer.
-      - Landwirt.
-      - Winzerin.
-      - Ackermann.
+    - The following items will be removed:
+      - Alexander Hancock, Father of the Potato.
+      - Award-winning producer.
+      - Sunny Settler.
+      - Vintner.
+      - Farmer.
+      - Winemaker.
+      - Arable farmer.
     </details>
 
-  - <details><!-- Neue Welt Pflanzen Spezialisten -->
-    <summary>Neue Welt Pflanzen Spezialisten</summary>
+  - <details><!-- New World Plant Specialists -->
+    <summary>New World Plant Specialists</summary>
 
-    - Dr. Ali Al-​Zahir, Botanischer Direktor:
-      - Erhöht die Produktivität nur noch um +50%.
-      - Erhöht die benötigte Arbeitskraft um +50%.
-      - Reduziert die benötigte Anzahl von Modulen um -25%.
-      - Stellt Tabak-Fruchtbarkeit bereit.
+    - Dr Ali Al-Zahir, Botanical Director:
+      - Increases productivity by +50% only.
+      - Increases the required labour force by +50%.
+      - Reduces the required number of modules by -25%.
+      - Provides tobacco fertility.
 
-    - Mrs. Brown die Landwirtin:
-      - Erhöht die benötigte Arbeitskraft um +30%.
-      - Reduziert die benötigte Anzahl von Modulen um -15%.
-      - Stellt Baumwolle-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Neuen Welt.
+    - Mrs Brown the farmer:
+      - Increases the required labour by +30%.
+      - Reduces the required number of modules by -15%.
+      - Provides cotton fertility.
+      - Affects all the New World's crop farms.
 
-    - Bodenkundler:
-      - Erhöht die Produktivität nur noch um +30%.
-      - Erhöht die benötigte Arbeitskraft um +20%.
-      - Reduziert die benötigte Anzahl von Modulen um -10%.
-      - Stellt Kakao-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Neuen Welt.
+    - Soil Scientist:
+      - Only increases productivity by +30%.
+      - Increases the required labour force by +20%.
+      - Reduces the required number of modules by -10%.
+      - Provides cocoa fertility.
+      - Affects all the New World's crop farms.
 
-    - Ackerbäuerin:
-      - Erhöht die Produktivität um +20%.
-      - Erhöht die benötigte Arbeitskraft um +10%.
-      - Reduziert die benötigte Anzahl von Modulen um -5%.
-      - Stellt Kautschuck-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Neuen Welt.
+    - Farmer:
+      - Increases productivity by +20%.
+      - Increases the required labour force by +10%.
+      - Reduces the required number of modules by -5%.
+      - Provides rubber fertility.
+      - Affects all New World crop farms.
 
-    - Erntearbeiter:
-      - Stellt Mais-Fruchtbarkeit bereit.
-      - Beeinflusst alle Nutzpfalnzenfarmen der Neuen Welt.
+    - Harvester:
+      - Provides corn fertility.
+      - Affects all New World crop farms.
 
-    - Folgende Items werden entfernt:
-      - Gartenbauer Hermann.
-      - Baumpflegerin.
-      - Baumchirurg.
-      - Pflückerin.
+    - The following items are removed:
+      - Horticulturist Hermann.
+      - Arborist.
+      - Tree Surgeon.
+      - Picker.
     </details>
 
-  - <details><!-- Enbesa Pflanzen Spezialisten -->
-    <summary>Enbesa Pflanzen Spezialisten</summary>
+  - <details><!-- Enbesa plant specialists -->
+    <summary>Enbesa plant specialists</summary>
 
-    - Calla Lily aus der blühenden Wüste:
-      - Erhöht die Produktivität um +50%.
-      - Erhöht die benötigte Arbeitskraft um +50%.
-      - Reduziert die benötigte Anzahl von Modulen um -25%.
+    - Calla Lily from the blooming desert:
+      - Increases productivity by +50%.
+      - Increases the required labour force by +50%.
+      - Reduces the required number of modules by -25%.
 
-    - Yebebas robustes Gewächshaus:
-      - Erhöht die Produktivität um +40%.
-      - Erhöht die benötigte Arbeitskraft um +30%.
-      - Reduziert die benötigte Anzahl von Modulen um -15%.
-      - Stellt Hibiskus-Fruchtbarkeit bereit.
+    - Yebeba's Robust Greenhouse:
+      - Increases productivity by +40%.
+      - Increases the required labour force by +30%.
+      - Reduces the required number of modules by -15%.
+      - Provides hibiscus fertility.
 
-    - Mückennetz:
-      - Erhöht die Produktivität um +30%.
-      - Erhöht die benötigte Arbeitskraft um +20%.
-      - Reduziert die benötigte Anzahl von Modulen um -10%.
-      - Stellt Gewürze-Fruchtbarkeit bereit.
+    - Mosquito net:
+      - Increases productivity by +30%.
+      - Increases the required labour force by +20%.
+      - Reduces the required number of modules by -10%.
+      - Provides spice fertility.
 
-    - Vogelhaus:
-      - Erhöht die Produktivität um +20%.
-      - Erhöht die benötigte Arbeitskraft um +10%.
-      - Reduziert die benötigte Anzahl von Modulen um -5%.
-      - Stellt Teff-Fruchtbarkeit bereit.
+    - Birdhouse:
+      - Increases productivity by +20%.
+      - Increases the required labour force by +10%.
+      - Reduces the required number of modules by -5%.
+      - Provides teff fertility.
     </details>
 
-  - <details><!-- Tier Spezialisten -->
-    <summary>Tier Spezialisten</summary>
+  - <details><!-- Animal specialists -->
+    <summary>Animal specialists</summary>
 
-    - Mark van der Mark, Züchter von Schäferhunden:
-      - Erhöht die Produktivität nur noch um +50%.
-      - Erhöht die benötigte Arbeitskraft um +50%.
-      - Reduziert die benötigte Anzahl von Modulen um -25%.
-      - Stellt keine zusätzliche Alpakawolle her.
+    - Mark van der Mark, breeder of shepherd dogs:
+      - Increases productivity by only +50%.
+      - Increases the required labour force by +50%.
+      - Reduces the required number of modules by -25%.
+      - Does not produce any additional alpaca wool.
 
-    - Rodrigo der Ranchero:
-      - Erhöht die Produktivität um +40%.
-      - Reduziert die Wartunskosten um -40%.
-      - Stellt keine zusätzliches Rindfleisch her.
+    - Rodrigo the Ranchero:
+      - Increases productivity by +40%.
+      - Reduces maintenance costs by -40%.
+      - Does not produce any additional beef.
 
-    - Viehbäuerin:
-      - Erhöht die Produktivität um +30%.
-      - Reduziert die Arbeitskräfte  um -30%.
+    - Cattle farmer:
+      - Increases productivity by +30%.
+      - Reduces labour costs by -30%.
 
-    - Viehhirt:
-      - Erhöht die Produktivität um +20%.
-      - Reduziert die Arbeitskräfte  um -20%.
+    - Herdsman:
+      - Increases productivity by +20%.
+      - Reduces the labour force by -20%.
     </details>
 
-  - <details><!-- Landwirtschaffsmaschinen -->
-    <summary>Enbesa Tier Spezialisten</summary>
+  - <details><!-- Enbesa Animal specialists -->
+    <summary>Enbesa Animal specialists</summary>
 
-    - Liebevoller Viehhirte:
-      - Erhöht die Produktivität um +30%.
-      - Reduziert die benötigte Anzahl von Modulen um -25%.
-      - Beiflusst zusätzlich die Ziegenfarm.
+    - Loving herdsman:
+      - Increases productivity by +30%.
+      - Reduces the required number of modules by -25%.
+      - Also contributes to the goat farm.
 
-    - Weiden-Expertin:
-      - Erhöht die Produktivität um +20%.
-      - Reduziert dieArbeitskäfte um -20%.
-      - Stellt keine zusätzliches Ziegenmilch her.
+    - Pasture Expert:
+      - Increases productivity by +20%.
+      - Reduces the labour force by -20%.
+      - Does not produce any additional goat milk.
     </details>
 
-  - <details><!-- Landwirtschaffsmaschinen -->
-    <summary>Landwirtschaffsmaschinen</summary>
+  - <details><!-- Agricultural machinery -->
+    <summary>Agricultural machinery</summary>
 
-    - Die goldene Erntemaschine der Zukunft:
-      - Heißt jetzt = Fortschrittliche Erntemaschine.
-      - Erhöht die Produktivität um +50%.
-      - Erhöht die Wartungskosten um +50%.
-      - Stellt kein Gold mehr her.
+    - The golden harvester of the future:
+      - Is now called = Advanced Harvester.
+      - Increases productivity by +50%.
+      - Increases maintenance costs by +50%.
+      - No longer produces gold.
 
-    - Patentierte stählerne Sämaschine:
-      - Heißt jetzt = Stählerner Wunderpflug.
-      - Reduziert dieArbeitskäfte um -25%.
+    - Patented steel seed drill:
+      - Is now called = Steel Wonder Plough.
+      - Reduces labour by -25%.
 
-    - Kipppflug:
-      - Reduziert dieArbeitskäfte um -15%.
+    - Tilting plough:
+      - Reduces the labour by -15%.
 
-    - Scharpflug:
-      - Hat ein neues Icon.
-      - Reduziert dieArbeitskäfte um -10%.
+    - Coulter plough:
+      - Has a new icon.
+      - Reduces the labour by -10%.
     </details>
 
-  - <details><!-- Tiermedizin -->
-    <summary>Tiermedizin</summary>
+  - <details><!-- Veterinary medicine -->
+    <summary>Veterinary medicine</summary>
 
-    - Eine Abhilfe:
-      - Ist jetzt Legendär.
-      - Wird jetzt bei Nate in der Arktis hergestellt.
-      - Wenn bereits indentifiziert kann es noch weiter erforscht werden.
-      - Erhöht die Produktivität um +50%.
+    - A remedy:
+      - Is now Legendary.
+      - Is now produced by Nate in the Arctic.
+      - If already identified, it can be researched further.
+      - Increases productivity by +50%.
 
-    - Himmlischer Milzbrand-​Impfstoff:
-      - Reduziert die Wartunskosten um -25%.
+    - Celestial Anthrax Vaccine:
+      - Reduces maintenance costs by -25%.
 
-    - Tier-​Antibiotika:
-      - Erhöht die Produktivität um +35%.
-      - Reduziert die Wartunskosten um -15%.
+    - Animal antibiotics:
+      - Increases productivity by +35%.
+      - Reduces maintenance costs by -15%.
 
-    - Vitaminergänzungen:
-      - Hat ein neues Icon.
-      - Erhöht die Produktivität um +25%.
-      - Reduziert die Wartunskosten um -10%.
+    - Vitamin supplements:
+      - Has a new icon.
+      - Increases productivity by +25%.
+      - Reduces maintenance costs by -10%.
     </details>
 
-  - <details><!-- Futterplätze -->
-    <summary>Futterplätze</summary>
+  - <details><!-- Feeding places -->
+    <summary>Feeding places</summary>
 
-    - Fabelhafter Futterplatz:
-      - Erhöht die Produktivität um +40%.
-      - Erhöht die Wartunskosten um +25%.
+    - Fabulous feeding place:
+      - Increases productivity by +40%.
+      - Increases maintenance costs by +25%.
 
-    - Schöner Futterplatz:
-      - Erhöht die Produktivität um +35%.
-      - Erhöht die Wartunskosten um +15%.
+    - Beautiful feeding place:
+      - Increases productivity by +35%.
+      - Increases maintenance costs by +15%.
 
-    - Futterplatz:
-      - Erhöht die Produktivität um +25%.
-      - Erhöht die Wartunskosten um +10%.
+    - Feeding area:
+      - Increases productivity by +25%.
+      - Increases maintenance costs by +10%.
     </details>
 
   </details>
@@ -224,11 +224,11 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- "Kekse" werden jetzt aus Mehl + Talg + Eier hergestellt, + zusätzlich 1 der folgenden:
-  - Zitrusfrüchte.
-  - Zimt.
-  - Konfitüre.
-  - Schokolade.
+- ‘Biscuits’ are now made from flour + suet + eggs, + 1 of the following:
+  - Citrus.
+  - Cinnamon.
+  - Jam.
+  - Chocolate.
 
 </details>
 
@@ -237,32 +237,32 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- "Brot" benötigt jetzt "Salz" zur Produktion.
-  - Es gibt ein alternatives Rezept das zusätzlich Oliven verbraucht.
+- ‘Bread’ now requires ‘Salt’ to produce.
+  - There is an alternative recipe that also uses olives.
 
-- Eine Industrielle Bäckerei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-  - Die normale Bäckerei kann nicht mehr von Strom profitieren.
-- Eine Industrielle Mühle ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-  - Die normale Mühle kann nicht mehr von Strom profitieren.
+- An industrial bakery is available (the same as in ‘Industrial Low Tier Production’, only slightly adapted).
+  - The normal bakery can no longer benefit from electricity.
+- An Industrial Mill is available (The same as in ‘Industrial Low Tier Production’, only slightly customised).
+  - The normal mill can no longer benefit from electricity.
 
-- Es werden einige Items für Bäckereien angepasst.
+- Some items for bakeries will be customised.
 
   - Marie-Antoine, Patissier Royale:
-    - Erhöht den Input von Mehl um + 2/1.
-    - Produziert 2/1 des jeweiligen Fabrik outputs zusätzlich.
+    - Increases the input of flour by + 2/1.
+    - Produces an additional 2/1 of the respective factory output.
 
   - Pâtissier Patrice:
-    - Erzeugt jetzt zusätzlich Kekse 1/5.
+    - Now additionally produces biscuits 1/5.
 
-  - Tortenkünstlerin:
-    - Reduziert die Arbeitskräfte  um -30%.
-    - Produziert keine Schokolade mehr.
+  - Cake artist:
+    - Reduces the labour force by -30%.
+    - No longer produces chocolate.
 
-  - Bäker:
-    - Tauscht kein Mehl gegen Weizen mehr.
-    - Steiger Produktivität um +10%.
-    - Reduziert benötigte Arbeitskräfte um -10%.
-    - Reduziert Wartungskosten um -10%.
+  - Baker:
+    - No longer exchanges flour for wheat.
+    - Increases productivity by +10%.
+    - Reduces required labour by -10%.
+    - Reduces maintenance costs by -10%.
 
 </details>
 
@@ -271,32 +271,32 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- Eine Industrielle Ziegelei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-  - Die normale Ziegelei kann nicht mehr von Strom profitieren.
+- An industrial brickworks is available (the same as in ‘Industrial Low Tier Production’, only slightly adapted).
+  - The normal brickworks can no longer benefit from electricity.
 
-- Die Ziegelei braucht jetzt Kohle um die Ziegel zu brennen.
-  - Die Industrielle Ziegelei braucht hingegen Strom anstatt Kohle.
+- The brickworks now needs coal to fire the bricks.
+  - The Industrial Brickworks, on the other hand, needs electricity instead of coal.
 
-- Das Betonwerk benötigt zusätzlich noch "Quartzsand" für den Stahlbeton.
+- The concrete factory also needs ‘quartz sand’ for the reinforced concrete.
 
-- Als frühe Kohlequelle wird eine Kohlegrube bereit gestellt.
-- Als späte Lehmquelle wird eine Lehmmine bereit gestellt.
+- A coal mine is provided as an early source of coal.
+- A clay mine is provided as a late clay source.
 
-- Es werden einige Items für Zieglei/Betonwerk angepasst.
+- Some items for the brickworks/concrete works are adapted.
 
-  - Francois Thorne, Magnat der Bauindustrie:
-    - Erzeugt jetzt 5/1 des jeweiligen Fabrik outputs anstelle von Holzfurnier.
-    - Es werden keine Arbeitskräfte mehr ausgetauscht.
-    - Beinflusst jetzt auch Ziegleien und Betonwerke in der neuen Welt.
+  - Francois Thorne, magnate of the construction industry:
+    - Now produces 5/1 of the respective factory outputs instead of wood veneer.
+    - Labour is no longer exchanged.
+    - Now also affects Brickworks and Concrete Plants in the New World.
 
-  - Gerhard der Architekt:
-    - Reduziert zusätzlich die Wartungskosten um -40%.
-    - Es weird kein Strom mehr bereit gestellt.
+  - Gerhard the Architect:
+    - Additionally reduces maintenance costs by -40%.
+    - No more electricity is provided.
 
-  - Polier:
-    - Reduziert zusätzlich die Arbeitskraft um -30%.
-    - Erhöht die Produktivität um +30%.
-    - Es werden keine Stahlträger zusätzlich mehr hergestellt.
+  - Foreman:
+    - Additionally reduces labour by -30%.
+    - Increases productivity by +30%.
+    - No additional steel beams are produced.
 
 </details>
 
@@ -305,35 +305,35 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- "Stromkabel" können jetzt in der Alten Welt hergestellt werden.
-- "Stromkabel" sind als Baukosten für einige Gebäude hinzugefügt worden worden.
-- "Stromkabel" werden jetzt bei der herstellung von Telefonen, Fahrstühlen sowie einigen von Nates Items benötigt.
+- ‘Power cables’ can now be produced in the Old World.
+- ‘Power cables’ have been added as a construction cost for some buildings.
+- ‘Power cables’ are now required when crafting telephones, lifts and some of Nate's items.
 
-- Es werden einige Items für Glühbirnenfabrik / Phonographenfabrik / Telefonfabrik / Ventilator-Fabik angepasst.
+- Some items for Light Bulb Factory / Phonograph Factory / Telephone Factory / Fan Factory will be adjusted.
 
-  - Telefon und Phonographen Fabriken zählen nicht mehr zu den Schreinereien.
+  - Telephone and phonograph factories no longer count as carpentry workshops.
 
-  - Prof. Ram Devi, Leiter des Stroms:
-    - Erzeugt jetzt 5/1 Stromkabel anstelle seiner bisherigen zusätzte.
-    - Beinflusst anstelle von "Chemifabrik: Filmrollen" jetzt "Telefonfabrik
+  - Prof Ram Devi, Head of Electricity:
+    - Now generates 5/1 power cables instead of his previous additional one.
+    - Now includes ‘Telephone Factory’ instead of ‘Chemical Factory: Film Reels’.
 
-  - Johan der Erfinder:
-    - Beinflussst jetz die selben Fabriken wie Devi.
-    - Tauscht kein Holzfurnier mehr gegen Bretter.
-    - Erhöht den Input von Glas / Holzfurnier / Aluminiumprofile um + 1/1. (Input is abhängig von der beinflussten Fabrik)
-    - Produziert 1/1 des jeweiligen Fabrik outputs zusätzlich.
+  - Johan the Inventor:
+    - Now influences the same factories as Devi.
+    - No longer exchanges wood veneer for planks.
+    - Increases the input of glass / wood veneer / aluminium profiles by + 1/1 (input depends on the influenced factory)
+    - Produces 1/1 of the respective factory output additionally.
 
-  - Wissenschaftsgenie:
-    - Beinflussst jetz die selben Fabriken wie Devi.
-    - Erhöht die Produktivität um +30%.
-    - Es werden keine Glühdrähte zusätzlich mehr hergestellt.
-    - Es werden keine Arbeitskräfte mehr ausgetauscht.
+  - Science genius:
+    - Now influences the same factories as Devi.
+    - Increases productivity by +30%.
+    - No additional filaments are produced.
+    - No more labour is exchanged.
 
-  - Physiker:
-    - Beinflussst jetz die selben Fabriken wie Devi.
+  - Physicist:
+    - Now influences the same factories as Devi.
 
-  - Elektriker:
-    - Beinflussst jetz die selben Fabriken wie Devi.
+  - Electrician:
+    - You now influence the same factories as Devi.
 
 </details>
 
@@ -342,23 +342,23 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- "Käse" benötigt jetzt "Salz" zur Produktion.
-  - Es gibt ein alternatives Rezept das zusätzlich Kräuter verbraucht.
+- ‘Cheese’ now requires ‘Salt’ for production.
+  - There is an alternative recipe that uses additional herbs.
 
-- Eine Industrielle Molkerei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-- Eine Industrielle Käserei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-  - Die normale Käserei kann nicht mehr von Strom profitieren
+- An Industrial Dairy is available (The same as from ‘Industrial Low Tier Production’, only slightly adapted).
+- An industrial cheese dairy is available (the same as in ‘Industrial Low Tier Production’, only slightly adapted).
+  - The normal cheese dairy can no longer benefit from electricity
 
-- Wenn die Mod **Milk from Cattle Farm (Lion053)** aktiv ist:
-  - Produziert die Rinderfarm der Neuen Welt jetzt Milch ohne Strom, auch wenn das DLC "Aufstieg der neuen Welt" aktiv ist
+- When the mod **Milk from Cattle Farm (Lion053)** is active:
+  - The New World Cattle Farm now produces milk without electricity, even if the ‘Rise of the New World’ DLC is active
 
-- Es werden einige Items für Käsereien angepasst.
+- Some items for cheese dairies will be adjusted.
 
-  - Die Thermometer Items beeinflussen jetzt die Kässereien.
+  - The thermometer items now affect the cheese dairies.
 
-  - "Küchenhilfe" wurde zu "Käsemeisterin Manuela"
-    - Sie erhöhrt den Input an Milch um + 2/1.
-    - Sie erzeugt +2/1 Käse zusätzlich.
+  - ‘Kitchen assistant’ became ‘Cheese master Manuela’
+    - She increases the input of milk by + 2/1.
+    - She produces an additional +2/1 cheese.
 
 </details>
 
@@ -367,67 +367,67 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- "Lacke und Farben" benotigen jetzt Harz + Ethanol + Pigmente für die herstellung.
-  - Pigmente werden jetzt direkt in der Erzmine hergestellt ( Erze werden nicht mehr im Spiel benötigt).
-  - Aus dem "Labor: Pigmente" ist jetzt "Chemifabrik: Lacke und Farben" geworden.
-    - Es benötigt Kautschuk + Ehtanol + Pigmente.
+- ‘Paints and colours’ now require resin + ethanol + pigments for production.
+  - Pigments are now produced directly in the ore mine (ores are no longer required in the game).
+  - The ‘Laboratory: Pigments’ has now become ‘Chemical Factory: Paints and Colours’.
+    - It requires rubber + ethanol + pigments.
 
-- Aus dem "Labor: Feuerlöscher" ist jetzt "Arsenal: Feuerlöscher" geworden.
+- The ‘Laboratory: Fire Extinguisher’ has now become ‘Arsenal: Fire Extinguisher’.
 
-- "Limonade" wird jetzt ohne "Salpeter" hergestellt.
+- ‘Lemonade’ is now produced without ‘Saltpetre’.
 
-- "Souvenirs" benötigen jetzt "Zelluloid" anstelle von "Baumwolle" und "Kampfer".
+- ‘Souvenirs’ now require ‘Celluloid’ instead of ‘Cotton’ and ‘Camphor’.
 
-- "Schreibmaschinen" benötigen jetzt zusätzlich "Zelluloid".
+- ‘Typewriters’ now also require ‘Celluloid’.
 
-- "Spielzeug" benötigt jetzt zusätzlich "Zelluloid".
+- ‘Toys’ now also require ‘Celluloid’.
 
-- "Billiardtische" benötigen jetzt zusätzlich Lacke und Farben.
+- ‘Billiard tables’ now additionally require ‘varnish and colours’.
 
-- "Elektromotoren" werden jetzt ohne "Zelluloid" hergestellt.
+- ‘Electric motors’ are now produced without ‘celluloid’.
 
-- "Ventilatoren" benötigen jetzt zusätzlich "Zelluloid".
+- ‘Fans’ now also require ‘Celluloid’.
 
-- "Motorroller" benötigen jetzt zusätzlich "Aluminiumprofile".
+- ‘Scooters’ now also require ‘Aluminium profiles’.
 
-- Das Item "Mineraloge" erzeugt jetzt zusätzlich noch "Pigmente".
+- The ‘Mineralogist’ item now also produces ‘Pigments’.
 
-- Die Mengenverhältniss der Produktion wurden angepasst.
+- The production quantity ratios have been adjusted.
 
-- Es werden einige Items für Chemifabriken / Fertigungsstraßen / Manufakturen angepasst.
+- Some items for chemical factories / production lines / manufactories will be adjusted.
 
-  - Schneller reich werden, Band VIII: Weg mit dem Sand im Getriebe!:
-    - Heißt jetzt = Betriebsanweisung: Optimierte Abläufe.
-    - Beiflusst Alle Chemiefabriken/Fertigungsstraßen/Manufakturen
-    - Steigert die Produktivität um +50%.
-    - Reduziert die Arbeitskräfte  um -25%.
-    - Reduziert die Wartungskosten um -25%.
+  - Get rich quicker, Volume VIII: Get rid of the sand in the gears!
+    - Is now called = Operating instructions: Optimised processes.
+    - Affects all chemical plants/production lines/manufactories
+    - Increases productivity by +50%.
+    - Reduces labour by -25%.
+    - Reduces maintenance costs by -25%.
 
-  - Doppelte Redundanz:
-    - Heißt jetzt = Betriebsanweisung: Ausfallsicherung.
-    - Beiflusst Alle Chemiefabriken/Fertigungsstraßen/Manufakturen
-    - Steigert die Produktivität um +40%.
-    - Steigert die Wartungskosten um +40%.
-    - Steigert die Brandwahrscheinlichkeit um +40%.
+  - Double redundancy:
+    - Is now called = operating instruction: failover.
+    - Affects all chemical plants/production lines/manufactories
+    - Increases productivity by +40%.
+    - Increases maintenance costs by +40%.
+    - Increases the probability of fire by +40%.
 
-  - Schneller reich werden, Band IV: Nachtbetrieb:
-    - Heißt jetzt = Betriebsanweisung: Nachschicht.
-    - Beiflusst Alle Chemiefabriken/Fertigungsstraßen/Manufakturen
-    - Steigert die Produktivität um +30%.
-    - Steigert die Arbeitskräfte  um +30%.
-    - Steigert die Aufstandswahrscheinlichkeit um +30%.
+  - Get rich quicker, Volume IV: Night operation:
+    - Now means = operating instructions: night shift.
+    - Affects all chemical plants/production lines/manufactories
+    - Increases productivity by +30%.
+    - Increases the labour force by +30%.
+    - Increases the probability of rebellion by +30%.
 
-  - Neuverschmelzung:
-    - Beiflusst Alle Chemiefabriken
-    - Steigert die Produktivität um +40%.
-    - Steigert die Arbeitskräfte  um +20%.
-    - Steigert die Wartungskosten um +20%.
-    - Produziert 1/4 des jeweiligen Fabrik outputs zusätzlich.
+  - Re-merge:
+    - Influences All Chemical Factories
+    - Increases productivity by +40%.
+    - Increases the labour force by +20%.
+    - Increases maintenance costs by +20%.
+    - Produces an additional 1/4 of the respective factory output.
 
-  - Folgende Items werden entfernt:
-    - Schneller reich werden, Band VII: Maschinenmenschen
-    - Schneller reich werden, Band IV: Kein Mist
-    - Schneller reich werden, Band IX: Leistung zahlt sich aus
+  - The following items will be removed:
+    - Get Rich Quicker, Volume VII: Machine Men
+    - Get Rich Quicker, Volume IV: No Crap
+    - Get rich quicker, Volume IX: Performance pays off
 
 </details>
 
@@ -436,36 +436,36 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- Investoren benötigen jetzt "Pralinen" an stelle von "Schokolade"
-  - "Pralinen" werden aus "Schokolade" + "Konfitüre" + "Honigwaben" (ehemals "Bienenwachs") + "Rum" hergestellt.
+- Investors now need ‘pralines’ instead of ‘chocolate’
+  - ‘Chocolates’ are made from ‘Chocolate’ + ‘Jam’ + ‘Honeycomb’ (formerly ‘Beeswax’) + ‘Rum’.
 
-- "Atole" benötigt jetzt zusätzlich "Zimt" + "Schokolade"
+- ‘Atole’ now also requires ‘Cinnamon’ + ‘Chocolate’
 
-- Es werden einige Items für Schokoladenfabrik / Eiscremefabrik / Atole-Fabrik angepasst.
+- Some items for Chocolate Factory / Ice Cream Factory / Atole Factory will be adjusted.
 
-  - Telefon und Phonographen Fabriken zählen nicht mehr zu den Schreinereien.
+  - Telephone and Phonograph factories no longer count as carpentry workshops.
 
-  - Gennaro Garibaldi, Chocolatier Ihrer Majestät:
-    - Beeinflusst jetzt Pralinenmanufaktur.
-    - Beeinflusst jetzt Atole-Fabrik.
-    - Beinflusst keine Küche mehr.
-    - Erhöht den Input von Kakao / Schokolade  um + 1/1. (Input is abhängig von der beinflussten Fabrik)
-    - Produziert 1/1 des jeweiligen Fabrik outputs zusätzlich.
+  - Gennaro Garibaldi, Her Majesty's Chocolatier:
+    - Now affects Chocolate Manufactory.
+    - Now influences Atole Factory.
+    - No longer influences Kitchen.
+    - Increases the input of cocoa / chocolate by + 1/1 (input depends on the influenced factory)
+    - Produces 1/1 of the respective factory output additionally.
 
-  - Charlotte die Schokoholikerin:
-    - Beeinflusst jetzt Pralinenmanufaktur.
-    - Beeinflusst jetzt Atole-Fabrik.
-    - Beinflusst keine Küche mehr.
-    - Reduziert zusätzlich die Wartungskosten um -40%.
+  - Charlotte the chocoholic:
+    - Now influences chocolate factory.
+    - Now influences Atole factory.
+    - No longer affects Kitchen.
+    - Also reduces maintenance costs by -40%.
 
-  - Qualitätschocolatier:
-    - Beeinflusst jetzt Eiscreme-Fabrik.
-    - Beeinflusst jetzt Pralinenmanufaktur.
-    - Beeinflusst jetzt Atole-Fabrik.
-    - Reduziert zusätzlich die Wartungskosten um -30%.
-    - Steigert zusätzlich die Produktivität um +30%
-    - Tauscht keine Inputs mehr aus.
-    - Produziert keine Waren mehr zusätzlich.
+  - Quality Chocolatier:
+    - Now affects Ice Cream Factory.
+    - Now affects Chocolate Factory.
+    - Now affects Atole Factory.
+    - Additionally reduces maintenance costs by -30%.
+    - Additionally increases productivity by +30%
+    - No longer exchanges inputs.
+    - No longer produces additional goods.
 
 </details>
 
@@ -474,90 +474,89 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- Neues Produkt "Wollstoff", wird aus Wolle/Alpakawolle hergestellt.
-  - "Wollstoff" ist jetzt für die herstellung von diversen Produkten nötig.
-    - Arbeitskleidung.
-    - Anzüge (Mod).
-    - Uniformen (Mod).
-    - Spielzeug.
+- New product ‘woollen fabric’, is made from wool/alpaca wool.
+  - ‘Wool fabric’ is now required for the manufacture of various products.
+    - Work clothes.
+    - Suits (Mod).
+    - Uniforms (Mod).
+    - Toys.
     - Ponchos
 
-- Neues Produkt "Nähgarn", wird aus Flachs/Alpakawolle hergestellt.
-  - "Nähgarn" ist jetzt für die herstellung von diversen Produkten nötig.
-    - Arbeitskleidung.
-    - Segel.
-    - Anzüge (Mod).
-    - Uniformen (Mod).
-    - Pelzmäntel.
-    - Lederstiefel.
-    - Maßanzüge.
-    - Spielzeug.
+- New product ‘Sewing thread’, made from flax/alpaca wool.
+  - ‘Sewing thread’ is now necessary for the production of various products.
+    - Work clothes.
+    - Sails.
+    - Suits (Mod).
+    - Uniforms (mod).
+    - Fur coats.
+    - Leather boots.
+    - Tailored suits.
+    - Toys.
     - Ponchos.
-    - Melonen.
-    - Kostüme.
-    - Fußbälle.
-    - Gewänder.
-    - Teppiche.
-    - Chroniken.
+    - Melons.
+    - Costumes.
+    - Footballs.
+    - Robes.
+    - Carpets.
+    - Chronicles.
 
-- Segel werden jetzt aus Leinen hergestellt.
-  - Leinen wird in der Alten Welt aus Hanf hergestellt.(Jakobs Leinenweberei wird angepasst)
+- Sails are now made from linen.
+  - Linen is made from hemp in the Old World (Jacob's linen weaving mill is adapted)
 
-- Die bedürfnisse der Bewölkerung werden angepasst.
-  - Bauern brauchen Wolle anstatt Arbeitskleidung.
-  - Handwerker brauchen Arbeitskleidung anstatt Pelzmäntel.
-  - Pelzmäntel sind jetzt ein bedürfnis der Lebensqualität für Handwerker.
-  - Melonen sind jetzt ein bedürfnis der Lebensqualität für Handwerker.
-  - Investoren brauchen jetzt zusätzlich Pelzmäntel.
-  - Maßanzüge sind jetzt ein bedürfnis der Lebensqualität für Investoren.
-  - Artistas brauchen jetzt zusätzlich Kostüme.
+- The needs of the population are adapted.
+  - Farmers need wool instead of work clothes.
+  - Craftsmen need work clothes instead of fur coats.
+  - Fur coats are now a quality of life need for craftsmen.
+  - Melons are now a quality of life need for artisans.
+  - Investors now also need fur coats.
+  - Tailor-made suits are now a quality of life need for investors.
+  - Artistas now need additional costumes.
 
-- Es werden einige Items für Bekleidung angepasst.
+- Some items for clothing will be customised.
 
-  - Webstühle
-    - Beeinflussen nur noch Stoff-Erzeuger, keine Stoff-Verbraucher.
+  - Looms
+    - Now only affects cloth producers, not cloth consumers.
 
-  - Cristobal Taffeta, Zar der Mode:
-    - Erzeugt jetzt nur noch "Maßanzüge" 1/5 zusätzlich.
+  - Cristobal Taffeta, Czar of Fashion:
+    - Now only creates ‘custom suits’ 1/5 extra.
 
-  - Mariana die Meisterstilistin:
-    - Erzeugt jetzt "Arbeitskleidung" 1/5.
-    - Wenn Jakobs "Anzüge" im spiel sind werden sie zusätzlich zur "Arbeitskleidung" erzeugt.
-      - Beide laufen dann mit 1/10.
+  - Mariana the Master Stylist:
+    - Now generates ‘work clothes’ 1/5.
+    - When Jacob's ‘Suits’ are in play, they are generated in addition to ‘Workwear’.
+      - Both then run at 1/10.
 
-  - Modistin:
-    - Wollstoff wird gegen Baumwollstoff getauscht.
+  - Modiste:
+    - Wool cloth is swapped for cotton cloth.
 
-  - Hutmacher:
-    - Es wird +1 "Filz" verbraucht.
-    - Es wird +1 "Melonen erzeugt.
-    - Es wird kein Filz mehr gegen Wolle ausgetauscht.
+  - Hatter:
+    - +1 ‘Felt’ is consumed.
+    - Produce +1 ‘Melons’.
+    - No more felt is exchanged for wool.
 
-  - Lady Jane Smythe, Königin der Haute Couture:
-    - Beinflusst anstatt Kostümhändler jetzt Schneidergeschäft.
-    - Beinflusst zusätzlich Stickerei.
-    - Erzeugt jetzt nur noch "Kostüme" 1/5 zusätzlich.
+  - Lady Jane Smythe, Queen of Haute Couture:
+    - Now influences dressmaker's shop instead of costume shop.
+    - Also influences embroidery.
+    - Now only produces ‘Costumes’ 1/5 additionally.
 
-  - Lily die Modeschöpferin:
-    - Steigert die Produktivität um +40%.
-    - Erzeugt Ponchos jetzt mit 1/5.
-    - Beinflusst zusätzlich Stickerei.
-    - Erzeugt jetzt nur noch "Kostüme" 1/5 zusätzlich.
-    - Reduziert nicht länger die benötige Arbeitskraft.
+  - Lily the Fashion Designer:
+    - Increases productivity by +40%.
+    - Now produces ponchos at 1/5.
+    - Additionally affects embroidery.
+    - Now only creates ‘Costumes’ 1/5 extra.
+    - No longer reduces the required labour force.
 
   - Couturière:
-    - Wollstoff wird gegen Leinen getauscht.
+    - Wool fabric is exchanged for linen.
 
-  - Kostumbildnerin:
-    - Steigert die Produktivität um +30%.
-    - Erzeugt jetzt Baumwollstoff 1/5.
-    - Beeinflusst jetzt zusätzlich das Schneidergeschäft.
-    - Tauscht keinen Baumwollstoff gegen Wolle mehr.
+  - Costume Maker:
+    - Increases productivity by +30%.
+    - Now produces cotton fabric 1/5.
+    - Now also influences the tailoring business.
+    - No longer exchanges cotton fabric for wool.
 
-  - Franke der Modeguru:
-    - Tauscht jetzt "Baumwollstoff" gegen "Wollstoff".
-    - Tauscht jetzt "Felle" gegen "Robbenfelle".
-    - Erzeugt jetzt "Schlafsäcke", "Parkas" und "Pelzmäntel" mit 1/4.
+  - Franke the fashion guru:
+    - Now exchanges ‘cotton fabric’ for ‘woollen fabric’.
+    - Now swaps ‘skins’ for
 
 </details>
 
@@ -566,36 +565,36 @@
 <details><!-- List of Changes-->
 <summary>List of Changes</summary>
 
-- Es gibt jetzt 2 unterschiedliche sorten Kaffee.
-  - "Kaffee (Leichte Röstung)" wird in der Neuen Welt geröstet. Sie wird von der dortigen Bevölkerung verbraucht.
-  - "Kaffee (Dunkle Röstung)" wird in der Alten Welt geröstet. Sie wird von der dortigen und der arktischen Bevölkerung verbraucht.
+- There are now 2 different types of coffee.
+  - ‘Coffee (light roast)’ is roasted in the New World. It is consumed by the local population.
+  - ‘Coffee (Dark Roast)’ is roasted in the Old World. It is consumed by the local and Arctic population.
 
-- Kaffeeröster haben jetzt eine Laufzeit von 120 sekunden. Jeden Zyklus werden aus 4t Kaffeebohnen/Malz + 1 Baumwollstoff/Wollstoff = 4t Kaffee.
+- Coffee roasters now have a running time of 120 seconds. Every cycle, 4 tonnes of coffee beans/malt + 1 cotton cloth/wool = 4 tonnes of coffee.
 
-- Mit **Coffee and Tobacco in Enbesa (Taludas)** wird auch dort aus 4t Kaffeebohnen +1 Leinen = 4t Kaffee. Jedoch die sorte der Neuen Welt.
-  - Die Ältesten verbrauchen Kaffee jetzt als Luxus.
+- With **Coffee and Tobacco in Enbesa (Taludas)**, 4 tonnes of coffee beans +1 linen = 4 tonnes of coffee. However, the New World variety.
+  - The elders now consume coffee as a luxury.
 
-- Es werden einige Items für Kaffee angepasst.
+- Some items are adjusted for coffee.
 
-  - Fernando de Faro, Kaffeeliebhaber:
-    - Beinflusste Häuser geben 5 Einfluss.
-    - Kaffe gibt +10 Einkommen, +10 Zufriedenheit und +2 Einwohner.
-    - Reduziert jetzt den verbrauch von Kaffee um 50%.
-    - Alle änderungen werden nur aktiv wenn Faro einzigartig ist.
+  - Fernando de Faro, coffee lover:
+    - Influenced houses give 5 influence.
+    - Coffee gives +10 income, +10 happiness and +2 population.
+    - Now reduces the consumption of coffee by 50%.
+    - All changes are only active if Faro is unique.
 
-  - Marco de la Mocha, Sommelier des Kaffees:
-    - Anstelle von 1/2 Kaffebohnen erzeugt er jetzt 1/1 des jeweiligen Rösters.
+  - Marco de la Mocha, sommelier of coffee:
+    - Instead of 1/2 coffee beans, he now produces 1/1 of the respective roaster.
 
-  - Cecilia die Kaffeesieurin:
-    - Reduziert jetzt die benötigte Arbeitskraft um -20%.
-    - Sie erzeugt keine Schokolade mehr zusätzlich.
+  - Cecilia the coffee engineer:
+    - Now reduces the required labour by -20%.
+    - She no longer produces additional chocolate.
 
-  - Bohnenmahler:
-    - Reduziert jetzt die benötigte Wartungskosten um -30%.
-    - Tauscht keine Arbeitskraft mehr aus.
+  - Bean Grinder:
+    - Now reduces the required maintenance cost by -30%.
+    - No longer replaces labour.
 
-  - Cola Mola Wola Maschine:
-    - Es wird jetzt 1/5 Limonade anstelle von Kaffee erzeugt.
+  - Cola Mola Wola machine:
+    - Now produces 1/5 lemonade instead of coffee.
 
 </details>
 
@@ -705,7 +704,7 @@
 <summary>List of Changes</summary>
 
 - "Dünger" benötigt jetzt zusätzlich "Pottasche" zur herstellung.
-  - Potasche wird aus Holz in einerm Aschehaus hergestellt.
+  - Potasche wird aus Holz in einem Aschehaus hergestellt.
 
 - Es werden einige Dünger Items angepasst.
 
@@ -738,7 +737,10 @@
 - "Rentierfleisch" heißt jetzt = "Wildfleisch"
 - "Bärenfelle" heißen jetzt = "Exotische Felle"
 
-- <details><!-- Es werden einige Items für die Landwirtschafft angepasst. -->
+- Alle Forstbetriebe benötigen jetzt 80% ihres Radius als freie fläche um mit 100% zu produzieren.
+  - Das kann in bestehnden Spielständen bei Jagdhütten und Köhlereien zu einem abfall ihrer Produktion führen!
+
+- <details><!-- Es werden einige Item für die Forstwirtschafft angepasst. -->
   <summary>Es werden einige Item für die Forstwirtschafft angepasst.</summary>
 
   - <details><!-- Holzfäller / Köhler Items -->
@@ -874,9 +876,14 @@
 
 </details>
 
-## Glas Works
+## <img src="./doc/production_works/icon_glass.png" alt="If you are reading this, there is an error." width="30" />Glas Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Glas" benötigt jetzt zusätzlich "Pottasche" und "Kohle".
+  - Potasche wird aus Holz in einem Aschehaus hergestellt.
+
 - Eine Fortschrittliche Glashütte ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
 - Die Fortschrittliche Glashütte benötigt "Soda" anstelle von "Pottasche"
   - Soda wird aus Salz, Schwefel, Kohle und Kalk hergestellt.
@@ -901,13 +908,18 @@
 
   - Gerhard Fuchs, vom patentierten Augenglas:
     - Stellt keine Taschenuhren mehr zusätzlich her.
-    - Tauscht jetzt Messing gegen Holzfunrier
+    - Tauscht jetzt Messing gegen Holzfunier.
 
   - Optometrist Otto:
     - Stellt kein Glas mehr zusätzlich her.
     - Reduziert die Arbeitskräfte  um -40%.
 
-## Goulash Works
+</details>
+
+## <img src="./doc/production_works/icon_goulash.png" alt="If you are reading this, there is an error." width="30" />Goulash Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Gulasch" benötigt jetzt zusätzlich "Kartoffeln" und "Kräuter" zur Produktion.
 - "Sardinen" (Mod Produkt von Jakob) benötigen jetzt zusätzlich "Kräuter" zur Produktion.
@@ -943,7 +955,12 @@
     - Beinflusst zusätzlich die Fischdosenfabrik (Mod von Jakob)
       - Tauscht Fisch gegen Calamares.
 
-## Helium Works
+</details>
+
+## <img src="./doc/production_works/icon_helium.png" alt="If you are reading this, there is an error." width="30" />Helium Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Helium-Extraktoren werden jetzt auf Öl-Quellen errichtet und nicht mehr auf auf Minenplätzen.
   - Bestehende Extraktoren laufen auf Minenplätzen weiter, aber neue Extraktoren passen nur auf Öl-Quellen.
@@ -952,7 +969,12 @@
 - Kühlschränke verwenden Helium anstelle von Arktis-Gas.
 - Feuerläöscher brauchen jetzt zusätzlich Helium.
 
-## Jewelry Works
+</details>
+
+## <img src="./doc/production_works/icon_jewelry.png" alt="If you are reading this, there is an error." width="30" />Jewelry Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Holzschmuck wird als Luxus Bedürfnis für Bauern, Arbeitern und Handwerkern hinzugefügt.
   - Holzschmuck wird aus Holz hergestellt
@@ -989,15 +1011,20 @@
     - Reduziert die Arbeitskräfte  um -30%.
     - Tauscht keine Golbarren gegen Golderz mehr.
 
-## Metal Works
+</details>
 
-- Eine Fortschrittliches Stahlwerk ist verfügbar (Das selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
+## <img src="./doc/production_works/icon_steel.png" alt="If you are reading this, there is an error." width="30" />Metal Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
+
+- Ein Fortschrittliches Stahlwerk ist verfügbar (Das selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
   - Das normale Stahlwerk nicht mehr von Strom profitieren.
 
-- Eine Fortschrittlicher Hochofen ist verfügbar (Der selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
+- Ein Fortschrittlicher Hochofen ist verfügbar (Der selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
   - Der normale Hochofen nicht mehr von Strom profitieren.
 
-- Das Stahlwerk braucht jetzt Kohle um die Stahlträger zu formen.
+- Das Stahlwerk braucht jetzt Kohle um Stahlträger zu formen.
   - Das Fortschrittliche Stahlwerk braucht hingegen Strom anstatt Kohle.
 
 - Die Konservenfabrik braucht jetzt Stahl anstelle von Eisen für die Produktion.
@@ -1068,17 +1095,40 @@
     - Beeinflusst jetzt zusätzlich alle Schmelzhütten.
     - Reduziert nicht länger die Wartungskosten.
 
-## Mining Works
+</details>
+
+## <img src="./doc/production_works/icon_mineral_desposits.png" alt="If you are reading this, there is an error." width="30" />Mining Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Dynamitlager sind verfügbar. Zu finden sind die im "Materialien" Tab (Bei Brettern, Ziegelsteinen, Fenster, etc)
-  - Dynamitlager können neben Minen und Gruben platziert werden
+  - Dynamitlager können neben Minen und Gruben platziert werden.
   - Dynamitlager verbrauchen Dynamit und lassen Minen und Gruben in der nähe mehr Rohstoffe erzeugen.
 
 - "Quarzgruben" heißen jetzt "Sandwerk".
 
-- Es werden einige Items für den Bergbau angepasst.
+- <details><!-- Es werden einige Items für den Bergbau angepasst. -->
+  <summary>Es werden einige Items für den Bergbau angepasst.</summary>
 
-  - Exkavatoren
+  - Berbauaufzüge
+    - Beeinflussen zusätzlich alle Arktischen Minen.
+
+  - Sprengstoff Items
+    - Beeinflussen zusätzlich alle Arktischen Minen.
+
+  - Bohr-Maschinen
+    - Beeinflussen nicht länger die Bauxitmine.
+    - Beeinflussen nicht länger die Zementmine.
+
+  - Unverwüstliche Gaspumpe
+    - Steigert die Produktivität um +50%.
+    - Reduziert die Explosionswahrscheinlichkeit um -25%.
+    - Stellt jetzt zusätzlich nur noch Helium 1/5 her.
+
+  - <details><!-- Exkavatoren -->
+    <summary>Exkavatoren</summary>
+
     - Erzexkavator:
       - Stellt zusätzlich 1/4 Kohle her.
       - Stellt zusätzlich 1/4 Eisen her.
@@ -1099,23 +1149,11 @@
       - Beeinflussen zusätzlich alle Arktischen Minen.
       - Steigern nicht länger die Produktivität.
       - Können nicht mit anderen Exkavatoren in einer Handelskammer genutzt werden.
+    </details>
 
-  - Berbauaufzüge
-    - Beeinflussen zusätzlich alle Arktischen Minen.
+  - <details><!-- Geologische Spezialisten -->
+    <summary>Geologische Spezialisten</summary>
 
-  - Sprengstoff Items
-    - Beeinflussen zusätzlich alle Arktischen Minen.
-
-  - Bohr-Maschinen
-    - Beeinflussen nicht länger die Bauxitmine.
-    - Beeinflussen nicht länger die Zementmine.
-
-  - Unverwüstliche Gaspumpe
-    - Steigert die Produktivität um +50%.
-    - Reduziert die Explosionswahrscheinlichkeit um -25%.
-    - Stellt jetzt zusätzlich nur noch Helium 1/5 her.
-
-  - Geologische Spezialisten
     - Steven MacLeod, geologischer Landvermesser:
       - Stellt nur noch Kupfer und Zink 1/5 zusätzlich her.
       - Steigert die Arbeitskräfte  um +25%.
@@ -1158,8 +1196,11 @@
       - Beinflusst Alle Salpeterwerke.
       - Beinflusst Alle Sandwerke.
       - Beinflusst Alle Salinen.
+    </details>
 
-  - Minen Spezialisten
+  - <details><!-- Minen Spezialisten -->
+    <summary>Minen Spezialisten</summary>
+
     - Jörg von Malching, Augur des Aurum:
       - Stellt nur noch Golderz 1/30 her.
       - Steigert die Produktivität nur noch um +50%.
@@ -1175,8 +1216,14 @@
       - Steigert die Produktivität nur noch um +30%.
       - Reduziert die Wartungskosten um -30%.
       - Reduziert die Arbeitskrfäte um -30%.
+    </details>
 
-## New World Food Works
+</details>
+
+## <img src="./doc/production_works/icon_fried_bananas.png" alt="If you are reading this, there is an error." width="30" />New World Food Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Die Hacienda- Gewürzfarm hat eine laufzeit von 60 Sekunden.
 
@@ -1239,7 +1286,12 @@
     - Reduziert nicht länger die Wartungskosten.
     - Tauscht keinen Hummer gegen Sanga-Kühe.
 
-## Paper Works
+</details>
+
+## <img src="./doc/production_works/icon_paper.png" alt="If you are reading this, there is an error." width="30" />Paper Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Papiermühlen benötigen jetzt zusätzlich Schwefel für die Produktion.
   - Schwefel kann in Enbesa in Gruben abgebaut werden.
@@ -1250,12 +1302,22 @@
     - Steigert die Wartungskoste um +40%.
     - Steigert die Arbeitskräfte  um +40%.
 
-## Potato Works
+</details>
+
+## <img src="./doc/production_works/icon_potatoes.png" alt="If you are reading this, there is an error." width="30" />Potato Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Kartoffels werden jetzt von Bauern, Arbeiter und Handwerkern verbraucht.
 - Kartoffeln werden jetzt zusätzlich für die Herstellung von Gulasch benötigt.
 
-## Salpetre Works
+</details>
+
+## <img src="./doc/production_works/icon_niter.png" alt="If you are reading this, there is an error." width="30" />Salpetre Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Die Alpakafarm erzeugt jetzt keinen Salpeter mehr wenn sie Strom erhält
   - Es gibt jetzt eine Salpetergrube in der neuen Welt.
@@ -1264,8 +1326,16 @@
   - Schießpulver wird aus Salpeter und Kohle hergestellt.
   - Eine Salpeterhütte wurde als früher Quelle von Salpeter eingefügt.
     - Sie verbraucht Dung, Kalk, Pottasche.
+      - Potasche wird aus Holz in einem Aschehaus hergestellt.
+      - Dung wird von Tierhöfen im umkreis der Salpeterhütte erzeugt.
+      - Kalk ist eine umbennennung von Zement.
 
-## Sausage Works
+</details>
+
+## <img src="./doc/production_works/icon_meat_sausage.png" alt="If you are reading this, there is an error." width="30" />Sausage Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Wurst" benötigt jetzt "Salz" zur Produktion.
   - Es gibt ein alternatives Rezept das zusätzlich Kartoffeln verbraucht.
@@ -1287,38 +1357,48 @@
   - Fleischermeister:
     - Produziert 1/5 Talg.
 
-## Soap Works
+</details>
 
-- "Seife" benötigt jetzt zusätzlich "Pottasche".
-- Eine Fortschrittliche Siederei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-- Die Fortschrittliche Siederei benötigt "Soda" anstelle von "Pottasche"
-  - Soda wird aus Salz, Schwefel, Kohle und Kalk hergestellt.
-    - Schwefel ist ein neues Produkt das mit Schwefelröster die man neben minen baut gewonnen werden kann.
-    - Kalk ist eine namensänderung vom Zement.
-    - Salz kann jetzt in der alten Welt gewonnen werden.
+## <img src="./doc/production_works/icon_soap_2.png" alt="If you are reading this, there is an error." width="30" />Soap Works
 
-- Eine Fortschrittliche Wasenmeisterei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
-- Eine Fortschrittliche Schweinezucht ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
-- Es werden einige Items für Seife angepasst.
+- "Soap" now also requires "Potash".
+- An advanced boiling plant is available (the same as in "Industrial Low Tier Production", only slightly adapted).
+- The advanced boiling plant requires "Soda" instead of "Potash"
+  - Soda ash is made from salt, sulphur, coal and lime.
+    - Sulphur is a new product that can be obtained from sulphur roasters that are built next to mines.
+    - Lime is a name change from cement.
+    - Salt can now be extracted in the old world.
 
-  - Hervé Savonne, Erfinder der Zahnpasta:
-    - Produziert jetzt 1/5 Schmiermittel zusätzlich.
-    - Beinflusst jetzt zusätzlich das Parfümlabor.
-    - Reduziert keine Arbeitskräfte mehr.
+- An advanced Wasenmeisterei is available (the same as in "Industrial Low Tier Production", only slightly adapted).
+- An advanced pig farm is available (the same as in "Industrial Low Tier Production", only slightly customised).
 
-  - Parfümeurin Prunella:
-    - Steigert die Produktivität um +40%.
-    - Produziert jetzt 1/5 Shampoo zusätzlich.
-    - Reduziert die Negative Attraktzivität um -50%
-    - Beinflusst jetzt zusätzlich das Parfümlabor.
+- Some items for soap are customised.
 
-  - Herbalhygieniker:
-    - Reduziert die Wartungskosten um -30%
-    - Reduziert die Arbeitskräfte um -30%
-    - Beinflusst jetzt zusätzlich das Parfümlabor.
+  - Hervé Savonne, inventor of toothpaste:
+    - Now produces an additional 1/5 lubricant.
+    - Now also influences the perfume laboratory.
+    - No longer reduces labour force.
 
-## Sulphur Works
+  - Perfumer Prunella:
+    - Increases productivity by +40%.
+    - Now produces an additional 1/5 shampoo.
+    - Reduces Negative Attractiveness by -50%
+    - Now also influences the Perfume Lab.
+
+  - Herbal Hygienist:
+    - Reduces maintenance costs by -30%
+    - Reduces the labour force by -30%
+    - Now also affects the Perfume Laboratory.
+
+</details>
+
+## <img src="./doc/production_works/icon_ammonia.png" alt="If you are reading this, there is an error." width="30" />Sulphur Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Dynamit braucht zusätzlich Schwefel und Quartzsand zur produktion.
 - Schießpulver braucht zusätzlich Schwefel zur produktion.
@@ -1342,7 +1422,12 @@
   - Verbrennungschemiker:
     - Beinflusst jetzt zusätzlich alle Schwefelröster.
 
-## Tanning Work
+</details>
+
+## <img src="./doc/production_works/icon_nandu_leather.png" alt="If you are reading this, there is an error." width="30" />Tanning Work
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Nanduleder wird zu Leder umbenannt.
   - Eine Gerberei benötigt Häute (Neues Produkt), Salz und Holz für Leder.
@@ -1421,7 +1506,12 @@
     - Steigert die Produktivität um +30%.
     - Reduziert die Arbeitskräfte um -30%.
 
-## Tobacco Works
+</details>
+
+## <img src="./doc/production_works/icon_tobacco.png" alt="If you are reading this, there is an error." width="30" />Tobacco Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Die Tabakplantage hat jetzt eine Laufzeit von 60 sekunden.
 
@@ -1444,7 +1534,12 @@
     - Reduziert die Wartungskosten um -30%.
     - Reduziert keine Arbeitskräfte mehr.
 
-## Tool Works
+</details>
+
+## <img src="./doc/production_works/icon_tools.png" alt="If you are reading this, there is an error." width="30" />Tool Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Die bedürfnisse der Bewölkerung werden angepasst.
   - Werkzeuge sind jetzt ein bedürfnis der Lebensqualität für Bauern.
@@ -1456,7 +1551,12 @@
   - Fortschrittliche Mühle.
   - Fortschrittliche Wasenmeisterei.
 
-## Watch Works
+</details>
+
+## <img src="./doc/production_works/icon_pocket_watch.png" alt="If you are reading this, there is an error." width="30" />Watch Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Taschenuhren verbrauchen jetzt Messing anstatt Goldbarren.
 
@@ -1478,7 +1578,12 @@
     - Reduziert die Arbeitskräfte um -40%.
     - Reduziert keine Wartungskosten mehr.
 
-## Woodworking
+</details>
+
+## <img src="./doc/production_works/icon_wooden_planks.png" alt="If you are reading this, there is an error." width="30" />Woodworking
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Anstelle von Holz verarbeiten viele Betriebe jetzt Bretter.
 - Bretter wurden einigen Produktionen als zusätzlicher Verbauch hinzugefügt.
@@ -1504,3 +1609,5 @@
   - Möbeltischler:
     - Reduziert die Wartungskosten um -30%.
     - Reduziert keine Arbeitskräfte mehr.
+
+</details>
