@@ -219,12 +219,23 @@
 
 </details>
 
-## Biscuit Works
+## <img src="./doc/production_works/icon_cookie.png" alt="If you are reading this, there is an error." width="30" />Biscuit Works
 
-- "Kekse" werden jetzt aus Mehl + Talg + Eier hergestellt
-  - Zusätzlich Zimt, Zitrusfrüchte, Konfitrüe oder Schokolade (Nur jeweils eins hiervon)
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
-## Bread Works
+- "Kekse" werden jetzt aus Mehl + Talg + Eier hergestellt, + zusätzlich 1 der folgenden:
+  - Zitrusfrüchte.
+  - Zimt.
+  - Konfitüre.
+  - Schokolade.
+
+</details>
+
+## <img src="./doc/production_works/icon_bread.png" alt="If you are reading this, there is an error." width="30" />Bread Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Brot" benötigt jetzt "Salz" zur Produktion.
   - Es gibt ein alternatives Rezept das zusätzlich Oliven verbraucht.
@@ -253,7 +264,12 @@
     - Reduziert benötigte Arbeitskräfte um -10%.
     - Reduziert Wartungskosten um -10%.
 
-## Brick Works
+</details>
+
+## <img src="./doc/production_works/icon_bricks.png" alt="If you are reading this, there is an error." width="30" />Brick Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - Eine Industrielle Ziegelei ist verfügbar (Die selbe wie aus "Industrial Low Tier Production", nur etwas angepasst).
   - Die normale Ziegelei kann nicht mehr von Strom profitieren.
@@ -282,7 +298,12 @@
     - Erhöht die Produktivität um +30%.
     - Es werden keine Stahlträger zusätzlich mehr hergestellt.
 
-## Cable Works
+</details>
+
+## <img src="./doc/production_works/icon_electric_cable_3.png" alt="If you are reading this, there is an error." width="30" />Cable Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
 
 - "Stromkabel" können jetzt in der Alten Welt hergestellt werden.
 - "Stromkabel" sind als Baukosten für einige Gebäude hinzugefügt worden worden.
@@ -313,6 +334,8 @@
 
   - Elektriker:
     - Beinflussst jetz die selben Fabriken wie Devi.
+
+</details>
 
 ## Cheese Works
 
