@@ -230,10 +230,10 @@
   - Jam.
   - Chocolate.
 
-- Ein Übergangsbuff ist auf den Fabriken aktiv.
-  - Die Fabriken produzieren ohne die neuen Inputs.
-  - Der Buff läuft nach 60 Minuten aus.
-  - Während seiner laufzeit sollte man seine Wirtschafft auf die änderungen anpassen.
+- A transition buff is active on the factories.
+  - The factories produce without the new inputs.
+  - The buff expires after 60 minutes.
+  - During its duration, you should adapt your economy to the changes.
 
 </details>
 
@@ -245,10 +245,10 @@
 - ‘Bread’ now requires ‘Salt’ to produce.
   - There is an alternative recipe that also uses olives.
 
-- Ein Übergangsbuff ist auf den Fabriken aktiv.
-  - Die Fabriken produzieren ohne die neuen Inputs.
-  - Der Buff läuft nach 60 Minuten aus.
-  - Während seiner laufzeit sollte man seine Wirtschafft auf die änderungen anpassen.
+- A transition buff is active on the factories.
+  - The factories produce without the new inputs.
+  - The buff expires after 60 minutes.
+  - During its duration, you should adapt your economy to the changes.
 
 - An industrial bakery is available (the same as in ‘Industrial Low Tier Production’, only slightly adapted).
   - The normal bakery can no longer benefit from electricity.
@@ -510,10 +510,10 @@
     - Carpets.
     - Chronicles.
 
-- Ein Übergangsbuff ist auf den Fabriken aktiv.
-  - Die Fabriken produzieren ohne die neuen Inputs.
-  - Der Buff läuft nach 60 Minuten aus.
-  - Während seiner laufzeit sollte man seine Wirtschafft auf die änderungen anpassen.
+- A transition buff is active on the factories.
+  - The factories produce without the new inputs.
+  - The buff expires after 60 minutes.
+  - During its duration, you should adapt your economy to the changes.
 
 - Sails are now made from linen.
   - Linen is made from hemp in the Old World (Jacob's linen weaving mill is adapted)
@@ -1406,10 +1406,10 @@
 
 - Seife“ erfordert jetzt auch ‚Pottasche‘.
 
-- Ein Übergangsbuff ist auf den Fabriken aktiv.
-  - Die Fabriken produzieren ohne die neuen Inputs.
-  - Der Buff läuft nach 60 Minuten aus.
-  - Während seiner laufzeit sollte man seine Wirtschafft auf die änderungen anpassen.
+- A transition buff is active on the factories.
+  - The factories produce without the new inputs.
+  - The buff expires after 60 minutes.
+  - During its duration, you should adapt your economy to the changes.
 
 - Eine erweiterte Kochanlage ist verfügbar (dieselbe wie in „Industrial Low Tier Production“, nur leicht angepasst).
 - Die fortgeschrittene Siedeanlage benötigt „Soda“ anstelle von „Pottasche“.
