@@ -1038,6 +1038,165 @@
 
 </details>
 
+## <img src="./doc/production_works/icon_rich_sea_2.png" alt="If you are reading this, there is an error." width="30" />Maritime Works
+
+<details><!-- List of Changes-->
+<summary>List of Changes</summary>
+
+- The palace buff for increased production no longer generates +300% productivity but 3/1 exta goods.
+
+- Some items for the Maritime industry will be customised.
+
+  - Ocean Predators Item Set:
+    - Now only affects fisheries.
+    - provide 1/5 extra goods instead of +10% productivity.
+
+  - Luminaries Item Set:
+    - Now affects all loadingtime buildings and all costal productions.
+    - provide -20% construction time.
+
+  - Teeming Lake Item Set:
+    - Now only affects shipyards.
+    - provide +50% loading time.
+    - provides 1/10 exra goose feathers
+
+  - Northern Saga Item Set:
+    - Dont longer increase attacks.
+    - Now only affects trade ships.
+    - Increase ship speed and loading speed by 20%
+    - Decrease loading weight and trade prices by 20%
+
+  - Eastern Jungle Item Set:
+    - Affects all loading time buildings.
+    - Increase loading speed by 50%.
+    - Change the received goods if New Horizon is activ.
+
+  - Heierlooms of the Gold-Realm Item Set:
+    - Affects all loading time buildings.
+    - Change the received goods.
+
+  - Icebound Item Set:
+    - No longer affects food productions.
+    - Now Affect Wolrd-Class Reever.
+    - Increase ship speed by 20%
+    - Decrease loading weight and maintenance by 20%
+
+  - Sargasso Sea Item Set:
+    - No longer affects visitor piers.
+    - Now Affect Fisheries and Pearl Farm.
+      - Moderate Fisheries produce 1/10 Fish Oil.
+      - New World Pearl farm produce 1/10 Herbs. Algea Instead of Herbs if New Horizons is activ.
+      - Enbesa Lobster Fishery produce 1/10 Pearls.
+      - Horai Fishery produce 1/10 Fish Oil.
+
+  - Battle of Trelawney Item Set:
+    - Now increasse all Damge by 20%, not only aggainst Sailships.
+    - Increase ship speed by 20%
+    - Decrease damge slowdown and maintenance by 20%.
+
+  - New World Huaca Set:
+    - Dont longer provide a special pool for the visitor pier.
+    - Dont longer affect visitor piers.
+    - Now Aaffects all Loadingtime buildings.
+    - Increase loading speed by 50%.
+    - Gain new world goods by passive trades.
+
+  - Thule Relicts Set:
+    - Dont longer affect cultural buildings.
+    - Now Aaffects all Loadingtime buildings.
+    - Increase loading speed by 50%.
+    - Gain arctic goods by passive trades.
+
+  - Captain Moby, Old Dog of the Sea:
+    - Now provides 1/5 sseal skins instead of gold and tallow.
+    - Dont longer affect pearl farm.
+
+  - Veteran Whaler:
+    - Is now Epic.
+    - Increase productivity by 40%
+    - Now poduce 1/5 Whale Oil.
+
+  - Marine Biologist:
+    - New Rare Item for all Fisheries
+    - Increase Productivity by 30%
+    - Decrease workforce by -30%.
+
+  - Mother of Pearls:
+    - Is now Legendary.
+    - Increase productivity by 50%
+    - Provides Pearl Abundance.
+    - No longer affect fisheries.
+    - No longer produce extra tallow.
+
+  - Algologist:
+    - New Epic Item for all Fisheries
+    - Increase Productivity by 40%
+    - produce 1/5 Herbs. Algea Instead of Herbs if New Horizons is activ.
+
+  - Daring Scuba Diver:
+    - Decrease workforce by 20%.
+    - No longer produce extra fish oil.
+
+  - Pedro, Captain of the "Panama":
+    - Now produce also extra 1/6 Lobster.
+
+  - All Shipyard Items:
+    - Airship hangars now belong to shipyard pool.
+    - Airship hangars are affected by reduced construction time.
+
+  - Rohit Bhargava, the Naval Architect:
+    - Reduce workforce and construction costs by 25%
+    - No longer reduce maintenace costs
+
+  - Mr. Swell, the Hydrodynamist:
+    - Reduce workforce and construction costs by 15%
+
+  - Naval Architect:
+    - Reduce workforce and construction costs by 10%
+    - No longer reduce maintenace costs
+
+  - Ship Builder:
+    - Reduce workforce and construction costs by 5%
+    - No longer reduce maintenace costs
+
+  - Harbour Cranes:
+    - Now additional affect loading time buildings.
+    - Now additional increase loading speed.
+
+  - Repair Cranes:
+    - The effect are transferred  to the Harbour Cranes.
+    - Items are removed.
+
+  - Grubby Hands:
+    - No longer increase productiuvity.
+    - produce 1/10 extra good: scrap
+    - Can not be combinated with other Excavators
+
+  - Greedy Mitts:
+    - No longer increase productiuvity.
+    - produce 1/20 extra good: nice scrap
+    - Can not be combinated with other Excavators
+
+  - Sticky Shiny Claws:
+    - No longer increase productiuvity.
+    - produce 1/30 extra good: special scrap
+    - Can not be combinated with other Excavators
+
+  - Hydroelectric Wheel:
+    - Now reduce construction time by 10%.
+    - Can not be combinated with other Generators.
+
+  - Stainless Hydroelectric Wheel:
+    - Now reduce construction time by 15%.
+    - Can not be combinated with other Generators.
+
+  - RacioN8d Super Spinner:
+    - Now reduce construction time by 20%.
+    - DOnt longer increase fire and explosion chance.
+    - Can not be combinated with other Generators.
+
+</details>
+
 ## <img src="./doc/production_works/icon_steel.png" alt="If you are reading this, there is an error." width="30" />Metal Works
 
 <details><!-- List of Changes-->
